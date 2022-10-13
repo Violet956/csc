@@ -1,0 +1,1840 @@
+3749. Java虚拟机(JVM)运行Java代码时，不会进行的操作是（）。
+A.加载代码
+B.校验代码
+C.编译代码
+D.执行代码
+Answer:A
+
+3750. Java程序的并发机制是（）。
+A.多线程
+B.多接口
+C.多平台
+D.多态性
+Answer:A
+
+3751. 在方法内部使用，代表对当前对象自身引用的关键字是（）。
+A.super
+B.This
+C.Super
+D.this
+Answer:D
+
+3753. 下列不属于Swing的构件是（）。
+A.JButton
+B.JLabel
+C.JFrame
+D.JPane
+Answer:D
+
+3754. 对鼠标点击按钮操作进行事件处理的接口是（）。
+A.MouseListener
+B.WindowsListener
+C.ActionListener
+D.KeyListener
+Answer:C
+
+3755. AWT中用来表示颜色的类是（）。
+A.Font
+B.Color
+C.Panel
+D.Dialog
+Answer:B
+
+3756. 下列运算符中，优先级最高的是（）。
+A.++
+B.+
+C.*
+D.>
+Answer:A
+
+3757. 下列运算中属于跳转语句的是（）。
+A.try
+B.catch
+C.finally
+D.break
+Answer:D
+
+3760. 在Java中，若要使用一个包中的类时，首先要求对该包进行导入，其关键字是（）。
+A.import
+B.package
+C.include
+D.packet
+Answer:A
+
+3761. 继承是面向对象编程的一个重要特征，它可降低程序的复杂性并使代码（）。
+A.可读性好
+B.可重用
+C.可跨包访问
+D.运行更安全
+Answer:B
+
+3763. 下列方法中，不属于类String的方法是（）。
+A.toLowerCase ()
+B.valueof ()
+C.charAt ()
+D.append ()
+Answer:D
+
+3764. grid [9][5]描述的是（）。
+A.二维数组
+B.一维数组
+C.五维数组
+D.九维数组
+Answer:A
+
+3767. 使新创建的线程参与运行调度的方法是（）。
+A.run ()
+B.start ()
+C.init ()
+D.resume ()
+Answer:B
+
+3768. Java中的线程模型由三部分组成，与线程模型组成无关的是（）。
+A.虚拟的CPU
+B.程序代码
+C.操作系统的内核状态
+D.数据
+Answer:C
+
+3770. Applet的默认布局管理器是（）。
+A.BorderLayout
+B.FlowLayout
+C.GridLayout
+D.PanelLayout
+Answer:B
+
+3773. 用于设置组件大小的方法是（）。
+A.paint( )
+B.setSize( )
+C.getSize( )
+D.repaint( )
+Answer:B
+
+3774. 点击窗口内的按钮时，产生的事件是（）。
+A.MouseEvent
+B.WindowEvent
+C.ActionEvent
+D.KeyEvent
+Answer:C
+
+3775. AWT中用来表示对话框的类是（）。
+A.Font
+B.Color
+C.Panel
+D.Dialog
+Answer:D
+
+3776. 下列运算符中，优先级最高的是（）。
+A.+=
+B.= =
+C.&&
+D.++
+Answer:D
+
+3777. 下列运算结果为1的是（）。
+A.8>>1
+B.4>>>2
+C.8<<1
+D.4<<<2
+Answer:B
+
+3779. 下列表达式中，类型可以作为int型的是（）。
+A.“abc”+”efg”
+B.“abc”+’efg’
+C.‘a’+’b’
+D.3+”4”
+Answer:C
+
+3781. 如果线程正处于运行状态，则它可能到达的下一个状态是（）。
+A.只有终止状态
+B.只有阻塞状态和终止状态
+C.可运行状态，阻塞状态，终止状态
+D.其他所有状态
+Answer:C
+
+3783. 在一个线程中调用下列方法，不会改变该线程运行状态的是（）。
+A.yield方法
+B.另一个线程的join方法
+C.sleep方法
+D.一个对象的notify方法
+Answer:B
+
+3784. 在关闭浏览器时调用，能够彻底终止Applet并释放该Applet所有资源的方法是（）。
+A.stop( )
+B.destroy( )
+C.paint( )
+D.start( )
+Answer:B
+
+3786. 下列变量名的定义中，符合Java命名约定的是（）。
+A.fieldname
+B.super
+C.int
+D.2$number
+Answer:A
+
+3787. 自定义异常类的父类可以是（）。
+A.Error
+B.VirtuaMachineError
+C.Exception
+D.Thread
+Answer:C
+
+3789. 为使Java程序独立于平台，Java虚拟机把字节码与各个操作系统及硬件（）。
+A.分开
+B.结合
+C.联系
+D.融合
+Answer:A
+
+3790. Java中的基本数据类型int在不同的操作系统平台的字长是（）。
+A.不同的
+B.32位
+C.64位
+D.16位
+Answer:B
+
+3791. String、StingBuffer都是什么类，都不能被继承。（）。
+A.static
+B.abstract
+C.final
+D.private
+Answer:C
+
+3793. 构造方法名必须与什么相同，它没有返回值，用户不能直接调用它，只能通过new调用 （）。
+A.类名
+B.对象名
+C.包名
+D.变量名
+Answer:A
+
+3794. 在多线程并发程序设计中，能够给对象x加锁的语句是（）。
+A.x.wait( )
+B.synchronized(x)
+C.x.notify( )
+D.x.synchronized( )
+Answer:B
+
+3795. Java中类ObjectOutputStream支持对象的写操作，这是一种字节流，它的直接父类是（）。 
+A.Writer
+B.DataOutput
+C.OutputStream
+D.ObjectOutput
+Answer:C
+
+3797. Class类的对象由什么自动生成，隐藏在.class文件中，它在运行时为用户提供信息（）。
+A.Java编译器
+B.Java解释器
+C.Java new 关键字
+D.Java类分解器
+Answer:A
+
+3798. 下列哪个选项是合法的标识符（）。
+A.123
+B._name
+C.class
+D.1first
+Answer:B
+
+3800. 下列的哪个选项可以正确用以表示八进制值8（）。
+A.0x8
+B.0x10
+C.8
+D.10
+Answer:D
+
+3801. 下列的哪个赋值语句是不正确的（）。
+A.float f = 11.1;
+B.double d = 5.3E12;
+C.float d = 3.14f ; 
+D.double f=11.1E10f;
+Answer:A
+
+3802. 下列的哪个赋值语句是正确的（）。
+A.char a=12;
+B.int a=12.0;
+C.int a=12.0f;
+D.int a=（int）12.0;
+Answer:D
+
+3805. 下列哪个修饰符可以使在一个类中定义的成员变量只能被同一包中的类访问（）。
+A.private
+B.无修饰符
+C.public
+D.protected
+Answer:B
+
+3811. 顺序执行下列程序语句后，则b的值是（）。
+String a="Hello";  String b=a.substring（0,2）; 
+A.Hello
+B.hello
+C.Hel
+D.null
+Answer:C
+
+3813. 下列常见的系统定义的异常中，哪个是输入、输出异常（）。
+A.ClassNotFoundException
+B.IOException
+C.FileNotFoundException
+D.UnknownHostException
+Answer:B
+
+3814. 下列哪个不是nio包的新特点（）。
+A.内存映射技术
+B.文件锁定
+C.字符及编码
+D.阻塞I/O
+Answer:D
+
+3816. 下列InputStream类中哪个方法可以用于关闭流（）。
+A.skip（）。
+B.close（）。
+C.mark（）。
+D.reset（）。
+Answer:B
+
+3817. 下列方法中哪个是执行线程的方法（）。
+A.run（）。
+B.start（）。
+C.sleep（）。
+D.suspend（）。
+Answer:A
+
+3819. 下列Java常见事件类中哪个是鼠标事件类（）。
+A.InputEvent
+B.KeyEvent
+C.MouseEvent
+D.WindowEvent
+Answer:C
+
+3820. 在Applet的关键方法中，下列哪个方法是关闭浏览器以释放Applet占用的所有资源（）。
+A.init（）。
+B.start（）。
+C.paint（）。
+D.destroy（）。
+Answer:D
+
+3821. 下列哪个是面向大型企业级用容器管理专用构件的应用平台（）。
+A.J2EE
+B.J2ME
+C.J2SE
+D.J2DE
+Answer:A
+
+3823. 下列特点中不属于Java的是（）。
+A.多线程
+B.多继承
+C.跨平台
+D.动态性
+Answer:B
+
+3824. Java的反汇编命令是（）。
+A.javap
+B.javac
+C.jdb
+D.java
+Answer:A
+
+3825. 下列变量定义中，不合法的是（）。
+A.int $X;
+B.int _123;
+C.int Summer_2010_gross_saIe;
+D.int #dim;
+Answer:D
+
+3826. 下列选项中为单精度数的是（）。
+A.2
+B.5.2
+C.0.2f
+D.023
+Answer:C
+
+3827. 下列关于boolean类型的叙述中，正确的是（）。
+A.可以将boolean类型的数值转换为int类型的数值
+B.可以将boolean类型的数值转换为字符串
+C.可以将boolean类型的数值转换为char类型的数值
+D.不能将boolean类型的数值转换为其他基本数据类型
+Answer:D
+
+3828. 若定义int a=2,b=2,下列表达式中值不为4的是（）。
+A.a*（++b）
+B.a*（b++）
+C.a+b
+D.a*b
+Answer:A
+
+3829. 下列可以获得构件前景色的方法是（）。
+A.getSize（）。
+B.getForeground（）。
+C.getBackground（）。
+D.paint（）。
+Answer:B
+
+3834. 类变量必须带有的修饰符是（）。
+A.static
+B.final
+C.public
+D.volatile
+Answer:A
+
+3835. 下列选项中属于字符串常量的是（）。
+A.'abc'
+B."abc"
+C.[abc]
+D.（abc）
+Answer:B
+
+3836. Java程序默认引用的包是（）。
+A.java.text包
+B.java.awt包
+C.java.lang包
+D.java .util包
+Answer:C
+
+3842. 下列线程状态转换序列，在线程实际运行中可能出现的序列是（）。
+A.新建→运行→阻塞→终止
+B.……运行→阻塞→可运行→终止
+C.……可运行→运行→阻塞→运行……
+D.新建→可运行→运行→阻塞→可运行……
+Answer:D
+
+3844. 下列关于Applet的叙述中，正确的是（）。
+A.Applet不仅可以嵌入到浏览器中运行，还可以独立运行
+B.Applet的主类要定义为Applet类或JApplet类的子类
+C.同一个页面中的Applet之间不能通信
+D.Applet不支持多线程
+Answer:B
+
+3845. 当一个Applet所在的Web页面被其他页面覆盖后，不可能被调用的Applet方法是（）。
+A.destroy()
+B.init()
+C.stop()
+D.start()
+Answer:A
+
+3847. Java中定义常量的保留字是（）。
+A.const
+B.final
+C.finally
+D.native
+Answer:B
+
+3848. 下列有关Java布尔类型的描述中，正确的是（）。
+A.一种基本的数据类型，它的类型名称为boolean
+B.用int表示类型
+C.其值可以赋给int类型的变量
+D.有两个值，1代表真，0代表假
+Answer:A
+
+3849. Java中所有类的父类是（）。
+A.Father
+B.Lang
+C.Exception
+D.Object
+Answer:D
+
+3851. 下列数中为八进制的是（）。
+A.27
+B.0x25
+C.026
+D.028
+Answer:C
+
+3854. 下列包中，包含JOptionPane类的是（）。
+A.javax.swing
+B.java.lang
+C.java.util
+D.java.applet
+Answer:A
+
+3855. 下列选项中，与成员变量共同构成一个类的是（）。
+A.关键字
+B.方法
+C.运算符
+D.表达式
+Answer:B
+
+3857. Java中的抽象类Reader和Writer所处理的流是（）。
+A.图像流
+B.对象流
+C.字节流
+D.字符流
+Answer:D
+
+3858. 下列叙述中，错误的是（）。
+A.内部类的名称与定义它的类的名称可以相同
+B.内部类可用abstract修饰
+C.内部类可作为其他类的成员
+D.内部类可访问它所在类的成员
+Answer:A
+
+3859. 用于在子类中调用被重写父类方法的关键字是（）。
+A.this
+B.super
+C.This
+D.Super
+Answer:B
+
+3861. 下列不属于表达式语句的是（）。
+A.++i;
+B.--j;
+C.b#a;
+D.b*=a;
+Answer:C
+
+3862. 下列为窗口事件的是（）。
+A.MouseEvent
+B.WindowEvent
+C.ActionEvent
+D.KeyEvent
+Answer:B
+
+3864. 下列不属于逻辑运算符的是（）。
+A.!
+B.||
+C.&&
+D.|
+Answer:D
+
+3869. 当一个Applet被加载，后续对Applet生命周期方法的调用中，可能存在的次序是（）。
+A.start(),stop(),destroy()
+B.init(),start(),stop(),start(),stop(),destroy()
+C.start(),init(),stop(),destroy()
+D.init(),start(),destroy()
+Answer:A
+
+3871. 如果应用程序要在Applet上显示输出，则必须重写的方法是（）。
+A.Graphics.drawString()
+B.repaint()
+C.paint()
+D.update()
+Answer:C
+
+3872. 语句"Hello".equals("hello");的正确执行结果是（）。
+A.TRUE
+B.FALSE
+C.0
+D.1
+Answer:B
+
+3873. 下列关于Java 源程序结构的论述中，正确是（）。
+A.一个文件包含的import 语句最多1 个
+B.一个文件包含的public 类最多1 个
+C.一个文件包含的接口定义最多1 个
+D.一个文件包含的类定义最多1 个
+Answer:B
+
+3874. 下列不属于Java 关键字的是（）。
+A.this
+B.super
+C.finally
+D.NULL
+Answer:D
+
+3876. 下列整数的定义中，错误的是（）。
+A.int f=3.14.;
+B.int a=012;
+C.int i=189;
+D.int d-0x123;
+Answer:A
+
+3878. 在下列代码的下划线处应填入的内容是（）。
+public class FirstSample {
+     public static void main(_____ args[]) {
+          System.out.println("你好！");
+     }
+}
+A.staff
+B.double
+C.int
+D.String
+Answer:D
+
+3885. 下列方法被调用后，一定使调用线程改变当前状态的是（）。
+A.notify()
+B.yield()
+C.sleep()
+D.isAlive()
+Answer:C
+
+3890. 下列变量的定义中，错误的是（）。
+A.int x=3;
+B.float f;d;
+C.String s="Hello!"
+D.boolean b=true;
+Answer:B
+
+3891. 下列代码的执行结果是（）。
+int length = "Hello".length();
+System.out.println(length);
+A.5
+B.2
+C.10
+D.6
+Answer:A
+
+3893. 若变量a 是String 类型的数据，那么表达式(a+a)的类型是（）。
+A.char
+B.String
+C.int
+D.long
+Answer:B
+
+3894. Component 类中用于刷新组件的方法是（）。
+A.getFont
+B.getName
+C.update
+D.paint
+Answer:C
+
+3895. 鼠标在窗口中移动时，产生的事件是（）。
+A.ActionEvent
+B.PrintEvent
+C.KeyEvent
+D.MouseEvent
+Answer:D
+
+3896. 接口中的成员变量被隐含地声明为（）。
+A.public static final
+B.public final
+C.public static
+D.public abstract
+Answer:A
+
+3897. 处理按钮点击事件的类需要实现哪个接口（）。
+A.FocusListener
+B.ActionListener
+C.WindowListener
+D.ItemListener
+Answer:B
+
+3899. 抛出异常，使用关键字（）。
+A.try
+B.throw
+C.finally
+D.catch
+Answer:B
+
+3901. Java 中char类型的数据长度为（）。
+A.8位
+B.16位
+C.32位
+D.64位
+Answer:B
+
+3902. Java 编译输出文件的后缀是（）。
+A..exe
+B..java
+C..class
+D..obj
+Answer:C
+
+3903. 下面哪个表达式是错误的（）。
+A.int i = 100;
+B.float f = 100.0;
+C.Object o =  “Hello world”;
+D.char c =   ‘\u1234’;
+Answer:B
+
+3904. 引用类型的数据字段的缺省值为（）。
+A.0.0
+B.0
+C.null
+D.false
+Answer:C
+
+3905. 下面哪个表达式可以获取字符串 s 的最后一个字符（）。
+A.s.length() 
+B.s[s.length() - 1]
+C.s.charAt(s.length() - 1)
+D.charAt(s, length(s))
+Answer:C
+
+3906. 成员变量的作用域是（）。
+A.所在的语句块
+B.所在的类
+C.所在的方法
+D.所在的构造函数
+Answer:B
+
+3907. 如果类中的成员只能被子类或同一包中的类访问，那么声明该成员时应使用下面哪个修饰符（）。
+A.private
+B.package
+C.protected
+D.public
+Answer:C
+
+3908. import语句的作用是（）。
+A.导入包中成员
+B.创建包
+C.既可导入包成员，也可创建包
+D.访问控制
+Answer:A
+
+3909. 接口中的成员方法被隐含地声明为（）。
+A.public static final
+B.protected abstact
+C.private
+D.public abstract
+Answer:D
+
+3910. 关于包的描述错误的是（）。
+A.包可以将相关的类和接口组织在一起，便于识别和管理
+B.包中的类可以访问同一包的其它类的私有成员
+C.不同包中的相同命名，不会产生冲突
+D.用public 修饰的顶级类和接口对包外代码可见
+Answer:B
+
+3911. float[] f = new float[10]，则f[0]的值为（）。
+A.0.0
+B.0.0f
+C.null
+D.false
+Answer:B
+
+3912. 下面哪个类不能直接读取磁盘文件（）。
+A.FileReader
+B.RandomAccessFile
+C.FilterReader
+D.FileInputStream
+Answer:C
+
+3913. 如果类中的成员只能被同一包中的类访问，那么声明该成员时应使用下面哪个修饰符（）。
+A.protected
+B.package
+C.public
+D.不使用访问修饰符
+Answer:D
+
+3914. 表达式new StringTokenizer( “Welcome to java”).countTokens()的值是（）。
+A.1
+B.3
+C.13
+D.15
+Answer:B
+
+3915. JPanel 的缺省布局管理器是（）。
+A.BorderLayout
+B.FlowLayout
+C.GridLayout
+D.SpringLayout
+Answer:B
+
+3916. JFrame 的缺省布局管理器是（）。
+A.BorderLayout
+B.FlowLayout
+C.GridLayout
+D.BoxLayout
+Answer:A
+
+3917. 如果 java.awt.Container c 的布局为BorderLayout，则 c.add(new Jbutton())的默认位置参数是（）。
+A.BorderLayout.EAST
+B.BorderLayout.WEST
+C.BorderLayout.CENTER
+D.编译错误
+Answer:C
+
+3918. javax.swing.Timer将按一定频率产生什么事件（）。
+A.ActionEvent
+B.TimerEvent
+C.ItemEvent
+D.InputEvent
+Answer:A
+
+3919. 下面哪种布局方式只影响控件的高度，而不影响宽度（）。
+A.BorderLayout 的WEST 和EAST
+B.BorderLayout 的NORTH 和SOUTH
+C.GridLayout
+D.FlowLayout
+Answer:A
+
+3920. 在JPanel 中绘图应覆盖哪个方法（）。
+A.paint(Graphics g)
+B.paintComponent(Graphics g)
+C.print(Graphics g)
+D.repaint(Rectangle r)
+Answer:B
+
+3921. 下面哪个方法声明要求子类必须提供实现（）。
+A.public double m();
+B.static void m() {}
+C.abstract double m();
+D.protected void m() {}
+Answer:C
+
+3922. this()表示（）。
+A.引用当前对象
+B.调用当前对象
+C.调用当前对象的方法
+D.调用当前对象的构造函数
+Answer:D
+
+3923. 如果X extends Y, 那么（）。
+A.X 是接口，Y 是类
+B.X 是类，Y 是接口
+C.X 和Y 都是类，或者X 和Y 都是接口
+D.X 和Y 是类和接口的任意组合
+Answer:C
+
+3924. 多态应用于（）。
+A.重载
+B.覆盖
+C.实现
+D.组合
+Answer:B
+
+3925. 请问所有的异常类皆继承哪一个类（）。
+A.java.io.Exception
+B.java.lang.Throwable
+C.java.lang.Exception
+D.java.lang.Error
+Answer:B
+
+3926. 当点击鼠标或者拖动鼠标时，触发的事件是下列的哪一个（）。
+A.KeyEvent
+B.ActionEvent
+C.ItemEvent
+D.MouseEvent
+Answer:D
+
+3927. 如果需要从文件中读取数据，则可以在程序中创建哪一个类的对象（）。
+A.FileInputStream
+B.FileOutputStream
+C.DataOutputStream
+D.FileWriter
+Answer:A
+
+3929. 编写和运行Java applet程序与编写和运行Java application程序不同的步骤是（）。
+A.编写源代码
+B.编写HTML文件调用该小程序，以.html为扩展名存入相同文件夹
+C.编译过程
+D.解释执行
+Answer:B
+
+3933. 你使用 HTTPSession接口来跟踪你的servlets中会话数据。为把值加入到此会话对象，你应使用哪个函数（）。
+A.putValue()
+B.addValue()
+C.setValue()
+D.addSession()
+Answer:D
+
+3752. 阅读下列程序，该程序在编译时的结果是（）。
+public class VariableUse{
+   public static void main (String[] args) {
+      int a;
+      if (a==8) {
+        int b=9;
+        System.out.println("a = "+a);
+        System.out.println("b = "+b);
+      }
+      System.out.println("a = "+a);
+      System.out.println("b = "+b);
+   }
+}
+A.变量a未赋值
+B.第二个System.out.println(“b = ”+b)语句中，变量b作用域有错
+C.第二个System.out.println(“a = ”+a)语句中，变量a作用域有错
+D.第一个System.out.println(“b = ”+b)语句中，变量b作用域有错
+Answer:B
+
+3758. 阅读下列利用递归来求n!的程序，为保证程序正确运行，在下划线处应该填入的参数是（）。
+class FactorialTest{
+  static long Factorial (int n) { //定义Factorial ()方法
+    if (n==1)
+      return 1;
+    else
+      return n* Factorial(_____);
+  }
+  public static void main (String a[]) { // main ()方法
+    int n=8;
+    System.out.println{n+"! = "+Factorial (n)};
+  }
+}
+A.n-1
+B.n-2
+C.n
+D.n+1
+Answer:A
+
+3759. 阅读下列代码，该代码运行的结果是（）。
+public class Person{
+  static int arr[ ] = new int[10];
+  public static void main (String[] args) {
+    System.out.println(arr[9]);
+  }
+}
+A.编译时将产生错误
+B.编译时正确，运行时将产生错误
+C.输出0
+D.输出空
+Answer:C
+
+3762. 阅读下列代码片段，在下划线处，应填的正确选项是（）。
+class InterestTest________ActionListener{
+  public void actionPerformed (ActionEvent event) {
+    double interest = balance * rate/100;
+    balance += interest;
+    number Format format =Number Format.getCurrencyInstance ();
+    System.out.printlb{"balance = "+Formatter.format (balance)};
+    }
+    private double rate;
+}
+A.Implementation
+B.Inneritance
+C.implements
+D.extends
+Answer:C
+
+3765. Java类库中，将信息写入内存的类是（）。
+A.java.io.FileOutputStream
+B.java.io.ByteArrayOutputStream
+C.java.io.BufferedOutputStream
+D.java.io.DataOutputStream
+Answer:C
+
+3766. 阅读下列Java语句，在下划线处，应填的正确选项是（）。
+ObjectOutputStream out
+  new ObjectOutputStream {new_______("employee.dat")};
+A.File
+B.FileWriter
+C.FileOutputStream
+D.OutputStream
+Answer:C
+
+3769. 向Applet传递参数正确的描述是（）。
+A.<param name=age, value=20>
+B.<applet code=*.class width=100, height=100>
+<param nace=age  value=20></applet>
+C.<name=age, value=20>
+D.<applet code=Try.class name=age,value=20>
+Answer:B
+
+3771. 阅读下列代码段，下述代码的编译结果是（）。
+class Test implements Runnable {
+  public int run( ) {
+    int i = 0;
+    while (true) {
+      i++;
+      System.out.println ("i="+i);
+    }
+  }
+}
+A.程序通过编译并且run ()方法可以正常输出递增的i值
+B.程序通过编译，调用run ()方法将不显示任何输出
+C.程序不能通过编译，因为while的循环控制条件不能为“true”
+D.程序不能通过编译，因为run ()方法的返回值类型不是void
+Answer:D
+
+3772. 如果线程调用下列方法，不能保证使该线程停止运行的是（）。
+A.sleep ()
+B.stop ()
+C.yield ()
+D.wait ()
+Answer:C
+
+3778. 下列语句中，可以作为无限循环语句的是（）。
+A.for(;;) {}
+B.for(int i=0; i<10000;i++) {}
+C.while(false) {}
+D.do {} while(false)
+Answer:A
+
+3780. 阅读下列程序 
+public class Test implements Runnable{ 
+　　private int x=0; 
+　　private int y=o; 
+　　boolean flag=true; 
+　　public static void main(string[ ] args) { 
+　　　　Test  r =new Test( ); 
+　　　　Thead t1=new Thead(r); 
+　　　　Thead t2=new Thead(r); 
+　　　　t1.start( ); 
+　　　　t2.start( ); 
+　　} 
+　　public void run(){ 
+　　　　while(flag) { 
+　　　　　　x++; 
+　　　　　　y++; 
+　　　　　　System.out.println("(" +x_ ","+y+")"); 
+　　　　　　if (x>=10) 
+　　　　　　　　flag=false; 
+　　　　} 
+　　} 
+} 
+下列对程序运行结果描述的选项中，正确的是（）。
+A.每行的（x,y）中，可能有;每一对（x,y）值都出现两次。
+B.每行的（x,y）中，可能有;每一对（x,y）值仅出现一次。
+C.每行的（x,y）中，可能有x=y;每一对（x,y）值都出现两次。
+D.每行的（x,y）中，可能有x=y;每一对（x,y）值都出现一次。
+Answer:B
+
+3782. 在下列程序的空白处，应填入的正确选项是（）。 
+import java.io.*; 
+public class writeInt{ 
+　　public static void main(string[] a) { 
+　　　　int[ ] myArray = {10,20,30,40}; 
+　　　　try{ 
+　　　　　　DataOutputSystem dos= new DataOutputSystem（new FileOutputSystem("ints.dat")）; 
+　　　　　　for（int i=0;i<myArray.length;i++） 
+　　 　　　　　dos.writeInt（myArray[i]）; 
+            dos. ______
+　　　　　　System.out.println ("Have written binary file ints.dat"); 
+　　　　} catch(IOException ioe){    
+　　　　　　System.out.println("IO Exception"); 
+　　　　} 
+　　} 
+} 
+A.start( )
+B.close( )
+C.read( )
+D.write( )
+Answer:B
+
+3785. 为了将HelloApplet(主类名为HelloApplet.class)嵌入在greeting.html文件中，应该在下列greeting.html文件的横线处填入的代码是（）。 
+　　<HTML> 
+　　<HEAD> 
+　　<TITLE> Greetings </TITLE> 
+　　</HEAD> 
+　　<BODY> 
+　　<APPLET ______> 
+　　</APPLET> 
+　　</BODY> 
+　　</HTML> 
+A.HelloApplet.class
+B.CODE=”HelloApplet.class”
+C.CODE=”HelloApplet.class” WIDTH=150 HEIGHT=25
+D.CODE=”HelloApplet.class” WIDTH=HEIGHT=10
+Answer:C
+
+3788. 阅读下列程序片段，如果sayHello( )方法正常运行，则test( )方法的运行结果将是（）。
+public void test(){ 
+　　try{ 
+　　　　sayHello(); 
+　　　　System.out.println("Hello"); 
+　　}catch (ArrayIndexOutOfBoundException e) { 
+　　　　System.out.println("ArrayIndexOutOfBoundException"); 
+　　}catch(Exception e){ 
+　　　　System.out.println("Exception"); 
+　　}finally { 
+　　　　System.out.println("Finally"); 
+　　} 
+} 
+A.Hello
+B.ArrayIndexOutOfBondsException
+C.Exception 　　Finally
+D.Hello 　Finally
+Answer:D
+
+3792. 下列程序的功能是统计字符串中"array"的个数，在程序的空白处应填入的正确选项是（）。 
+public class FindKeyWords{ 
+　　public static void main(sring[] args){ 
+　　　　String text= 
+　　　　" An array is a data structur that stores a collection of" 
+　　　　+ "values of the same type . You access each individual value" 
+　　　　+ "through an integer index . For example,if a is an array" 
+　　　　+ "of inergers, then a[i] is the ith integer in the array."; 
+　　　　int arrayCount =0; 
+　　　　int idex = -1; 
+　　　　String arrarStr ="array"; 
+　　　　index = text.indexof(arrayStr); 
+　　　　while(index ______ 0) { 
+　　　　　　++arrayCount; 
+　　　　　　index += arrayStr.length(); 
+　　　　　　index = text.indexof(arrayStr,index); 
+　　　　} 
+　　　　System.out.println("the text contains" + arrayCount + "arrays"); 
+　　} 
+} 
+A.<
+B.=
+C.<=
+D.>=
+Answer:D
+
+3796. 在下列程序的空白处，应填入的正确选项是（）。 
+import java.io.*; 
+pulilc class ObjectStreamTest{ 
+　　publilc static void main(string args[]) throws IOException{ 
+　　　　ObjectOutputStream oos= new ObjectOutputStream (new FileOutputStream("serial.bin")); 
+　　　　java.util.Date d= new Java.util.Date(); 
+　　　　oos. ______ (d); 
+　　　　ObjectInputStream ois= new ObjectInputStream(new FileOutputStream("serial.bin")); 
+　　　　try{ 
+　　　　　　java.util.date restoredDate = (java.util.Date) ois.readObject(); 
+　　　　　　System.out.println ("read object back from serial.bin file:" + restoredDate); 
+　　　　}catch (ClassNotFoundException  cnf) { 
+　　　　　　System.out.println ("class not found"); 
+　　　　} 
+　　}
+｝
+A.WriterObject
+B.Writer
+C.BufferedWriter
+D.writeObject
+Answer:D
+
+3799. 下列哪个选项是Java调试器，如果编译器返回程序代码的错误，可以用它对程序进行调试（）。
+A.java.exe
+B.javadoc.exe
+C.jdb.exe
+D.javaprof.exe
+Answer:C
+
+3803. 给出下列的代码，哪行在编译时可能会有错误（）。    
+  ① public void modify（）。
+{ ② int i, j, k;
+  ③ i = 100;
+  ④ while （ i > 0 ）
+{ ⑤ j = i * 2;
+  ⑥ System.out.println （" The value of j is " + j ）;
+  ⑦ k = k + 1;
+  ⑧ }
+  ⑨ } 
+A.line 4
+B.line 6
+C.line 7
+D.line 8
+Answer:C
+
+3804. 下列关于继承的哪项叙述是正确的（）。
+A.在java中允许多重继承
+B.在java中一个类只能实现一个接口
+C.在java中一个类不能同时继承一个类和实现一个接口
+D.java的单一继承使代码更可靠
+Answer:D
+
+3806. 给出下列代码，如何使成员变量m 被方法fun直接访问（）。  
+class Test  {  private int m;  public static void fun（）。  {  ...  }  }
+A.将private int m 改为protected int m
+B.将private int m 改为 public int m
+C.将private int m 改为 static int m
+D.将private int m 改为 int m
+Answer:C
+
+3807. 已知有下列类的说明，则下列哪个语句是正确的（）。 
+public class Test
+{  private float f = 1.0f;  int m = 12;  static int n=1;
+   public static void main（String arg［］）
+   {  Test t = new Test（）。;  }  
+}
+A.t.f;
+B.this.n;
+C.Test.m;
+D.Test.f;
+Answer:A
+
+3808. 给出下列代码，则数组初始化中哪项是不正确的（）。  
+byte［］ array1,array2［］;  
+byte array3［］［］;  
+byte［］［］ array4;
+A.array2 = array1
+B.array2=array3
+C.array2=array4
+D.array3=array4
+Answer:A
+
+3809. 下列代码的执行结果是（）。
+public class Test
+{  public int aMethod（）。
+  {  static int i=0;  i++;  System.out.println（i）;  }
+  public static void main（String args［］）
+  {  Test test = new Test（）。;  test.aMethod（）。;  }  
+}
+A.编译错误
+B.0
+C.1
+D.运行成功，但不输出
+Answer:A
+
+3810. 下列关于内部类的说法不正确的是（）。
+A.内部类的类名只能在定义它的类或程序段中或在表达式内部匿名使用
+B.内部类可以使用它所在类的静态成员变量和实例成员变量
+C.内部类不可以用abstract修饰符定义为抽象类
+D.内部类可作为其他类的成员，而且可访问它所在类的成员
+Answer:C
+
+3812. 在oneMethod方法运行正常的情况下，程序段将输出什么（）。
+public void test（）。{
+　　try{
+　　　　oneMethod（）。;
+　　　　System.out.println（"condition 1"）;  
+　　}catch（ArrayIndexOutOfBoundsException e）{  
+　　　　System.out.println（"condition 2"）;  
+　　}catch（Exception e）{  
+　　　　System.out.println（"condition 3"）;  
+　　}finally{  
+　　　　System.out.println（"finally"）;  
+　　}  
+}
+A.condition 1
+B.condition 2
+C.condition 3
+D.condition 1  finally
+Answer:D
+
+3815. 下列哪个选项是正确计算42度（角度）的余弦值（）。
+A.double d=Math.cos（42）;
+B.double d=Math.cosine（42）;
+C.double d=Math.cos（Math.toRadians（42））;
+D.double d=Math.cos（Math.toDegrees（42））;
+Answer:C
+
+3818. 下列关于Frame类的说法不正确的是（）。
+A.Frame是Window类的直接子类
+B.Frame对象显示的效果是一个窗口
+C.Frame被默认初始化为可见
+D.Frame的默认布局管理器为BorderLayout
+Answer:C
+
+3822. 下列哪个选项的java源文件代码片段是不正确的（）。
+A.package testpackage;   
+public class Test{ }
+B.import java.io.*;   
+package testpackage;   
+public class Test{ }
+C.import java.io.*;   
+class Person{ }   
+public class Test{ }
+D.import java.io.*;   
+import java.awt.*;   
+public class Test{ }
+Answer:B
+
+3830. 下列程序的运行结果是（）。
+public class test{
+　　private String[] data={"10","10.5"};
+　　public void fun（）。{
+　　　　double s=0;
+　　　　for（int i=0;i<3;i++）{
+　　　　　　try{
+　　　　　　　　s=s+Integer .parseInt（data[i]）;
+　　　　　　}catch（Exception e{
+　　　　　　　　System.out.print（"errorl:"+data[i]）;
+　　　　　　}
+　　　　}
+　　}
+　　public static void main（String[]args）{
+　　　　try{
+　　　　　　test d=new test（）。;
+　　　　　　d .fun（）。;
+　　　　}catch（Exception e）{
+　　　　　　System.out.println（"error2"）;
+　　　　}
+　　}
+}
+A.errorl:10.5
+B.error2
+C.errorl:10.5 error2
+D.以上都不对
+Answer:C
+
+3831. 下列程序片段中，能通过编译的是（）。
+A.public abstract class Animal{
+　　public void speak（）。;}
+B.public abstract class Animal{
+　　public void speak（）。{}}
+C.public class Animal{
+　　public abstract void speak（）。;}
+D.public abstract class Animal{
+　　public abstract void speak（）。{}}
+Answer:B
+
+3832. 下列不属于接口WindowListener的方法是（）。
+A.windowClosing（）。
+B.windowClosed（）。
+C.windowMinimized（）。
+D.windowopened（）。
+Answer:C
+
+3833. 下列选项中，不能输出100个整数的是（）。
+A.for（int i=0;i<100;i++）
+　   　System.out.println（i）;
+B.int i=0;
+　   　do{
+　   　System.out.println（i）;
+　   　i++;
+　   　}while（i<100）;
+C.int i=0;
+　   　while（i<100）{
+　   　System.out.printIn（i）;
+　   　i++;
+　   　}
+D.int i=0;
+　   　while（i<100）{
+　   　i++;
+　   　if（i<100）continue;
+　　   System .out.println（i）;
+　   　}
+Answer:D
+
+3837. 为使下列代码正常运行，应该在下划线处填入的选项是（）。
+　　ObjectInputStream in=new_____（new FileInputStream（"employee . dat"））;
+　　Employee[] newStaff=（Employee[]）in.readObject（）。;
+　　in .cIose（）。;
+A.Reader
+B.InputStream
+C.ObjectInput
+D.ObjectInputStream
+Answer:D
+
+3838. 下列代码将对象写入的设备是（）。
+　　ByteArrayOutputStream bout=new ByteArrayOutputStream（）。;
+　　ObjectOutputStream out=new ObjectoutputStream（bout）;
+　　out.writeObject（this）;
+　　out .close（）。;
+A.内存
+B.硬盘
+C.屏幕
+D.网络
+Answer:A
+
+3839. 为使下列代码正常运行，应该在下划线处填入的选项是（）。
+　　int[] numbers=new int[n];
+　　for（int i=0;i<numbers.____;i++）
+　　　　numbers[i]=i+1; 
+A.size
+B.length
+C.dimension
+D.measurement
+Answer:B
+
+3840. 为使下列代码正常运行，应该在下划线处填入的选项是（）。
+　　abstract class Person{
+　　　　public Person（String n）{
+　　　　　　name=n;
+　　　　}
+　　　　public____String getDescription（）。;
+　　　　public String getName（）。{
+　　　　　　return name;
+　　　　}
+　　　　private String name;
+　　}
+A.static
+B.private
+C.abstract
+D.final
+Answer: C
+
+3841. 下列能够正确创建线程的方法是（）。
+　　I.继承java.lang.Thread类，并重写run（）。方法
+　　II.继承java.lang.Runnable类，并重写start（）。方法
+　　III.实现java.lang.Thread接口，并实现run（）。方法
+　　IV.实现java.lang.Runnable接口，并实现run（）。方法
+A.I，III
+B.II，IV
+C.II，III
+D.I，IV
+Answer:D
+
+3843. 对下列程序的叙述中，正确的是（）。
+　　1:public class X extends Thread implements Runnable{
+　　2:　　public void run（）。{
+　　3:　　　　System.out.println（"this is run（）。"）;
+　　4:　　}
+　　5:　　public static void main（String args[]）{
+　　6:　　　　Thread t=new Thread（new X（）。）;
+　　7:　　　　t.start（）。;
+　　8:　　}
+　　9:} 
+A.第1行会产生编译错误
+B.第6行会产生编译错误
+C.第6行会产生运行错误
+D.程序正常运行
+Answer:D
+
+3846. 要向Applet传递参数，应该在下列drawing.html文件的下划线处填入的选项是（）。
+……
+<applet code=DrawImage.class width=100 height=100>
+______
+</applet>
+……
+A.<param image,"flower.gif">
+B.<param image value= flower .gif>
+C.<param name= image value="flower .gif">
+D.<param name="image" value="flower.gif">
+Answer:D
+
+3850. 下列程序段的输出结果是（）。
+　　int data=0;
+　　char k='a',p='f';
+　　data=p-k;
+　　system.out.println(data); 
+A.0
+B.a
+C.f
+D.5
+Answer:D
+
+3852. 下列方法中，不属于Throwable类的方法是（）。
+A.printMessage
+B.getMessage
+C.toString
+D.fillStackTrace
+Answer:A
+
+3853. 下列程序的输出结果是（）。
+public class Test{
+　　public static void main(String[] args){
+　　　　int [] array={2,4,6,8,10};
+　　　　int size=6;
+　　　　int result=-1;
+　　　　try{
+　　　　　　for(int i=0;i<size && result==-1;i++)
+　　　　　　　　if(array[i]==20) result=i;
+　　　　}catch(ArithmeticException e){
+　　　　　　System.out.println("Catch---1");
+　　　　}catch(ArrayIndexOutOfBoundsException e){
+　　　　　　System.out.println("Catch---2");
+　　　　}catch(Exception e){
+　　　　　　System.out.println("Catch---3");
+　　　　}
+　　}
+}
+A.Catch---1
+B.Catch---2
+C.Catch---3
+D.以上都不对
+Answer:B
+
+3856. 下列程序的功能是将一个整数数组写入二进制文件。在程序的下划线处应填入的选项是（）。
+import java.io.*;
+public class XieShuzu{
+　　public static void main(String[] a){
+　　　　int [] myArray={10,20,30,40};
+　　　　try{
+　　　　　　DataOutputStream dos=new DataOutputStream(new FileOutputStream("ints.dat"));
+　　　　　　for(int i=0;i<myArray.length;i++){
+　　　　　　　　dos. _____(myArray[i]);
+　　　　　　dos.close();
+　　　　　　System.out.println("已经将整数数组写入二进制文件（）。ints.dat");
+　　　　}catch(IOException ioe){
+　　　　　　System.out.println("IO Exception");
+　　　　}
+　　}
+} 
+A.writeArray
+B.writeByte
+C.writeInt
+D.writeDouble
+Answer:C
+
+3860. 下列Java语句从指定网址读取html文件，在下划线处应填上的选项是（）。 
+　　Reader in=new____(new URL(urlString).openStrream());
+A.Reader
+B.DataOutputStream
+C.ByteArrayInputStream
+D.InputStreamReader
+Answer:D
+
+3863. 用鼠标点击菜单项(MenuItem)产生的事件是（）。
+A.MenuEvent
+B.ActionEvent
+C.KeyEvent
+D.MouseEvent
+Answer:B
+
+3865. 当使用SomeThread t=new SomeThread()创建一个线程时，下列叙述中正确的是（）。
+A.SomeThread类是包含run()方法的任意java类
+B.SomeThread类一定要实现Runnable接口
+C.SomeThread类是Thread类的子类
+D.SomeThread类是Thread类的子类并且要实现Runnable接口
+Answer:C
+
+3866. 在程序的下划线处应填入的选项是（）。
+public class Test_____{
+　　public static void main(String args[]){
+　　　　Test t = new Test();
+　　　　Thread tt = new Thread(t);
+　　　　tt.start();
+　　}
+　　public void run(){
+　　　　for(int i=0;i<5;i++){
+　　　　　　System.out.println("i="+i);
+　　　　}
+　　}
+}
+A.implements Runnable
+B.extends Thread
+C.implements Thread
+D.extends Runnable
+Answer:A
+
+3867. 为了支持压栈线程与弹栈线程之间的交互与同步，在程序的下划线处依次填入的语句是（）。 
+public class IntStack{
+　　private int idx=0;
+　　private int[] data=new int[8];
+　　public ______ void push(int i){
+　　  data[idx]=i;
+　　  idx++;
+　　  _____
+　　}
+　　......
+} 
+A.synchronized()
+notify()
+B.synchronized()
+this.wait()
+C.synchronized()
+this.notify()
+D.synchronized()
+sleep()
+Answer:C
+
+3868. 如果线程正处于阻塞状态，不能够使线程直接进入可运行状态的情况是（）。
+A.sleep()方法的时间到
+B.获得了对象的锁
+C.线程在调用t.join()方法后，线程t结束
+D.wait()方法结束
+Answer:C
+
+3870. 在HTML文件的<applet>标志中作为可选属性的是（）。
+A.Applet主类的文件名
+B.Applet显示区域的宽度
+C.Applet主类的路径
+D.Applet显示区域的高度
+Answer:C
+
+3875. 下列代码的执行结果是（）。
+public class Test {
+     public static void main(String[] args) {
+          int[] x={0,1,2,3};
+          for(int i=0;i<3;i+=2){
+               try{
+                    System.out.println(x[i+2]/x[i]+x[i+1]);
+               }catch(ArithmeticException e){
+                    System.out.println("error1");
+               }catch(Exception e){
+                    System.out.println("error2");
+               }
+          }
+     }
+}
+A.error1
+B.error2
+C.error1
+error2
+D.2
+error2
+Answer:C
+
+3877. 要得到某目录下的所有文件名，在下列代码的下划线处应填入的内容是，两个下划线的内容相同（）。
+_____ pathname = new _____(args[0]);
+String[] filename = pathname.list();
+A.FileInputStream
+B.FileOutputStream
+C.File
+D.RandomAccessFile
+Answer:C
+
+3879. Object 类中的方法public int hashCode(),在其子类覆盖该方法时，其方法修饰符可以是（）。
+A.protected
+B.public
+C.private
+D.缺省
+Answer:B
+
+3880. 下面代码中的内部类名是（）。
+import java.awt*;
+import javax.swing.*;
+class TalkingClock {
+public static void main(int interval,final boolean beep) {
+     ActionListener listener = new ActionListener(){
+          public void actionPerformed(ActionEvent event){
+               ............
+          }
+     }
+     Timer t = new Timer(interval,listener);
+          t.start();
+     }
+}
+A.Timer
+B.ActionListener
+C.listener
+D.匿名
+Answer:D
+
+3881. 已知zipname 是一个压缩文件名，则zipname 在下列代码中出现的正确位置是（）。
+ZipInPutStream zin =new ZipInPutStream(new FileInPutStream(①));
+ZipEnatry entry;
+While((entry = zin.getNextEntry(②))!=null{
+     fileCombo.addItem(entry.getName(③));
+     zin.closeEntry(④);
+}
+Zin.close();
+A.①
+B.②
+C.③
+D.④
+Answer:A
+
+3882. 下列代码的执行结果是（）。
+int numbers[]=new int[6];
+for(int i=1;i<numbers.length;i++){
+     numbers[i] = i-1;
+     System.out.print(numbers[i]+" ");
+}
+A.0 1 2 3 4 5
+B.1 2 3 4 5 6
+C.0 1 2 3 4
+D.1 2 3 4 5
+Answer:C
+
+3883. Java API 中支持线程的类或接口是（）。
+Ⅰ.java.lang.Thread Ⅱ.java.lang.Runnable
+Ⅲ.java.lang.ThreadGroup Ⅳ.java.io.Serializable
+A.Ⅰ,Ⅱ
+B.Ⅰ,Ⅱ,Ⅲ
+C.Ⅰ,Ⅱ,Ⅳ
+D.Ⅰ,Ⅱ,Ⅲ,Ⅳ
+Answer:D
+
+3884. 下列关于Test 类的定义中，正确的是（）。
+A.class Test implements Runnable {
+public void run(){}
+public void someMethod(){}
+}
+B.class Test implements Runnable {
+public void run();
+}
+C.class Test implements Runnable {
+public void someMethod();
+}
+D.class Test implements Runnable {
+public void someMethod(){}
+}
+Answer:A
+
+3886. 在堆栈类SharedStack 的定义中，为了保证堆栈在并发操作中数据的正确性，应在下划线处填入的修饰符是，两个下划线的填写内容相同（）。
+public class SharedStack {
+int idx=0;
+char[] data= new char[10];
+_____ synchronized void push(char c) {.....}
+_____ synchronized void pop(){.....}
+}
+A.public
+B.不使用修饰符
+C.private
+D.protected
+Answer:A
+
+3887. 下列代码编译或执行结果的描述中，正确的是（）。
+class Test{
+     public static void main(String args[]){
+          TestThread pm1 = new TestThread("One");
+          pm1.start();
+          TestThread pm2 = new TestThread("Two");
+          pm2.start();
+     }
+}
+class TestThread extends Thread{
+     private String sTname="";
+     TestThread(String s){
+          sTname = s;
+     }
+     public void run(){
+          for(int i=0;i<2;i++){
+               try {
+                    sleep(1000);
+               } catch (InterruptedException e) {}
+               System.out.println(sTname+" ");
+          }
+     }
+}
+A.不能通过编译，TestThread 类中不能定义变量和构造方法
+B.输出One One Two Two
+C.输出Two One One Two
+D.选项B 或C 都有可能出现
+Answer:D
+
+3888. 下列关于Applet 的叙述中，正确的是（）。
+A.为了使Applet 在浏览器中运行，需要在HTML 文件中嵌入相应的Applet 类
+B.Applet 不能使用从外部接收参数
+C.Applet 不能使用javac 命令进行编译
+D.java Application 与Applet 都必须包含main()方法
+Answer:A
+
+3889. 下列代码的下划线处应填入的方法名是（）。
+import java.applet.*;
+import java.awt.*;
+public class Hello extends Applet {
+     public void _____(Graphics g){
+          g.drawString("How are you!", 10, 10);    
+     }
+}
+A.repaint
+B.println
+C.paint
+D.show
+Answer:C
+
+3892. 下列代码的编译或执行结果是（）。
+public class MyVal {
+     public static void main(String[] args) {
+          MyVal m = new MyVal();
+          m.aMethod();
+     }
+     public void aMethod(){
+          boolean [] b = new Boolean [5];
+          System.out.println(b[0]);
+     }
+}
+A.1
+B.null
+C.0
+D.编译错误
+Answer:D
+
+3898. 已知，那么结果为（）。 
+class A { 
+     public final void m() { 
+           System.out.println(“A.m”); 
+      } 
+} 
+public class B extends A { 
+     public void m() { 
+           System.out.println(“B.m”); 
+           super.m(); 
+      } 
+     public static void main(String [] args) { 
+           new B().m(); 
+      } 
+} 
+A.A.m
+B.B.m
+C.B.m 
+A.m 
+D.编译错误
+Answer:D
+
+3900. 已知，那么结果为（）。
+class Base { 
+       public Base(String s) { 
+              System.out.print(“B”); 
+       } 
+} 
+public class Derived extends Base { 
+       public Derived (String s) { 
+              System.out.print(“D”); 
+       } 
+       public static void main(String [] args) { 
+              new Derived (“C”); 
+       } 
+} 
+A.BD
+B.DB
+C.C
+D.编译错误
+Answer:D
+
+3928. 下面的程序创建了一个文件输出流对象，用来向文件test.txt中输出数据，假设程序当前目录下不存在文件test.txt，编译下面的程序Test.java后，将该程序运行3次，则文件test.txt 的内容是（）。
+import java.io.*;
+public class Test {
+     public static void main(String args[]) {
+          try {
+               String s="ABCDE";
+               byte b[]=s.getBytes();
+               FileOutputStream file=new FileOutputStream("test.txt",true);
+               file.write(b);
+               file.close();
+          }catch(IOException e) {
+               System.out.println(e.toString());
+          }
+     }
+}
+A.ABCABC
+B.ABCDE
+C. Test
+D.ABCDE ABCDE ABCDE
+Answer:D
+
+3930. 下列代码的输出结果是 （）。 
+class   Parent{
+   void printMe() {
+   System.out.println("parent");
+   }
+}；
+class Child extends Parent {
+   void printMe() {
+       System.out.println("child");
+   }
+   void printall() {
+       super.printMe();
+       this.printMe();
+       printMe();
+   }
+}
+public class Test_this {
+public static void main(String args[]) {
+   Child myC=new Child();
+   myC.printall();
+  }
+}
+A.parent，child，child
+B.parent，child，parent
+C.parent，child
+D.编译错误
+Answer:A
+
+3931. 在Servlet程序中，service()方法将完成什么操作（）。
+A.初始化servlet 变量
+B.向服务传递请求
+C.返回引用给PrintWriter 对象
+D.接收客户请求，并处理它们
+Answer:D
+
+3932. ServletConfig 类用作什么（）。
+A.提供关于Servlet 接口的特定于HTTP的实现
+B.提供处理客户请求的方法
+C.存贮启动配置和初始化参数
+D.发送应答给客户
+Answer:C
+
+3934. 以下代码是为运行带别名myservlet 的servlet用的（）。
+import java.io.*; 
+import javax.servlet.*; 
+import javax.servlet.http.*; 
+
+public class Hello extends HttpServlet{ 
+　　public void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException { 
+　　　　res.setContentType(“text/html”); 
+　　　　PrintWriter out = res.getWriter(); 
+　　　　out.println(“<html>”); 
+　　　　System.out.println(“Welcome”); 
+　　　　out.println(“</html>”); 
+　　} 
+} 
+当你调用此servlet 时，其输出将是什么（）。
+A.将显示带有文本Welcome的页面
+B.将是一个异常
+C.将没有任何输出
+D.将显示空白页面
+Answer:D
+
+3935. 在使用JavaBean的代码片断中<jsp:getProperty name=“calculator” property=“first”/>与下面的哪行代码是等价的（）。
+A.<%=calculator.getFirst()%>
+B.<%=calculator.setFirst()%>
+C.<%ch06.SimpleCalculator calculator =new ch06.SimpleCalculator() %>
+D.<jsp:setProperty name="calculator" property="*"/>
+Answer:A
+
+3936. 在JavaEE中，给定某Servlet的代码如下，编译运行该文件，以下陈述正确的是（）。
+public class Servlet1 extends HttpServlet{
+　　public void init() throws ServletException{　}
+　　public void service (HttpServletRequest request,HttpServletResponse response)Throws ServletException,IOException{
+　　　　PrintWriter out = response.getWriter();
+　　　　out.println(“Hello World JSP!”);
+　　}
+}
+A.编译该文件时会提示缺少doGet()或者doPost()方法，编译不能够成功通过
+B.编译后，把Servlet1.class放在正确位置，运行该Servlet，在浏览器中会看到输出文字（）。Hello World JSP!
+C.编译后，把Servlet1.class放在正确位置，运行该Servlet，在浏览器中看不到任何输出的文字
+D.编译后，把Servlet1.class放在正确位置，运行该Servlet,在浏览器中会看到运行错误信息
+Answer:A
+
+3937. 下列说法不正确的是（）。
+A.JSP充当MVC模式的视图
+B.Servlet充当MVC模式的模型
+C.Servlet充当MVC模式的控制器
+D.JavaBean充当MVC模式的模型
+Answer:B
+
