@@ -1,61 +1,61 @@
-3135. CÓïÑÔ³ÌĞòµÄ»ù±¾µ¥Î»ÊÇ£¨£©¡£
-A.³ÌĞòĞĞ
-B.Óï¾ä
-C.º¯Êı
-D.×Ö·û
+3135. Cè¯­è¨€ç¨‹åºçš„åŸºæœ¬å•ä½æ˜¯ï¼ˆï¼‰ã€‚
+A.ç¨‹åºè¡Œ
+B.è¯­å¥
+C.å‡½æ•°
+D.å­—ç¬¦
 Answer:C
 
-3136. ÏÂÁĞËµ·¨ÖĞÕıÈ·µÄÊÇ£¨£©¡£
-A.CÓïÑÔ³ÌĞò×ÜÊÇ´ÓµÚÒ»¸ö¶¨ÒåµÄº¯Êı¿ªÊ¼Ö´ĞĞ
-B.ÔÚCÓïÑÔ³ÌĞòÖĞÒªµ÷ÓÃµÄº¯Êı±ØĞëÔÚmain£¨£©º¯ÊıÖĞ¶¨Òå
-C.CÓïÑÔ³ÌĞò×ÜÊÇ´Ómain£¨£©º¯Êı¿ªÊ¼Ö´ĞĞ
-D.CÓïÑÔ³ÌĞòÖĞµÄmain£¨£©º¯Êı±ØĞëÔÚ³ÌĞòµÄ¿ªÊ¼²¿·Ö
+3136. ä¸‹åˆ—è¯´æ³•ä¸­æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.Cè¯­è¨€ç¨‹åºæ€»æ˜¯ä»ç¬¬ä¸€ä¸ªå®šä¹‰çš„å‡½æ•°å¼€å§‹æ‰§è¡Œ
+B.åœ¨Cè¯­è¨€ç¨‹åºä¸­è¦è°ƒç”¨çš„å‡½æ•°å¿…é¡»åœ¨mainï¼ˆï¼‰å‡½æ•°ä¸­å®šä¹‰
+C.Cè¯­è¨€ç¨‹åºæ€»æ˜¯ä»mainï¼ˆï¼‰å‡½æ•°å¼€å§‹æ‰§è¡Œ
+D.Cè¯­è¨€ç¨‹åºä¸­çš„mainï¼ˆï¼‰å‡½æ•°å¿…é¡»åœ¨ç¨‹åºçš„å¼€å§‹éƒ¨åˆ†
 Answer:C
 
-3137. ÉèÓĞÓï¾äint a=3£¬ÔòÖ´ĞĞÓï¾äa+=a-=a*aÒÔºó±äÁ¿aµÄÖµÊÇ£¨£©¡£
+3137. è®¾æœ‰è¯­å¥int a=3ï¼Œåˆ™æ‰§è¡Œè¯­å¥a+=a-=a*aä»¥åå˜é‡açš„å€¼æ˜¯ï¼ˆï¼‰ã€‚
 A.3
 B.0
 C.9
 D.-12
 Answer:D
 
-3138. ÔÚCÓïÑÔÖĞ£¬ÒªÇóÔËËãÊı±ØĞëÊÇÕûÊıµÄÔËËã·ûÊÇ£¨£©¡£
+3138. åœ¨Cè¯­è¨€ä¸­ï¼Œè¦æ±‚è¿ç®—æ•°å¿…é¡»æ˜¯æ•´æ•°çš„è¿ç®—ç¬¦æ˜¯ï¼ˆï¼‰ã€‚
 A.<
 B.%
 C./
 D.>
 Answer:B
 
-3139. CÓïÑÔÖĞ×î¼òµ¥µÄÊı¾İÀàĞÍ°üÀ¨£¨£©¡£
-A.ÕûĞÍ¡¢ÊµĞÍ¡¢Âß¼­ĞÍ
-B.ÕûĞÍ¡¢ÊµĞÍ¡¢×Ö·ûĞÍ
-C.ÕûĞÍ¡¢×Ö·ûĞÍ¡¢Âß¼­ĞÍ
-D.ÕûĞÍ¡¢ÊµĞÍ¡¢Âß¼­ĞÍ¡¢×Ö·ûĞÍ
+3139. Cè¯­è¨€ä¸­æœ€ç®€å•çš„æ•°æ®ç±»å‹åŒ…æ‹¬ï¼ˆï¼‰ã€‚
+A.æ•´å‹ã€å®å‹ã€é€»è¾‘å‹
+B.æ•´å‹ã€å®å‹ã€å­—ç¬¦å‹
+C.æ•´å‹ã€å­—ç¬¦å‹ã€é€»è¾‘å‹
+D.æ•´å‹ã€å®å‹ã€é€»è¾‘å‹ã€å­—ç¬¦å‹
 Answer:B
 
-3140. ÔÚÒ»¸öCÓïÑÔ³ÌĞòÖĞ£¨£©¡£
-A.mainº¯Êı±ØĞë³öÏÖÔÚËùÓĞº¯ÊıÖ®Ç°
-B.mainº¯Êı¿ÉÒÔÔÚÈÎºÎµØ·½³öÏÖ
-C.mainº¯Êı±ØĞë³öÏÖÔÚËùÓĞº¯ÊıÖ®ºó
-D.mainº¯Êı±ØĞë³öÏÖÔÚ¹Ì¶¨Î»ÖÃ
+3140. åœ¨ä¸€ä¸ªCè¯­è¨€ç¨‹åºä¸­ï¼ˆï¼‰ã€‚
+A.mainå‡½æ•°å¿…é¡»å‡ºç°åœ¨æ‰€æœ‰å‡½æ•°ä¹‹å‰
+B.mainå‡½æ•°å¯ä»¥åœ¨ä»»ä½•åœ°æ–¹å‡ºç°
+C.mainå‡½æ•°å¿…é¡»å‡ºç°åœ¨æ‰€æœ‰å‡½æ•°ä¹‹å
+D.mainå‡½æ•°å¿…é¡»å‡ºç°åœ¨å›ºå®šä½ç½®
 Answer:B
 
-3141. ÉèÕıx¡¢y¾ùÎªÕûĞÍ±äÁ¿£¬ÇÒx=10 y=3£¬ÔòÒÔÏÂÓï¾äµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3141. è®¾æ­£xã€yå‡ä¸ºæ•´å‹å˜é‡ï¼Œä¸”x=10 y=3ï¼Œåˆ™ä»¥ä¸‹è¯­å¥çš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 printf("%d,%d\n",x--,--y);
-A.10£¬3
-B.9£¬3
-C.9£¬2
-D.10£¬2
+A.10ï¼Œ3
+B.9ï¼Œ3
+C.9ï¼Œ2
+D.10ï¼Œ2
 Answer:D
 
-3142. ¼Ù¶¨xºÍyÎªdoubleĞÍ£¬Ôò±í´ïÊ½x=2,y=x+3/2µÄÖµÊÇ£¨£©¡£
+3142. å‡å®šxå’Œyä¸ºdoubleå‹ï¼Œåˆ™è¡¨è¾¾å¼x=2,y=x+3/2çš„å€¼æ˜¯ï¼ˆï¼‰ã€‚
 A.3.5
 B.3
 C.2
 D.3.0
 Answer:D
 
-3143. ÏÂÁĞ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3143. ä¸‹åˆ—ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 main()
 { double d=3.2; int x,y;
 x=1.2; y=(x+3.8)/5.0;
@@ -67,57 +67,57 @@ C.0
 D.3.07
 Answer:C
 
-3144. ÈôÓĞÈçÏÂ¶¨Òå±äÁ¿£º
-int k=7£¬x=12£» ÔòÄÜÊ¹ÖµÎª3µÄ±í´ïÊ½ÊÇ
-£¨£©¡£
-A.x%=£¨k%=5£©
-B.x%=£¨k-k%5£©
+3144. è‹¥æœ‰å¦‚ä¸‹å®šä¹‰å˜é‡ï¼š
+int k=7ï¼Œx=12ï¼› åˆ™èƒ½ä½¿å€¼ä¸º3çš„è¡¨è¾¾å¼æ˜¯
+ï¼ˆï¼‰ã€‚
+A.x%=ï¼ˆk%=5ï¼‰
+B.x%=ï¼ˆk-k%5ï¼‰
 C.x%=k-k%5
-D.£¨x%=k£©-£¨k%=5£©
+D.ï¼ˆx%=kï¼‰-ï¼ˆk%=5ï¼‰
 Answer:D
 
-3145. ÉèX£¬Y£¬ZºÍKÊÇintĞÍ±äÁ¿£¬ÔòÖ´ĞĞ±í´ïÊ½£ºX=£¨Y=4£¬Z=16£¬K=32£©
-ºó£¬XµÄÖµÎª£¨£©¡£
+3145. è®¾Xï¼ŒYï¼ŒZå’ŒKæ˜¯intå‹å˜é‡ï¼Œåˆ™æ‰§è¡Œè¡¨è¾¾å¼ï¼šX=ï¼ˆY=4ï¼ŒZ=16ï¼ŒK=32ï¼‰
+åï¼ŒXçš„å€¼ä¸ºï¼ˆï¼‰ã€‚
 A.4
 B.16
 C.32
 D.52
 Answer:C
 
-3146. ±í´ïÊ½¡°0£¿£¨0£¿3£º2£©£º£¨10£¿1£º0£©¡±µÄÖµÎª£¨£©¡£
+3146. è¡¨è¾¾å¼â€œ0ï¼Ÿï¼ˆ0ï¼Ÿ3ï¼š2ï¼‰ï¼šï¼ˆ10ï¼Ÿ1ï¼š0ï¼‰â€çš„å€¼ä¸ºï¼ˆï¼‰ã€‚
 A.3
 B.2
 C.1
 D.0
 Answer:C
 
-3147. ÒÔÏÂ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3147. ä»¥ä¸‹ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 main()
 { int a=4,b=5,c=0,d;
 d=!a&&!b||!c;
 printf("%d\n",d);}
 A.1
 B.0
-C.·Ç0Êı
+C.é0æ•°
 D.-1
 Answer:A
 
-3148. ÉèÊµĞÍ±äÁ¿Îªf1¡¢f2¡¢f3¡¢f4µÄÖµ·Ö±ğÎª4£¬3£¬2£¬1ÕûĞÍ±äÁ¿m1¡¢m2
-µÄÖµÎª1¡£±í´ïÊ½¡°£¨m1=f1>f2£©&amp;&amp;£¨m2=f3<f4£©¡±µÄÖµÊÇ£¨£©¡£
+3148. è®¾å®å‹å˜é‡ä¸ºf1ã€f2ã€f3ã€f4çš„å€¼åˆ†åˆ«ä¸º4ï¼Œ3ï¼Œ2ï¼Œ1æ•´å‹å˜é‡m1ã€m2
+çš„å€¼ä¸º1ã€‚è¡¨è¾¾å¼â€œï¼ˆm1=f1>f2ï¼‰&amp;&amp;ï¼ˆm2=f3<f4ï¼‰â€çš„å€¼æ˜¯ï¼ˆï¼‰ã€‚
 A.0
 B.1
 C.2
-D.³ö´í
+D.å‡ºé”™
 Answer:A
 
-3149. ÓĞÈçÏÂÌõ¼ş±í´ïÊ½£¬Èôa=2¡¢b=4¡¢c=5 ¡¢d=7Ôò±í´ïÊ½µÄÖµÎª£¨£©¡£a > b ? a : c > d ? c : d
+3149. æœ‰å¦‚ä¸‹æ¡ä»¶è¡¨è¾¾å¼ï¼Œè‹¥a=2ã€b=4ã€c=5 ã€d=7åˆ™è¡¨è¾¾å¼çš„å€¼ä¸ºï¼ˆï¼‰ã€‚a > b ? a : c > d ? c : d
 A.2
 B.4
 C.5
 D.7
 Answer:D
 
-3150. ÒÔÏÂ³ÌĞòÊä³ö½á¹ûÊÇ£¨£©¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+3150. ä»¥ä¸‹ç¨‹åºè¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚ã€€ã€€ã€€ã€€ã€€ã€€ã€€
 main()
 { int m=5;
 if(m++>5) printf("%d\n",m);
@@ -129,123 +129,123 @@ C.5
 D.4
 Answer:B
 
-3151. ÉèÓĞ int x=11; Ôò±í´ïÊ½ (x++ * 1/3) µÄÖµÊÇ£¨£©¡£
+3151. è®¾æœ‰ int x=11; åˆ™è¡¨è¾¾å¼ (x++ * 1/3) çš„å€¼æ˜¯ï¼ˆï¼‰ã€‚
 A.3
 B.4
 C.11
 D.12
 Answer:A
 
-3152. ÏÂÁĞifÓï¾äÖĞ£¬²»ÕıÈ·µÄÊÇ£¨£©¡£
+3152. ä¸‹åˆ—ifè¯­å¥ä¸­ï¼Œä¸æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
 A.if(x>y);
 B.if(x==y) x+=y;
 C.if(x!=y) scanf("%d",&amp;x) else x=1;
 D.if(x<y) {x++;y++;}
 Answer:C
 
-3153. ÏÂÁĞ±äÁ¿¶¨ÒåÖĞºÏ·¨µÄÊÇ£¨£©¡£
+3153. ä¸‹åˆ—å˜é‡å®šä¹‰ä¸­åˆæ³•çš„æ˜¯ï¼ˆï¼‰ã€‚
 A.short _a=1-.le-1;
 B.double b=1+5e2.5;
 C.long do=0xfdaL;
 D.float 2_and=1-e-3;
 Answer:A
 
-3154. ÏÂÁĞ±êÊ¶·ûÖĞ²»ºÏ·¨µÄÊÇ£¨£©¡£
+3154. ä¸‹åˆ—æ ‡è¯†ç¬¦ä¸­ä¸åˆæ³•çš„æ˜¯ï¼ˆï¼‰ã€‚
 A.s_name
 B._e
 C.fox
 D.3DS
 Answer:D
 
-3155. ÏÂÁĞ²»ÕıÈ·µÄ×ªÒå×Ö·ûÊÇ£¨£©¡£
+3155. ä¸‹åˆ—ä¸æ­£ç¡®çš„è½¬ä¹‰å­—ç¬¦æ˜¯ï¼ˆï¼‰ã€‚
 A.\\'
 B.\"
 C.074'
 D.\0'
 Answer:C
 
-3156. ÔÚC ÓïÑÔÖĞ£¬ÒıÓÃÊı×éÔªËØÊ±£¬ÆäÊı×éÏÂ±êµÄÊı¾İÀàĞÍÔÊĞíÊÇ£¨£©¡£
-A.ÕûĞÍ³£Á¿
-B.ÕûĞÍ±í´ïÊ½
-C.ÕûĞÍ³£Á¿»òÕûĞÍ±í´ïÊ½
-D.ÈÎºÎÀàĞÍµÄ±í´ïÊ½
+3156. åœ¨C è¯­è¨€ä¸­ï¼Œå¼•ç”¨æ•°ç»„å…ƒç´ æ—¶ï¼Œå…¶æ•°ç»„ä¸‹æ ‡çš„æ•°æ®ç±»å‹å…è®¸æ˜¯ï¼ˆï¼‰ã€‚
+A.æ•´å‹å¸¸é‡
+B.æ•´å‹è¡¨è¾¾å¼
+C.æ•´å‹å¸¸é‡æˆ–æ•´å‹è¡¨è¾¾å¼
+D.ä»»ä½•ç±»å‹çš„è¡¨è¾¾å¼
 Answer:C
 
-3157. CÓïÑÔÖĞ£¬Êı×éÃû´ú±í£¨£©¡£
-A.Êı×éÈ«²¿ÔªËØµÄÖµ
-B.Êı×éÊ×µØÖ·
-C.Êı×éµÚÒ»¸öÔªËØµÄÖµ
-D.Êı×éÔªËØµÄ¸öÊı
+3157. Cè¯­è¨€ä¸­ï¼Œæ•°ç»„åä»£è¡¨ï¼ˆï¼‰ã€‚
+A.æ•°ç»„å…¨éƒ¨å…ƒç´ çš„å€¼
+B.æ•°ç»„é¦–åœ°å€
+C.æ•°ç»„ç¬¬ä¸€ä¸ªå…ƒç´ çš„å€¼
+D.æ•°ç»„å…ƒç´ çš„ä¸ªæ•°
 Answer:B
 
-3158. ÈôÓĞËµÃ÷£ºint a[10];Ôò¶Ôa Êı×éÔªËØµÄÕıÈ·ÒıÓÃÊÇ£¨£©¡£
+3158. è‹¥æœ‰è¯´æ˜ï¼šint a[10];åˆ™å¯¹a æ•°ç»„å…ƒç´ çš„æ­£ç¡®å¼•ç”¨æ˜¯ï¼ˆï¼‰ã€‚
 A.a[10]
 B.a[3.5]
 C.a(5)
 D.a[10-10]
 Answer:D
 
-3159. ÏÂÃæÄÇ¸öÑ¡ÏîÊÇÕıÈ·µÄ£¨£©¡£ £¨Ã¿ĞĞ³ÌĞòÇ°ÃæµÄÊı×Ö±íÊ¾ĞĞºÅ£©
+3159. ä¸‹é¢é‚£ä¸ªé€‰é¡¹æ˜¯æ­£ç¡®çš„ï¼ˆï¼‰ã€‚ ï¼ˆæ¯è¡Œç¨‹åºå‰é¢çš„æ•°å­—è¡¨ç¤ºè¡Œå·ï¼‰
 1 main()
 2 {
 3 float a[3]={0};
 4 int i;
-5 for(i=0;i<3;i++) scanf(¡°%f¡±,&amp;a[i]);
+5 for(i=0;i<3;i++) scanf(â€œ%fâ€,&amp;a[i]);
 6 for(i=1;i<4;i++) a[0]=a[0]+a[i];
-7 printf(¡°%f\n¡±,a[0]);
+7 printf(â€œ%f\nâ€,a[0]);
 8 }
-A.Ã»ÓĞ´íÎó
-B.µÚ3 ĞĞÓĞ´íÎó
-C.µÚ5 ĞĞÓĞ´íÎó
-D.µÚ6 ĞĞÓĞ´íÎó
+A.æ²¡æœ‰é”™è¯¯
+B.ç¬¬3 è¡Œæœ‰é”™è¯¯
+C.ç¬¬5 è¡Œæœ‰é”™è¯¯
+D.ç¬¬6 è¡Œæœ‰é”™è¯¯
 Answer:D
 
-3160. ÒÔÏÂ²»ÕıÈ·µÄÃèÊöÎª£¨£©¡£
-A.²»Í¬º¯ÊıÖĞ¿ÉÒÔÊ¹ÓÃÏàÍ¬Ãû×ÖµÄ±äÁ¿
-B.ĞÎ²ÎÊÇ¾Ö²¿±äÁ¿
-C.Ò»¸öº¯ÊıÄÚ²¿¶¨ÒåµÄ±äÁ¿Ö»ÄÜÔÚ±¾º¯Êı·¶Î§ÄÚÓĞĞ§
-D.ÔÚÒ»¸öÄÚ²¿µÄ¸´ºÏÓï¾äÖĞ¶¨ÒåµÄ±äÁ¿¿ÉÒÔÔÚ±¾º¯Êı·¶Î§ÄÚÓĞĞ§
+3160. ä»¥ä¸‹ä¸æ­£ç¡®çš„æè¿°ä¸ºï¼ˆï¼‰ã€‚
+A.ä¸åŒå‡½æ•°ä¸­å¯ä»¥ä½¿ç”¨ç›¸åŒåå­—çš„å˜é‡
+B.å½¢å‚æ˜¯å±€éƒ¨å˜é‡
+C.ä¸€ä¸ªå‡½æ•°å†…éƒ¨å®šä¹‰çš„å˜é‡åªèƒ½åœ¨æœ¬å‡½æ•°èŒƒå›´å†…æœ‰æ•ˆ
+D.åœ¨ä¸€ä¸ªå†…éƒ¨çš„å¤åˆè¯­å¥ä¸­å®šä¹‰çš„å˜é‡å¯ä»¥åœ¨æœ¬å‡½æ•°èŒƒå›´å†…æœ‰æ•ˆ
 Answer:D
 
-3161. ÒÔÏÂº¯ÊıµÄÀàĞÍÊÇ £¨£©¡£
-fff£¨float x£©
-{ printf (¡°%d\n¡±£¬x*x)£»}
-A.Óë²ÎÊıXµÄÀàĞÍÏàÍ¬
-B.voidĞÍ
-C.intĞÍ
-D.ÎŞ·¨È·¶¨
+3161. ä»¥ä¸‹å‡½æ•°çš„ç±»å‹æ˜¯ ï¼ˆï¼‰ã€‚
+fffï¼ˆfloat xï¼‰
+{ printf (â€œ%d\nâ€ï¼Œx*x)ï¼›}
+A.ä¸å‚æ•°Xçš„ç±»å‹ç›¸åŒ
+B.voidå‹
+C.intå‹
+D.æ— æ³•ç¡®å®š
 Answer:C
 
-3162. ÒÔÏÂº¯Êıµ÷ÓÃÓï¾äÖĞ£¬º¬ÓĞµÄÊµ²Î¸öÊıÊÇ£¨£©¡£
-func(£¨exp1£¬exp2£©£¬£¨exp3£¬exp4£¬exp5£©)£»
+3162. ä»¥ä¸‹å‡½æ•°è°ƒç”¨è¯­å¥ä¸­ï¼Œå«æœ‰çš„å®å‚ä¸ªæ•°æ˜¯ï¼ˆï¼‰ã€‚
+func(ï¼ˆexp1ï¼Œexp2ï¼‰ï¼Œï¼ˆexp3ï¼Œexp4ï¼Œexp5ï¼‰)ï¼›
 A.1
 B.2
 C.4
 D.5
 Answer:B
 
-3163. CÓïÑÔÖĞ£¬ĞÎ²ÎÈ±Ê¡µÄ´æ´¢Àà±ğÊÇ£¨£©¡£
-A.auto£¨×Ô¶¯£©
-B.static£¨¾²Ì¬£©
-C.register£¨¼Ä´æÆ÷£©
-D.extern£¨Íâ²¿£©
+3163. Cè¯­è¨€ä¸­ï¼Œå½¢å‚ç¼ºçœçš„å­˜å‚¨ç±»åˆ«æ˜¯ï¼ˆï¼‰ã€‚
+A.autoï¼ˆè‡ªåŠ¨ï¼‰
+B.staticï¼ˆé™æ€ï¼‰
+C.registerï¼ˆå¯„å­˜å™¨ï¼‰
+D.externï¼ˆå¤–éƒ¨ï¼‰
 Answer:A
 
-3164. ÔÚµ÷ÓÃº¯ÊıÊ±£¬Èç¹ûÊµ²ÎÊÇ¼òµ¥±äÁ¿£¬ËüÓë¶ÔÓ¦ĞÎ²ÎÖ®¼äµÄÊı¾İ´«µİ·½Ê½ÊÇ£¨£©¡£
-A.µØÖ·´«µİ
-B.µ¥ÏòÖµ´«µİ
-C.ÓÉÊµ²Î´«¸øĞÎ²Î£¬ÔÙÓÉĞÎ²Î´«»ØÊµ²Î
-D.´«µİ·½Ê½ÓÉÓÃ»§Ö¸¶¨
+3164. åœ¨è°ƒç”¨å‡½æ•°æ—¶ï¼Œå¦‚æœå®å‚æ˜¯ç®€å•å˜é‡ï¼Œå®ƒä¸å¯¹åº”å½¢å‚ä¹‹é—´çš„æ•°æ®ä¼ é€’æ–¹å¼æ˜¯ï¼ˆï¼‰ã€‚
+A.åœ°å€ä¼ é€’
+B.å•å‘å€¼ä¼ é€’
+C.ç”±å®å‚ä¼ ç»™å½¢å‚ï¼Œå†ç”±å½¢å‚ä¼ å›å®å‚
+D.ä¼ é€’æ–¹å¼ç”±ç”¨æˆ·æŒ‡å®š
 Answer:B
 
-3165. µ±¶¨ÒåÒ»¸ö½á¹¹Ìå±äÁ¿Ê±ÏµÍ³·ÖÅä¸øËüµÄÄÚ´æÊÇ£¨£©¡£
-A.¸÷³ÉÔ±ËùĞèÄÚ´æµÄ×ÜºÍ
-B.±äÁ¿µÚÒ»¸ö³ÉÔ±ËùĞèÄÚ´æÈİÁ¿
-C.³ÉÔ±ÖĞÕ¼ÄÚ´æÁ¿´óÕßËùĞèµÄÈİÁ¿
-D.±äÁ¿×îºóÒ»¸ö³ÉÔ±ËùĞèÄÚ´æÈİÁ¿
+3165. å½“å®šä¹‰ä¸€ä¸ªç»“æ„ä½“å˜é‡æ—¶ç³»ç»Ÿåˆ†é…ç»™å®ƒçš„å†…å­˜æ˜¯ï¼ˆï¼‰ã€‚
+A.å„æˆå‘˜æ‰€éœ€å†…å­˜çš„æ€»å’Œ
+B.å˜é‡ç¬¬ä¸€ä¸ªæˆå‘˜æ‰€éœ€å†…å­˜å®¹é‡
+C.æˆå‘˜ä¸­å å†…å­˜é‡å¤§è€…æ‰€éœ€çš„å®¹é‡
+D.å˜é‡æœ€åä¸€ä¸ªæˆå‘˜æ‰€éœ€å†…å­˜å®¹é‡
 Answer:A
 
-3166. ÒÔÏÂ¶Ô½á¹¹Ìå±äÁ¿stu1ÖĞ³ÉÔ±ageµÄ·Ç·¨ÒıÓÃÊÇ£¨£©¡£
+3166. ä»¥ä¸‹å¯¹ç»“æ„ä½“å˜é‡stu1ä¸­æˆå‘˜ageçš„éæ³•å¼•ç”¨æ˜¯ï¼ˆï¼‰ã€‚
 struct student
 { char name[10];
 int age ;
@@ -256,7 +256,7 @@ C.(*p).age
 D.student.age
 Answer:D
 
-3167. ÏÂÁĞ³ÌĞòÖ´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3167. ä¸‹åˆ—ç¨‹åºæ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 #define MA(x) x*(x-1)
 main()
 { 
@@ -268,67 +268,67 @@ C.10
 D.12
 Answer:B
 
-3168. ÔÚºê¶¨Òå#define PI 3.14159ÖĞ,ÓÃºêÃûPI´úÌæÒ»¸ö£¨£©¡£
-A.³£Á¿
-B.µ¥¾«¶ÈÊı
-C.Ë«¾«¶ÈÊı
-D.×Ö·û´®
+3168. åœ¨å®å®šä¹‰#define PI 3.14159ä¸­,ç”¨å®åPIä»£æ›¿ä¸€ä¸ªï¼ˆï¼‰ã€‚
+A.å¸¸é‡
+B.å•ç²¾åº¦æ•°
+C.åŒç²¾åº¦æ•°
+D.å­—ç¬¦ä¸²
 Answer:D
 
-3169. ÔÚ¡°ÎÄ¼ş°üº¬¡±Ô¤´¦ÀíÓï¾äµÄÊ¹ÓÃĞÎÊ½ÖĞ£¬µ±#includeºóÃæµÄÎÄ¼şÓÃÁË¡°¡±£¨Ë«ÒıºÅ£©
-Ê±£¬Ñ°ÕÒ±»°üº¬ÎÄ¼şµÄ·½Ê½ÊÇ£¨£©¡£
-A.Ö±½Ó°´ÏµÍ³Éè¶¨µÄ±ê×¼·½Ê½ËÑË÷Ä¿Â¼
-B.ÏÈÔÚÔ´³ÌĞòËùÔÚÄ¿Â¼ËÑË÷£¬ÔÙ°´ÏµÍ³Éè¶¨µÄ±ê×¼·½Ê½ËÑË÷
-C.½ö½öËÑË÷Ô´³ÌĞòËùÔÚÄ¿Â¼
-D.½ö½öËÑË÷µ±Ç°Ä¿Â¼
+3169. åœ¨â€œæ–‡ä»¶åŒ…å«â€é¢„å¤„ç†è¯­å¥çš„ä½¿ç”¨å½¢å¼ä¸­ï¼Œå½“#includeåé¢çš„æ–‡ä»¶ç”¨äº†â€œâ€ï¼ˆåŒå¼•å·ï¼‰
+æ—¶ï¼Œå¯»æ‰¾è¢«åŒ…å«æ–‡ä»¶çš„æ–¹å¼æ˜¯ï¼ˆï¼‰ã€‚
+A.ç›´æ¥æŒ‰ç³»ç»Ÿè®¾å®šçš„æ ‡å‡†æ–¹å¼æœç´¢ç›®å½•
+B.å…ˆåœ¨æºç¨‹åºæ‰€åœ¨ç›®å½•æœç´¢ï¼Œå†æŒ‰ç³»ç»Ÿè®¾å®šçš„æ ‡å‡†æ–¹å¼æœç´¢
+C.ä»…ä»…æœç´¢æºç¨‹åºæ‰€åœ¨ç›®å½•
+D.ä»…ä»…æœç´¢å½“å‰ç›®å½•
 Answer:B
 
-3170. ÈôxÎªintĞÍ±äÁ¿£¬ÔòÒÔÏÂº¯ÊıfunµÄÀàĞÍÎª£¨ £©¡£ 
+3170. è‹¥xä¸ºintå‹å˜é‡ï¼Œåˆ™ä»¥ä¸‹å‡½æ•°funçš„ç±»å‹ä¸ºï¼ˆ ï¼‰ã€‚ 
 fun(x) 
-{ printf(¡°%d\n¡±,x);}
-A.·µ»ØÖµÎªvoidÀàĞÍ
-B.ÎŞ·¨È·¶¨·µ»ØÖµ
-C.·µ»ØÖµÎªintÀàĞÍ
-D.ÎŞ·µ»ØÖµ
+{ printf(â€œ%d\nâ€,x);}
+A.è¿”å›å€¼ä¸ºvoidç±»å‹
+B.æ— æ³•ç¡®å®šè¿”å›å€¼
+C.è¿”å›å€¼ä¸ºintç±»å‹
+D.æ— è¿”å›å€¼
 Answer:C
 
-3171. ÒÔÏÂĞğÊöÕıÈ·µÄÊÇ£¨£©¡£
-A.C³ÌĞòÖĞ¸÷º¯ÊıÖ®¼ä¼ÈÔÊĞíÖ±½Óµİ¹éµ÷ÓÃ£¬Ò²ÔÊĞí¼ä½Óµİ¹éµ÷ÓÃ
-B.C³ÌĞòÖĞ¸÷º¯ÊıÖ®¼ä²»ÔÊĞíÖ±½Óµİ¹éµ÷ÓÃ£¬Ò²²»ÔÊĞí¼ä½Óµİ¹éµ÷ÓÃ
-C.C³ÌĞòÖĞ¸÷º¯ÊıÔÊĞíÖ±½Óµİ¹éµ÷ÓÃ,²»ÔÊĞí¼ä½Óµİ¹éµ÷ÓÃ
-D.C³ÌĞòÖĞ¸÷º¯ÊıÖ®¼ä²»ÔÊĞíÖ±½Óµİ¹éµ÷ÓÃ£¬ÔÊĞí¼ä½Óµİ¹éµ÷ÓÃ
+3171. ä»¥ä¸‹å™è¿°æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.Cç¨‹åºä¸­å„å‡½æ•°ä¹‹é—´æ—¢å…è®¸ç›´æ¥é€’å½’è°ƒç”¨ï¼Œä¹Ÿå…è®¸é—´æ¥é€’å½’è°ƒç”¨
+B.Cç¨‹åºä¸­å„å‡½æ•°ä¹‹é—´ä¸å…è®¸ç›´æ¥é€’å½’è°ƒç”¨ï¼Œä¹Ÿä¸å…è®¸é—´æ¥é€’å½’è°ƒç”¨
+C.Cç¨‹åºä¸­å„å‡½æ•°å…è®¸ç›´æ¥é€’å½’è°ƒç”¨,ä¸å…è®¸é—´æ¥é€’å½’è°ƒç”¨
+D.Cç¨‹åºä¸­å„å‡½æ•°ä¹‹é—´ä¸å…è®¸ç›´æ¥é€’å½’è°ƒç”¨ï¼Œå…è®¸é—´æ¥é€’å½’è°ƒç”¨
 Answer:A
 
-3172. ÒÔÏÂĞğÊöÖĞ²»ÕıÈ·µÄÊÇ£¨£©¡£
-A.Ò»¸ö±äÁ¿µÄ×÷ÓÃÓòÍêÈ«È¡¾öÓÚ±äÁ¿¶¨ÒåÓï¾äµÄÎ»ÖÃ
-B.È«¾Ö±äÁ¿¿ÉÒÔÔÚº¯ÊıÒÔÍâµÄÈÎºÎ²¿Î»½øĞĞ¶¨Òå
-C.¾Ö²¿±äÁ¿µÄ¡°Éú´æÆÚ¡±Ö»ÏŞÓÚ±¾´Îº¯Êıµ÷ÓÃ£¬Òò´Ë²»¿ÉÄÜ½«¾Ö²¿±äÁ¿µÄÔËËã½á¹û±£´æÖÁÏÂÒ»´Îµ÷ÓÃ
-D.Ò»¸ö±äÁ¿ËµÃ÷Îªstatic´æ´¢Àà±ğÊÇÎªÓÚÏŞÖÆÆäËü±àÒëµ¥Î»µÄÒıÓÃ
+3172. ä»¥ä¸‹å™è¿°ä¸­ä¸æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.ä¸€ä¸ªå˜é‡çš„ä½œç”¨åŸŸå®Œå…¨å–å†³äºå˜é‡å®šä¹‰è¯­å¥çš„ä½ç½®
+B.å…¨å±€å˜é‡å¯ä»¥åœ¨å‡½æ•°ä»¥å¤–çš„ä»»ä½•éƒ¨ä½è¿›è¡Œå®šä¹‰
+C.å±€éƒ¨å˜é‡çš„â€œç”Ÿå­˜æœŸâ€åªé™äºæœ¬æ¬¡å‡½æ•°è°ƒç”¨ï¼Œå› æ­¤ä¸å¯èƒ½å°†å±€éƒ¨å˜é‡çš„è¿ç®—ç»“æœä¿å­˜è‡³ä¸‹ä¸€æ¬¡è°ƒç”¨
+D.ä¸€ä¸ªå˜é‡è¯´æ˜ä¸ºstaticå­˜å‚¨ç±»åˆ«æ˜¯ä¸ºäºé™åˆ¶å…¶å®ƒç¼–è¯‘å•ä½çš„å¼•ç”¨
 Answer:C
 
-3173. ±íÊ¾¹ØÏµx<=y<=zµÄcÓïÑÔ±í´ïÊ½Îª£¨£©¡£
+3173. è¡¨ç¤ºå…³ç³»x<=y<=zçš„cè¯­è¨€è¡¨è¾¾å¼ä¸ºï¼ˆï¼‰ã€‚
 A.(X<=Y) & & (Y<=Z)
 B.(X<=Y)AND(Y<=Z)
 C.(X<=Y<=Z)
 D.(X<=Y)&(Y<=Z)
 Answer:A
 
-3174. ¼Ù¶¨intÀàĞÍ±äÁ¿Õ¼ÓÃÁ½¸ö×Ö½Ú£¬ÆäÓĞ¶¨Òå£ºint x[10]={0,2,4};£¬ÔòÊı×éxÔÚÄÚ´æÖĞËùÕ¼×Ö½ÚÊıÊÇ£¨£©¡£
+3174. å‡å®šintç±»å‹å˜é‡å ç”¨ä¸¤ä¸ªå­—èŠ‚ï¼Œå…¶æœ‰å®šä¹‰ï¼šint x[10]={0,2,4};ï¼Œåˆ™æ•°ç»„xåœ¨å†…å­˜ä¸­æ‰€å å­—èŠ‚æ•°æ˜¯ï¼ˆï¼‰ã€‚
 A.3
 B.6
 C.10
 D.20
 Answer:D
 
-3175. Çë¶Á³ÌĞòÆ¬¶Î(×Ö·û´®ÄÚÃ»ÓĞ¿Õ¸ñ):
-printf("%d\n",strlen("ATS\n012\1\\"));µÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3175. è¯·è¯»ç¨‹åºç‰‡æ®µ(å­—ç¬¦ä¸²å†…æ²¡æœ‰ç©ºæ ¼):
+printf("%d\n",strlen("ATS\n012\1\\"));çš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.11
 B.10
 C.9
 D.8
 Answer:C
 
-3176. ÈôintÀàĞÍÕ¼Á½¸ö×Ö½Ú£¬ÔòÒÔÏÂÓï¾äÊä³öÎª£¨£©¡£
+3176. è‹¥intç±»å‹å ä¸¤ä¸ªå­—èŠ‚ï¼Œåˆ™ä»¥ä¸‹è¯­å¥è¾“å‡ºä¸ºï¼ˆï¼‰ã€‚
 int k=-1;
 printf("%d,%u\n",k,k);
 A.-1,-1
@@ -337,88 +337,88 @@ C.-1,32768
 D.-1,65535
 Answer:D
 
-3177. CÓïÑÔÖĞÎÄ¼şµÄ´æÈ¡·½Ê½ÊÇ£¨£©¡£
-A.Ë³Ğò´æÈ¡
-B.Ëæ»ú´æÈ¡
-C.Ë³Ğò´æÈ¡£¬Ëæ»ú´æÈ¡¾ù¿É
-D.Ë³Ğò´æÈ¡£¬Ëæ»ú´æÈ¡¾ù²»¿É
+3177. Cè¯­è¨€ä¸­æ–‡ä»¶çš„å­˜å–æ–¹å¼æ˜¯ï¼ˆï¼‰ã€‚
+A.é¡ºåºå­˜å–
+B.éšæœºå­˜å–
+C.é¡ºåºå­˜å–ï¼Œéšæœºå­˜å–å‡å¯
+D.é¡ºåºå­˜å–ï¼Œéšæœºå­˜å–å‡ä¸å¯
 Answer:C
 
-3178. CÓïÑÔÖĞÊı×éÏÂ±êµÄÏÂÏŞÊÇ£¨£©¡£
+3178. Cè¯­è¨€ä¸­æ•°ç»„ä¸‹æ ‡çš„ä¸‹é™æ˜¯ï¼ˆï¼‰ã€‚
 A.1
 B.0
-C.ÊÓ¾ßÌåÇé¿ö¶ø¶¨
-D.ÎŞ¹Ì¶¨ÏÂÏŞ
+C.è§†å…·ä½“æƒ…å†µè€Œå®š
+D.æ— å›ºå®šä¸‹é™
 Answer:B
 
-3179. ±í´ïÊ½:10!=9µÄÖµÊÇ£¨£©¡£
+3179. è¡¨è¾¾å¼:10!=9çš„å€¼æ˜¯ï¼ˆï¼‰ã€‚
 A.ture
-B.·ÇÁãÖµ
+B.éé›¶å€¼
 C.1
 D.0
 Answer:C
 
-3180. ÒÔÏÂ²»ºÏ·¨µÄÓÃ»§±êÊ¶·ûÊÇ()¡£
+3180. ä»¥ä¸‹ä¸åˆæ³•çš„ç”¨æˆ·æ ‡è¯†ç¬¦æ˜¯()ã€‚
 A.j2_KEY
 B.Double
 C.4d
 D._8_
 Answer:C
 
-3181. ÒÔÏÂ²»ºÏ·¨µÄÊıÖµ³£Á¿ÊÇ£¨£©¡£
+3181. ä»¥ä¸‹ä¸åˆæ³•çš„æ•°å€¼å¸¸é‡æ˜¯ï¼ˆï¼‰ã€‚
 A.011
 B.1e1
 C.8.0E0.5
 D.0xabcd
 Answer:C
 
-3182. ÒÔÏÂÄÜÕıÈ·¶¨Òå×Ö·û´®µÄÓï¾äÊÇ£¨£©¡£
-A.char str£Û£İ={"£Ü064"}£»
-B.char str="kx43"£»
-C.char str=""£»
-D.char str£Û£İ="£Ü0"
+3182. ä»¥ä¸‹èƒ½æ­£ç¡®å®šä¹‰å­—ç¬¦ä¸²çš„è¯­å¥æ˜¯ï¼ˆï¼‰ã€‚
+A.char strï¼»ï¼½={"ï¼¼064"}ï¼›
+B.char str="kx43"ï¼›
+C.char str=""ï¼›
+D.char strï¼»ï¼½="ï¼¼0"
 Answer:D
 
-3183. ÒÔÏÂĞğÊö²»ÕıÈ·µÄÊÇ£¨£©¡£
-A.Ò»¸öCÔ´³ÌĞò¿ÉÓÉÒ»¸ö»ò¶à¸öº¯Êı×é³É
-B.Ò»¸öCÔ´³ÌĞò±ØĞë°üº¬Ò»¸ömainº¯Êı
-C.C³ÌĞòµÄ»ù±¾×é³Éµ¥Î»ÊÇº¯Êı
-D.ÔÚC³ÌĞòÖĞ£¬×¢ÊÍËµÃ÷Ö»ÄÜÎ»ÓÚÒ»ÌõÓï¾äµÄºóÃæ
+3183. ä»¥ä¸‹å™è¿°ä¸æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.ä¸€ä¸ªCæºç¨‹åºå¯ç”±ä¸€ä¸ªæˆ–å¤šä¸ªå‡½æ•°ç»„æˆ
+B.ä¸€ä¸ªCæºç¨‹åºå¿…é¡»åŒ…å«ä¸€ä¸ªmainå‡½æ•°
+C.Cç¨‹åºçš„åŸºæœ¬ç»„æˆå•ä½æ˜¯å‡½æ•°
+D.åœ¨Cç¨‹åºä¸­ï¼Œæ³¨é‡Šè¯´æ˜åªèƒ½ä½äºä¸€æ¡è¯­å¥çš„åé¢
 Answer:D
 
-3184. ÔÚCÓïÑÔÖĞ£¬int,charºÍshortÈıÖÖÀàĞÍÊı¾İÔÚÄÚ´æÖĞËùÕ¼ÓÃµÄ×Ö½ÚÊı £¨£©¡£
-A.ÓÉÓÃ»§×Ô¼º¶¨Òå
-B.¾ùÎª2¸ö×Ö½Ú
-C.ÊÇÈÎÒâµÄ
-D.ÓÉËùÓÃ»úÆ÷µÄ»úÆ÷×Ö³¤¾ö¶¨
+3184. åœ¨Cè¯­è¨€ä¸­ï¼Œint,charå’Œshortä¸‰ç§ç±»å‹æ•°æ®åœ¨å†…å­˜ä¸­æ‰€å ç”¨çš„å­—èŠ‚æ•° ï¼ˆï¼‰ã€‚
+A.ç”±ç”¨æˆ·è‡ªå·±å®šä¹‰
+B.å‡ä¸º2ä¸ªå­—èŠ‚
+C.æ˜¯ä»»æ„çš„
+D.ç”±æ‰€ç”¨æœºå™¨çš„æœºå™¨å­—é•¿å†³å®š
 Answer:D
 
-3185. ÒÔÏÂĞğÊöÕıÈ·µÄÊÇ £¨£©¡£
-A.ÔÚC³ÌĞòÖĞ£¬Ã¿ĞĞÖĞÖ»ÄÜĞ´Ò»ÌõÓï¾ä
-B.ÈôaÊÇÊµĞÍ±äÁ¿£¬C³ÌĞòÖĞÔÊĞí¸³Öµa=10£¬Òò´ËÊµĞÍ±äÁ¿ÖĞÔÊĞí´æ·ÅÕûĞÍÊı
-C.C³ÌĞòÖĞ£¬ÎŞÂÛÊÇÕûÊı»¹ÊÇÊµÊı£¬¶¼ÄÜ±»×¼È·ÎŞÎóµØ±íÊ¾
-D.ÔÚC³ÌĞòÖĞ£¬%ÊÇÖ»ÄÜÓÃÓÚÕûÊıÔËËãµÄÔËËã·û
+3185. ä»¥ä¸‹å™è¿°æ­£ç¡®çš„æ˜¯ ï¼ˆï¼‰ã€‚
+A.åœ¨Cç¨‹åºä¸­ï¼Œæ¯è¡Œä¸­åªèƒ½å†™ä¸€æ¡è¯­å¥
+B.è‹¥aæ˜¯å®å‹å˜é‡ï¼ŒCç¨‹åºä¸­å…è®¸èµ‹å€¼a=10ï¼Œå› æ­¤å®å‹å˜é‡ä¸­å…è®¸å­˜æ”¾æ•´å‹æ•°
+C.Cç¨‹åºä¸­ï¼Œæ— è®ºæ˜¯æ•´æ•°è¿˜æ˜¯å®æ•°ï¼Œéƒ½èƒ½è¢«å‡†ç¡®æ— è¯¯åœ°è¡¨ç¤º
+D.åœ¨Cç¨‹åºä¸­ï¼Œ%æ˜¯åªèƒ½ç”¨äºæ•´æ•°è¿ç®—çš„è¿ç®—ç¬¦
 Answer:D
 
-3186. CÓïÑÔÖĞµÄ±êÊ¶·ûÖ»ÄÜÓÉ×ÖÄ¸£¬Êı×ÖºÍÏÂ»®ÏßÈıÖÖ×Ö·û×é³É£¬ÇÒµÚÒ»¸ö×Ö·û£¨£©¡£
-A.±ØĞëÎª×ÖÄ¸
-B.±ØĞëÎªÏÂ»®Ïß
-C.±ØĞëÎª×ÖÄ¸»òÏÂ»®Ïß
-D.¿ÉÒÔÊÇ×ÖÄ¸£¬Êı×ÖºÍÏÂ»®ÏßÖĞÈÎÒ»×Ö·û
+3186. Cè¯­è¨€ä¸­çš„æ ‡è¯†ç¬¦åªèƒ½ç”±å­—æ¯ï¼Œæ•°å­—å’Œä¸‹åˆ’çº¿ä¸‰ç§å­—ç¬¦ç»„æˆï¼Œä¸”ç¬¬ä¸€ä¸ªå­—ç¬¦ï¼ˆï¼‰ã€‚
+A.å¿…é¡»ä¸ºå­—æ¯
+B.å¿…é¡»ä¸ºä¸‹åˆ’çº¿
+C.å¿…é¡»ä¸ºå­—æ¯æˆ–ä¸‹åˆ’çº¿
+D.å¯ä»¥æ˜¯å­—æ¯ï¼Œæ•°å­—å’Œä¸‹åˆ’çº¿ä¸­ä»»ä¸€å­—ç¬¦
 Answer:C
 
-3187. x£¬y£¬z±»¶¨ÒåÎªintĞÍ±äÁ¿£¬Èô´Ó¼üÅÌ¸øx£¬y£¬zÊäÈëÊı¾İ£¬ÕıÈ·µÄÊäÈëÓï¾äÊÇ £¨£©¡£
-A.INPUT x£¬y£¬z;
-B.scanf£¨"%d%d%d",&amp;x,&amp;y,&amp;z£©;
-C.scanf£¨"%d%d%d",x,y,z£©;
-D.read£¨"%d%d%d",&amp;x,&amp;y,&amp;z£©;
+3187. xï¼Œyï¼Œzè¢«å®šä¹‰ä¸ºintå‹å˜é‡ï¼Œè‹¥ä»é”®ç›˜ç»™xï¼Œyï¼Œzè¾“å…¥æ•°æ®ï¼Œæ­£ç¡®çš„è¾“å…¥è¯­å¥æ˜¯ ï¼ˆï¼‰ã€‚
+A.INPUT xï¼Œyï¼Œz;
+B.scanfï¼ˆ"%d%d%d",&amp;x,&amp;y,&amp;zï¼‰;
+C.scanfï¼ˆ"%d%d%d",x,y,zï¼‰;
+D.readï¼ˆ"%d%d%d",&amp;x,&amp;y,&amp;zï¼‰;
 Answer:B
 
-3188. Ö´ĞĞÏÂÁĞ³ÌĞòÊ±ÊäÈë123<¿Õ¸ñ>456<¿Õ¸ñ>789<»Ø³µ> Êä³ö½á¹ûÊÇ £¨£©¡£
-main£¨£©
-{ char s£Û100£İ; int c, i;
-scanf£¨"%c",&amp;c£©; scanf£¨"%d",&amp;i£©; scanf£¨"%s",s£©;
-printf£¨"%c,%d,%s£Ün",c,i,s£©;
+3188. æ‰§è¡Œä¸‹åˆ—ç¨‹åºæ—¶è¾“å…¥123<ç©ºæ ¼>456<ç©ºæ ¼>789<å›è½¦> è¾“å‡ºç»“æœæ˜¯ ï¼ˆï¼‰ã€‚
+mainï¼ˆï¼‰
+{ char sï¼»100ï¼½; int c, i;
+scanfï¼ˆ"%c",&amp;cï¼‰; scanfï¼ˆ"%d",&amp;iï¼‰; scanfï¼ˆ"%s",sï¼‰;
+printfï¼ˆ"%c,%d,%sï¼¼n",c,i,sï¼‰;
 }
 A.123456789
 B.1456789
@@ -426,155 +426,155 @@ C.1,23,456,789
 D.1,23,456
 Answer:D
 
-3189. ÏÂÃæÓĞ¹ØforÑ­»·µÄÕıÈ·ÃèÊöÊÇ £¨£©¡£
-A.forÑ­»·Ö»ÄÜÓÃÓÚÑ­»·´ÎÊıÒÑ¾­È·¶¨µÄÇé¿ö
-B.forÑ­»·ÊÇÏÈÖ´ĞĞÑ­»·ÌåÓï¾ä£¬ºóÅĞ¶Ï±í´ïÊ½
-C.ÔÚforÑ­»·ÖĞ£¬²»ÄÜÓÃbreakÓï¾äÌø³öÑ­»·Ìå
-D.forÑ­»·µÄÑ­»·ÌåÓï¾äÖĞ£¬¿ÉÒÔ°üº¬¶àÌõÓï¾ä£¬µ«±ØĞëÓÃ»¨À¨ºÅÀ¨ÆğÀ´
+3189. ä¸‹é¢æœ‰å…³forå¾ªç¯çš„æ­£ç¡®æè¿°æ˜¯ ï¼ˆï¼‰ã€‚
+A.forå¾ªç¯åªèƒ½ç”¨äºå¾ªç¯æ¬¡æ•°å·²ç»ç¡®å®šçš„æƒ…å†µ
+B.forå¾ªç¯æ˜¯å…ˆæ‰§è¡Œå¾ªç¯ä½“è¯­å¥ï¼Œååˆ¤æ–­è¡¨è¾¾å¼
+C.åœ¨forå¾ªç¯ä¸­ï¼Œä¸èƒ½ç”¨breakè¯­å¥è·³å‡ºå¾ªç¯ä½“
+D.forå¾ªç¯çš„å¾ªç¯ä½“è¯­å¥ä¸­ï¼Œå¯ä»¥åŒ…å«å¤šæ¡è¯­å¥ï¼Œä½†å¿…é¡»ç”¨èŠ±æ‹¬å·æ‹¬èµ·æ¥
 Answer:D
 
-3190. ÈôÒªÇó´Ó¼üÅÌ¶ÁÈëº¬ÓĞ¿Õ¸ñ×Ö·ûµÄ×Ö·û´®£¬Ó¦Ê¹ÓÃº¯Êı£¨£©¡£
+3190. è‹¥è¦æ±‚ä»é”®ç›˜è¯»å…¥å«æœ‰ç©ºæ ¼å­—ç¬¦çš„å­—ç¬¦ä¸²ï¼Œåº”ä½¿ç”¨å‡½æ•°ï¼ˆï¼‰ã€‚
 A.getc()
 B.gets() 
 C.getchar()
 D.scanf()
 Answer:B
 
-3191. ÔÚÒÔÏÂ¸ø³öµÄ±í´ïÊ½ÖĞ£¬Óëwhile(E)ÖĞµÄ(E)²»µÈ¼ÛµÄ±í´ïÊ½ÊÇ£¨£©¡£
+3191. åœ¨ä»¥ä¸‹ç»™å‡ºçš„è¡¨è¾¾å¼ä¸­ï¼Œä¸while(E)ä¸­çš„(E)ä¸ç­‰ä»·çš„è¡¨è¾¾å¼æ˜¯ï¼ˆï¼‰ã€‚
 A.(!E==0)
-B.(E>0¡¬E<0)
+B.(E>0â€–E<0)
 C.(E==0)
 D.(E!=0)
 Answer:C
 
-3192. ÒªÇóÍ¨¹ıwhileÑ­»·²»¶Ï¶ÁÈë×Ö·û£¬µ±¶ÁÈë×ÖÄ¸NÊ±½áÊøÑ­»·¡£Èô±äÁ¿ÒÑÕıÈ·¶¨Òå£¬ÒÔÏÂÕıÈ·µÄ³ÌĞò¶ÎÊÇ£¨£©¡£
-A.while((ch=getchar())!="N")printf("£¥c",ch)£»
-B.while(ch=getchar()!="N")printf("£¥c",ch)£»
-C.while(ch=getchar()=="N")printf("£¥c",ch)£» 
-D.while((ch=getchar())=="N")printf("£¥c",ch)£»
+3192. è¦æ±‚é€šè¿‡whileå¾ªç¯ä¸æ–­è¯»å…¥å­—ç¬¦ï¼Œå½“è¯»å…¥å­—æ¯Næ—¶ç»“æŸå¾ªç¯ã€‚è‹¥å˜é‡å·²æ­£ç¡®å®šä¹‰ï¼Œä»¥ä¸‹æ­£ç¡®çš„ç¨‹åºæ®µæ˜¯ï¼ˆï¼‰ã€‚
+A.while((ch=getchar())!="N")printf("ï¼…c",ch)ï¼›
+B.while(ch=getchar()!="N")printf("ï¼…c",ch)ï¼›
+C.while(ch=getchar()=="N")printf("ï¼…c",ch)ï¼› 
+D.while((ch=getchar())=="N")printf("ï¼…c",ch)ï¼›
 Answer:A
 
-3193. ÒÑ¶¨ÒåÒÔÏÂº¯Êı
+3193. å·²å®šä¹‰ä»¥ä¸‹å‡½æ•°
 int fun(int *p)
-{return *p£»)
-funº¯Êı·µ»ØÖµÊÇ£¨£©¡£
-A.²»È·¶¨µÄÖµ
-B.Ò»¸öÕûÊı  
-C.ĞÎ²ÎPÖĞ´æ·ÅµÄÖµ 
-D.ĞÎ²ÎPµÄµØÖ·Öµ
+{return *pï¼›)
+funå‡½æ•°è¿”å›å€¼æ˜¯ï¼ˆï¼‰ã€‚
+A.ä¸ç¡®å®šçš„å€¼
+B.ä¸€ä¸ªæ•´æ•°  
+C.å½¢å‚Pä¸­å­˜æ”¾çš„å€¼ 
+D.å½¢å‚Pçš„åœ°å€å€¼
 Answer:B
 
-3194. ÈôÓĞËµÃ÷Óï¾ä£ºdouble *p£¬a£»ÔòÄÜÍ¨¹ıscanfÓï¾äÕıÈ·¸øÊäÈëÏî¶ÁÈëÊı¾İµÄ³ÌĞò¶ÎÊÇ£¨£©¡£
-A.*p=a£» 
-scanf("£¥1f"£¬p)£»
-B.*p=a£» 
-scanf("£¥f"£¬p)£»
-C.p=a£» 
-scanf("£¥1f"£¬*p)£»
-D.p=&a£» 
-scanf("£¥1f"£¬p)£»
+3194. è‹¥æœ‰è¯´æ˜è¯­å¥ï¼šdouble *pï¼Œaï¼›åˆ™èƒ½é€šè¿‡scanfè¯­å¥æ­£ç¡®ç»™è¾“å…¥é¡¹è¯»å…¥æ•°æ®çš„ç¨‹åºæ®µæ˜¯ï¼ˆï¼‰ã€‚
+A.*p=aï¼› 
+scanf("ï¼…1f"ï¼Œp)ï¼›
+B.*p=aï¼› 
+scanf("ï¼…f"ï¼Œp)ï¼›
+C.p=aï¼› 
+scanf("ï¼…1f"ï¼Œ*p)ï¼›
+D.p=&aï¼› 
+scanf("ï¼…1f"ï¼Œp)ï¼›
 Answer:D
 
-3195. ÓĞÒÔÏÂ³ÌĞò¶Î
+3195. æœ‰ä»¥ä¸‹ç¨‹åºæ®µ
 struct st 
 {int x;int *y;}*pt;
 int a[]={1,2},b[]={3,4}; 
 struct st c[2]={10,a,20,b};
-pt=c£»
-ÒÔÏÂÑ¡ÏîÖĞ±í´ïÊ½µÄÖµÎª11µÄÊÇ£¨£©¡£
+pt=cï¼›
+ä»¥ä¸‹é€‰é¡¹ä¸­è¡¨è¾¾å¼çš„å€¼ä¸º11çš„æ˜¯ï¼ˆï¼‰ã€‚
 A.*pt->y 
 B.pt->x  
 C.++pt->x  
 D.(pt++)->x
 Answer:C
 
-3196. ÉèfpÎªÖ¸ÏòÄ³¶ş½øÖÆÎÄ¼şµÄÖ¸Õë£¬ÇÒÒÑ¶Áµ½´ËÎÄ¼şÄ©Î²£¬Ôòº¯Êıfeof(fp)µÄ·µ»ØÖµÎª£¨£©¡£
+3196. è®¾fpä¸ºæŒ‡å‘æŸäºŒè¿›åˆ¶æ–‡ä»¶çš„æŒ‡é’ˆï¼Œä¸”å·²è¯»åˆ°æ­¤æ–‡ä»¶æœ«å°¾ï¼Œåˆ™å‡½æ•°feof(fp)çš„è¿”å›å€¼ä¸ºï¼ˆï¼‰ã€‚
 A.EOF
-B.·Ç0Öµ 
+B.é0å€¼ 
 C.0
 D.NULL
 Answer:B
 
-3197. ÉèÓĞÒÔÏÂÓï¾ä
-int a=1£¬b=2£¬c£»
-c=a£Ş(b<<2);
-Ö´ĞĞºó£¬CµÄÖµÎª£¨£©¡£
+3197. è®¾æœ‰ä»¥ä¸‹è¯­å¥
+int a=1ï¼Œb=2ï¼Œcï¼›
+c=aï¼¾(b<<2);
+æ‰§è¡Œåï¼ŒCçš„å€¼ä¸ºï¼ˆï¼‰ã€‚
 A.6
 B.7
 C.8
 D.9
 Answer:D
 
-3198. ÒÔÏÂĞğÊöÖĞ´íÎóµÄÊÇ£¨£©¡£
-A.CÓïÑÔÔ´³ÌĞò¾­±àÒëºóÉú³Éºó×ºÎª.objµÄÄ¿±ê³ÌĞò
-B.C³ÌĞò¾­¹ı±àÒë¡¢Á¬½Ó²½ÖèÖ®ºó²ÅÄÜĞÎ³ÉÒ»¸öÕæÕı¿ÉÖ´ĞĞµÄ¶ş½øÖÆ»úÆ÷Ö¸ÁîÎÄ¼ş
-C.ÓÃCÓïÑÔ±àĞ´µÄ³ÌĞò³ÆÎªÔ´³ÌĞò£¬ËüÒÔASCII´úÂëĞÎÊ½´æ·ÅÔÚÒ»¸öÎÄ±¾ÎÄ¼şÖĞ
-D.CÓïÑÔÖĞµÄÃ¿Ìõ¿ÉÖ´ĞĞÓï¾äºÍ·ÇÖ´ĞĞÓï¾ä×îÖÕ¶¼½«±»×ª»»³É¶ş½øÖÆµÄ»úÆ÷Ö¸Áî
+3198. ä»¥ä¸‹å™è¿°ä¸­é”™è¯¯çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.Cè¯­è¨€æºç¨‹åºç»ç¼–è¯‘åç”Ÿæˆåç¼€ä¸º.objçš„ç›®æ ‡ç¨‹åº
+B.Cç¨‹åºç»è¿‡ç¼–è¯‘ã€è¿æ¥æ­¥éª¤ä¹‹åæ‰èƒ½å½¢æˆä¸€ä¸ªçœŸæ­£å¯æ‰§è¡Œçš„äºŒè¿›åˆ¶æœºå™¨æŒ‡ä»¤æ–‡ä»¶
+C.ç”¨Cè¯­è¨€ç¼–å†™çš„ç¨‹åºç§°ä¸ºæºç¨‹åºï¼Œå®ƒä»¥ASCIIä»£ç å½¢å¼å­˜æ”¾åœ¨ä¸€ä¸ªæ–‡æœ¬æ–‡ä»¶ä¸­
+D.Cè¯­è¨€ä¸­çš„æ¯æ¡å¯æ‰§è¡Œè¯­å¥å’Œéæ‰§è¡Œè¯­å¥æœ€ç»ˆéƒ½å°†è¢«è½¬æ¢æˆäºŒè¿›åˆ¶çš„æœºå™¨æŒ‡ä»¤
 Answer:D
 
-3199. ÉèÓĞÒÔÏÂ¶¨ÒåºÍÓï¾ä
-char str£Û20£İ="Program"£¬*p£»
-p=str£»
-ÔòÒÔÏÂĞğÊöÖĞÕıÈ·µÄÊÇ£¨£©¡£
-A.*pÓëstr£Û0£İµÄÖµÏàµÈ
-B.strÓëpµÄÀàĞÍÍêÈ«ÏàÍ¬
-C.strÊı×é³¤¶ÈºÍpËùÖ¸ÏòµÄ×Ö·û´®³¤¶ÈÏàµÈ
-D.Êı×éstrÖĞ´æ·ÅµÄÄÚÈİºÍÖ¸Õë±äÁ¿pÖĞ´æ·ÅµÄÄÚÈİÏàÍ¬
+3199. è®¾æœ‰ä»¥ä¸‹å®šä¹‰å’Œè¯­å¥
+char strï¼»20ï¼½="Program"ï¼Œ*pï¼›
+p=strï¼›
+åˆ™ä»¥ä¸‹å™è¿°ä¸­æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.*pä¸strï¼»0ï¼½çš„å€¼ç›¸ç­‰
+B.strä¸pçš„ç±»å‹å®Œå…¨ç›¸åŒ
+C.stræ•°ç»„é•¿åº¦å’Œpæ‰€æŒ‡å‘çš„å­—ç¬¦ä¸²é•¿åº¦ç›¸ç­‰
+D.æ•°ç»„strä¸­å­˜æ”¾çš„å†…å®¹å’ŒæŒ‡é’ˆå˜é‡pä¸­å­˜æ”¾çš„å†…å®¹ç›¸åŒ
 Answer:A
 
-3200. ÒÔÏÂĞğÊöÖĞ´íÎóµÄÊÇ£¨£©¡£
-A.C³ÌĞòÖĞµÄ#includeºÍ#defineĞĞ¾ù²»ÊÇCÓï¾ä 
-B.³ı¶ººÅÔËËã·ûÍâ£¬¸³ÖµÔËËã·ûµÄÓÅÏÈ¼¶×îµÍ
-C.C³ÌĞòÖĞ£¬j++£»ÊÇ¸³ÖµÓï¾ä
-D.C³ÌĞòÖĞ£¬+¡¢-¡¢*¡¢£¯¡¢£¥ºÅÊÇËãÊõÔËËã·û£¬¿ÉÓÃÓÚÕûĞÍºÍÊµĞÍÊıµÄÔËËã
+3200. ä»¥ä¸‹å™è¿°ä¸­é”™è¯¯çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.Cç¨‹åºä¸­çš„#includeå’Œ#defineè¡Œå‡ä¸æ˜¯Cè¯­å¥ 
+B.é™¤é€—å·è¿ç®—ç¬¦å¤–ï¼Œèµ‹å€¼è¿ç®—ç¬¦çš„ä¼˜å…ˆçº§æœ€ä½
+C.Cç¨‹åºä¸­ï¼Œj++ï¼›æ˜¯èµ‹å€¼è¯­å¥
+D.Cç¨‹åºä¸­ï¼Œ+ã€-ã€*ã€ï¼ã€ï¼…å·æ˜¯ç®—æœ¯è¿ç®—ç¬¦ï¼Œå¯ç”¨äºæ•´å‹å’Œå®å‹æ•°çš„è¿ç®—
 Answer:D
 
-3201. ÒÔÏÂĞğÊöÖĞÕıÈ·µÄÊÇ£¨£©¡£
-A.Ô¤´¦ÀíÃüÁîĞĞ±ØĞëÎ»ÓÚCÔ´³ÌĞòµÄÆğÊ¼Î»ÖÃ
-B.ÔÚCÓïÑÔÖĞ£¬Ô¤´¦ÀíÃüÁîĞĞ¶¼ÒÔ"#"¿ªÍ·
-C.Ã¿¸öC³ÌĞò±ØĞëÔÚ¿ªÍ·°üº¬Ô¤´¦ÀíÃüÁîĞĞ£º#include<stdio.h>
-D.CÓïÑÔµÄÔ¤´¦Àí²»ÄÜÊµÏÖºê¶¨ÒåºÍÌõ¼ş±àÒëµÄ¹¦ÄÜ
+3201. ä»¥ä¸‹å™è¿°ä¸­æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.é¢„å¤„ç†å‘½ä»¤è¡Œå¿…é¡»ä½äºCæºç¨‹åºçš„èµ·å§‹ä½ç½®
+B.åœ¨Cè¯­è¨€ä¸­ï¼Œé¢„å¤„ç†å‘½ä»¤è¡Œéƒ½ä»¥"#"å¼€å¤´
+C.æ¯ä¸ªCç¨‹åºå¿…é¡»åœ¨å¼€å¤´åŒ…å«é¢„å¤„ç†å‘½ä»¤è¡Œï¼š#include<stdio.h>
+D.Cè¯­è¨€çš„é¢„å¤„ç†ä¸èƒ½å®ç°å®å®šä¹‰å’Œæ¡ä»¶ç¼–è¯‘çš„åŠŸèƒ½
 Answer:B
 
-3202. ÒÔÏÂĞğÊöÖĞ´íÎóµÄÊÇ£¨£©¡£
-A.¿ÉÒÔÍ¨¹ıtypedefÔö¼ÓĞÂµÄÀàĞÍ 
-B.¿ÉÒÔÓÃtypedef½«ÒÑ´æÔÚµÄÀàĞÍÓÃÒ»¸öĞÂµÄÃû×ÖÀ´´ú±í
-C.ÓÃtypedef¶¨ÒåĞÂµÄÀàĞÍÃûºó£¬Ô­ÓĞÀàĞÍÃûÈÔÓĞĞ§
-D.ÓÃtypedef¿ÉÒÔÎª¸÷ÖÖÀàĞÍÆğ±ğÃû£¬µ«²»ÄÜÎª±äÁ¿Æğ±ğÃû
+3202. ä»¥ä¸‹å™è¿°ä¸­é”™è¯¯çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.å¯ä»¥é€šè¿‡typedefå¢åŠ æ–°çš„ç±»å‹ 
+B.å¯ä»¥ç”¨typedefå°†å·²å­˜åœ¨çš„ç±»å‹ç”¨ä¸€ä¸ªæ–°çš„åå­—æ¥ä»£è¡¨
+C.ç”¨typedefå®šä¹‰æ–°çš„ç±»å‹ååï¼ŒåŸæœ‰ç±»å‹åä»æœ‰æ•ˆ
+D.ç”¨typedefå¯ä»¥ä¸ºå„ç§ç±»å‹èµ·åˆ«åï¼Œä½†ä¸èƒ½ä¸ºå˜é‡èµ·åˆ«å
 Answer:A
 
-3203. ÒÔÏÂ¹ØÓÚÂß¼­ÔËËã·ûÁ½²àÔËËã¶ÔÏóµÄĞğÊöÖĞÕıÈ·µÄÊÇ()¡£
-A.Ö»ÄÜÊÇÕûÊı0»ò1
-B.Ö»ÄÜÊÇÕûÊı0»ò·Ç0µÄÕûÊı
-C.¿ÉÒÔÊÇ½á¹¹ÌåÀàĞÍµÄÊı¾İ
-D.¿ÉÊÇÈÎÒâºÏ·¨µÄ±í´ïÊ½
+3203. ä»¥ä¸‹å…³äºé€»è¾‘è¿ç®—ç¬¦ä¸¤ä¾§è¿ç®—å¯¹è±¡çš„å™è¿°ä¸­æ­£ç¡®çš„æ˜¯()ã€‚
+A.åªèƒ½æ˜¯æ•´æ•°0æˆ–1
+B.åªèƒ½æ˜¯æ•´æ•°0æˆ–é0çš„æ•´æ•°
+C.å¯ä»¥æ˜¯ç»“æ„ä½“ç±»å‹çš„æ•°æ®
+D.å¯æ˜¯ä»»æ„åˆæ³•çš„è¡¨è¾¾å¼
 Answer:D
 
-3204. ÔÚÇ¶Ì×Ê¹ÓÃifÓï¾äÊ±£¬CÓïÑÔ¹æ¶¨else×ÜÊÇ£¨£©¡£
-A.ºÍÖ®Ç°ÓëÆä¾ßÓĞÏàÍ¬Ëõ½øÎ»ÖÃµÄifÅä¶Ô
-B.ºÍÖ®Ç°ÓëÆä×î½üµÄifÅä¶Ô
-C.ºÍÖ®Ç°ÓëÆä×î½üµÄÇÒ²»´øelseµÄifÅä¶Ô
-D.ºÍÖ®Ç°µÄµÚÒ»¸öifÅä¶Ô
+3204. åœ¨åµŒå¥—ä½¿ç”¨ifè¯­å¥æ—¶ï¼ŒCè¯­è¨€è§„å®šelseæ€»æ˜¯ï¼ˆï¼‰ã€‚
+A.å’Œä¹‹å‰ä¸å…¶å…·æœ‰ç›¸åŒç¼©è¿›ä½ç½®çš„ifé…å¯¹
+B.å’Œä¹‹å‰ä¸å…¶æœ€è¿‘çš„ifé…å¯¹
+C.å’Œä¹‹å‰ä¸å…¶æœ€è¿‘çš„ä¸”ä¸å¸¦elseçš„ifé…å¯¹
+D.å’Œä¹‹å‰çš„ç¬¬ä¸€ä¸ªifé…å¯¹
 Answer:C
 
-3205. ÓĞÒÔÏÂ³ÌĞò
+3205. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
-{ char s[ ]= "abcde"; s+=2; printf("%d\n"£¬s[0]); }
-Ö´ĞĞºóµÄ½á¹ûÊÇ£¨£©¡£
-A.Êä³ö×Ö·ûaµÄASCIIÂë
-B.Êä³ö×Ö·ûcµÄASCIIÂë
-C.Êä³ö×Ö·ûc
-D.³ÌĞò³ö´í
+{ char s[ ]= "abcde"; s+=2; printf("%d\n"ï¼Œs[0]); }
+æ‰§è¡Œåçš„ç»“æœæ˜¯ï¼ˆï¼‰ã€‚
+A.è¾“å‡ºå­—ç¬¦açš„ASCIIç 
+B.è¾“å‡ºå­—ç¬¦cçš„ASCIIç 
+C.è¾“å‡ºå­—ç¬¦c
+D.ç¨‹åºå‡ºé”™
 Answer:D
 
-3206. ÒÔÏÂÓï¾äÖĞ´æÔÚÓï·¨´íÎóµÄÊÇ£¨£©¡£
+3206. ä»¥ä¸‹è¯­å¥ä¸­å­˜åœ¨è¯­æ³•é”™è¯¯çš„æ˜¯ï¼ˆï¼‰ã€‚
 A.char ss[6][20];ss[1]= "right? ";
 B.char ss[][20]={ "right? "};
 C.char *ss[6];ss[1]= "right? ";
 D.char *ss[]={"right? "};
 Answer:A
 
-3207. ÏÂÁĞ³ÌĞò¶ÎÖ´ĞĞºó£¬sµÄÖµÊÇ£¨  £©
+3207. ä¸‹åˆ—ç¨‹åºæ®µæ‰§è¡Œåï¼Œsçš„å€¼æ˜¯ï¼ˆ  ï¼‰
 static char ch[]="600";
 int a,s=0;
 for(a=0;ch[a]>='0'&&ch[a]<='9';a++)
@@ -582,73 +582,73 @@ s=10*s+ch[a]-'0';
 A.600
 B.6
 C.0
-D.³ö´í
+D.å‡ºé”™
 Answer:A
 
-3208. ÒÔÏÂÊı×é¶¨ÒåÖĞ²»ÕıÈ·µÄÊÇ£¨£©¡£
+3208. ä»¥ä¸‹æ•°ç»„å®šä¹‰ä¸­ä¸æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
 A.int a[2][3];
 B.int b[][3]={0,1,2,3};
 C.int c[100][100]={0};
 D.int d[3][]={{1,2},{1,2,3},{1,2,3,4}};
 Answer:D
 
-3209. ÒÔÏÂĞğÊöÖĞ²»ÕıÈ·µÄÊÇ£¨£©¡£
-A.ÔÚCÖĞ£¬º¯ÊıÖĞµÄ×Ô¶¯±äÁ¿¿ÉÒÔ¸³³õÖµ£¬Ã¿µ÷ÓÃÒ»´Î£¬¸³Ò»´Î³õÖµ¡£
-B.ÔÚCÖĞ£¬ÔÚµ÷ÓÃº¯ÊıÊ±£¬ÊµÔÚ²ÎÊıºÍ¶ÔÓ¦ĞÎ²ÎÔÚÀàĞÍÉÏÖ»Ğè¸³Öµ¼æÈİ¡£
-C.ÔÚCÖĞ£¬Íâ²¿±äÁ¿µÄÒşº¬Àà±ğÊÇ×Ô¶¯´æ´¢Àà±ğ¡£
-D.ÔÚCÖĞ£¬º¯ÊıĞÎ²Î¿ÉÒÔËµÃ÷Îªregister±äÁ¿¡£
+3209. ä»¥ä¸‹å™è¿°ä¸­ä¸æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.åœ¨Cä¸­ï¼Œå‡½æ•°ä¸­çš„è‡ªåŠ¨å˜é‡å¯ä»¥èµ‹åˆå€¼ï¼Œæ¯è°ƒç”¨ä¸€æ¬¡ï¼Œèµ‹ä¸€æ¬¡åˆå€¼ã€‚
+B.åœ¨Cä¸­ï¼Œåœ¨è°ƒç”¨å‡½æ•°æ—¶ï¼Œå®åœ¨å‚æ•°å’Œå¯¹åº”å½¢å‚åœ¨ç±»å‹ä¸Šåªéœ€èµ‹å€¼å…¼å®¹ã€‚
+C.åœ¨Cä¸­ï¼Œå¤–éƒ¨å˜é‡çš„éšå«ç±»åˆ«æ˜¯è‡ªåŠ¨å­˜å‚¨ç±»åˆ«ã€‚
+D.åœ¨Cä¸­ï¼Œå‡½æ•°å½¢å‚å¯ä»¥è¯´æ˜ä¸ºregisterå˜é‡ã€‚
 Answer:C
 
-3210. ÏÂÃæ¹ØÓÚÔËËã·ûÓÅÏÈË³ĞòµÄÃèÊöÖĞÕıÈ·µÄÊÇ()¡£
-A.¹ØÏµÔËËã·û< ËãÊõÔËËã·û< ¸³ÖµÔËËã·û< Âß¼­ÓëÔËËã·û
-B.Âß¼­ ÔËËã·û< ¹ØÏµÔËËã·û< ËãÊõÔËËã·û< ¸³ÖµÔËËã·û
-C.¸³ÖµÔËËã·û< Âß¼­ÓëÔËËã·û< ¹ØÏµÔËËã·û< ËãÊõÔËËã·û
-D.ËãÊõÔËËã·û< ¹ØÏµÔËËã·û< ¸³ÖµÔËËã·û< Âß¼­ÓëÔËËã·û
+3210. ä¸‹é¢å…³äºè¿ç®—ç¬¦ä¼˜å…ˆé¡ºåºçš„æè¿°ä¸­æ­£ç¡®çš„æ˜¯()ã€‚
+A.å…³ç³»è¿ç®—ç¬¦< ç®—æœ¯è¿ç®—ç¬¦< èµ‹å€¼è¿ç®—ç¬¦< é€»è¾‘ä¸è¿ç®—ç¬¦
+B.é€»è¾‘ è¿ç®—ç¬¦< å…³ç³»è¿ç®—ç¬¦< ç®—æœ¯è¿ç®—ç¬¦< èµ‹å€¼è¿ç®—ç¬¦
+C.èµ‹å€¼è¿ç®—ç¬¦< é€»è¾‘ä¸è¿ç®—ç¬¦< å…³ç³»è¿ç®—ç¬¦< ç®—æœ¯è¿ç®—ç¬¦
+D.ç®—æœ¯è¿ç®—ç¬¦< å…³ç³»è¿ç®—ç¬¦< èµ‹å€¼è¿ç®—ç¬¦< é€»è¾‘ä¸è¿ç®—ç¬¦
 Answer:C
 
-3211. ÒÔÏÂÕıÈ·µÄÃèÊöÊÇ£¨£©¡£
-A.continueÓï¾äµÄ×÷ÓÃÊÇ½áÊøÕû¸öÑ­»·µÄÖ´ĞĞ
-B.Ö»ÄÜÔÚÑ­»·ÌåÄÚºÍswitchÓï¾äÌåÄÚÊ¹ÓÃbreakÓï¾ä
-C.ÔÚÑ­»·ÌåÄÚÊ¹ÓÃbreakÓï¾ä»òcontinueÓï¾äµÄ×÷ÓÃÏàÍ¬
-D.´Ó¶à²ãÑ­»·Ç¶Ì×ÖĞÍË³öÊ±, Ö»ÄÜÊ¹ÓÃgotoÓï¾ä
+3211. ä»¥ä¸‹æ­£ç¡®çš„æè¿°æ˜¯ï¼ˆï¼‰ã€‚
+A.continueè¯­å¥çš„ä½œç”¨æ˜¯ç»“æŸæ•´ä¸ªå¾ªç¯çš„æ‰§è¡Œ
+B.åªèƒ½åœ¨å¾ªç¯ä½“å†…å’Œswitchè¯­å¥ä½“å†…ä½¿ç”¨breakè¯­å¥
+C.åœ¨å¾ªç¯ä½“å†…ä½¿ç”¨breakè¯­å¥æˆ–continueè¯­å¥çš„ä½œç”¨ç›¸åŒ
+D.ä»å¤šå±‚å¾ªç¯åµŒå¥—ä¸­é€€å‡ºæ—¶, åªèƒ½ä½¿ç”¨gotoè¯­å¥
 Answer:B
 
-3212. ÈôÓĞÒÔÏÂ¶¨ÒåºÍÓï¾ä£ºdouble r=99£¬*p=&amp;r£» *p=r£»ÔòÒÔÏÂÕıÈ·µÄĞğÊöÊÇ£¨£©¡£
-A.ÒÔÏÂÁ½´¦µÄ*pº¬ÒåÏàÍ¬£¬¶¼ËµÃ÷¸øÖ¸Õë±äÁ¿p¸³Öµ
-B.ÔÚ¡°double r=99£¬*p=&amp;r£»¡±ÖĞ£¬°ÑrµÄµØÖ·¸³Öµ¸øÁËpËùÖ¸µÄ´æ´¢µ¥Ôª
-C.Óï¾ä¡°*p=r£»¡±°Ñ±äÁ¿rµÄµØÖ·Öµ¸³¸øÖ¸Õë±äÁ¿p
-D.Óï¾ä¡°*p=r£»¡±È¡±äÁ¿rµÄÖµ·Å»ØrÖĞ
+3212. è‹¥æœ‰ä»¥ä¸‹å®šä¹‰å’Œè¯­å¥ï¼šdouble r=99ï¼Œ*p=&amp;rï¼› *p=rï¼›åˆ™ä»¥ä¸‹æ­£ç¡®çš„å™è¿°æ˜¯ï¼ˆï¼‰ã€‚
+A.ä»¥ä¸‹ä¸¤å¤„çš„*på«ä¹‰ç›¸åŒï¼Œéƒ½è¯´æ˜ç»™æŒ‡é’ˆå˜é‡pèµ‹å€¼
+B.åœ¨â€œdouble r=99ï¼Œ*p=&amp;rï¼›â€ä¸­ï¼ŒæŠŠrçš„åœ°å€èµ‹å€¼ç»™äº†pæ‰€æŒ‡çš„å­˜å‚¨å•å…ƒ
+C.è¯­å¥â€œ*p=rï¼›â€æŠŠå˜é‡rçš„åœ°å€å€¼èµ‹ç»™æŒ‡é’ˆå˜é‡p
+D.è¯­å¥â€œ*p=rï¼›â€å–å˜é‡rçš„å€¼æ”¾å›rä¸­
 Answer:B
 
-3213. ÒÑÖª int i,a; Ö´ĞĞÓï¾ä¡°i=(a=2*3,a*5),a+6;¡±ºó£¬±äÁ¿aµÄÖµÊÇ£¨ £©¡£
+3213. å·²çŸ¥ int i,a; æ‰§è¡Œè¯­å¥â€œi=(a=2*3,a*5),a+6;â€åï¼Œå˜é‡açš„å€¼æ˜¯ï¼ˆ ï¼‰ã€‚
 A.6
 B.12
 C.30
 D.36
 Answer:A
 
-3214. CÓïÑÔÖĞ¹æ¶¨º¯ÊıµÄ·µ»ØÖµµÄÀàĞÍÊÇÓÉ£¨ £©¡£
-A.returnÓï¾äÖĞµÄ±í´ïÊ½ÀàĞÍËù¾ö¶¨
-B.µ÷ÓÃ¸Ãº¯ÊıÊ±µÄÖ÷µ÷ÓÃº¯ÊıÀàĞÍËù¾ö¶¨
-C.µ÷ÓÃ¸Ãº¯ÊıÊ±ÏµÍ³ÁÙÊ±¾ö¶¨
-D.ÔÚ¶¨Òå¸Ãº¯ÊıÊ±ËùÖ¸¶¨µÄº¯ÊıÀàĞÍËù¾ö¶¨
+3214. Cè¯­è¨€ä¸­è§„å®šå‡½æ•°çš„è¿”å›å€¼çš„ç±»å‹æ˜¯ç”±ï¼ˆ ï¼‰ã€‚
+A.returnè¯­å¥ä¸­çš„è¡¨è¾¾å¼ç±»å‹æ‰€å†³å®š
+B.è°ƒç”¨è¯¥å‡½æ•°æ—¶çš„ä¸»è°ƒç”¨å‡½æ•°ç±»å‹æ‰€å†³å®š
+C.è°ƒç”¨è¯¥å‡½æ•°æ—¶ç³»ç»Ÿä¸´æ—¶å†³å®š
+D.åœ¨å®šä¹‰è¯¥å‡½æ•°æ—¶æ‰€æŒ‡å®šçš„å‡½æ•°ç±»å‹æ‰€å†³å®š
 Answer:D
 
-3215. ¶şÎ¬Êı×éaÓĞmĞĞnÁĞ£¬ÔòÔÚa[i][j]Ö®Ç°µÄÔªËØ¸öÊıÎª£¨ £©¡£
+3215. äºŒç»´æ•°ç»„aæœ‰mè¡Œnåˆ—ï¼Œåˆ™åœ¨a[i][j]ä¹‹å‰çš„å…ƒç´ ä¸ªæ•°ä¸ºï¼ˆ ï¼‰ã€‚
 A.j*n+i
 B.i*n+j
 C.i*n+j-1
 D.i*n+j+1
 Answer:B
 
-3216. ÏÂÁĞ¶Ô×Ö·û´®µÄ¶¨ÒåÖĞ£¬´íÎóµÄÊÇ( )¡£
+3216. ä¸‹åˆ—å¯¹å­—ç¬¦ä¸²çš„å®šä¹‰ä¸­ï¼Œé”™è¯¯çš„æ˜¯( )ã€‚
 A.char str[7] = "FORTRAN";
 B.char str[] = "FORTRAN";
 C.char *str = "FORTRAN";
 D.char str[] = {'F','O','R','T','R','A','N',0};
 Answer:A
 
-3217. ÉèÓĞÉùÃ÷Óï¾ä£ºint a=1,b=0;ÔòÖ´ĞĞÒÔÏÂÓï¾äºóÊä³ö() ¡£
+3217. è®¾æœ‰å£°æ˜è¯­å¥ï¼šint a=1,b=0;åˆ™æ‰§è¡Œä»¥ä¸‹è¯­å¥åè¾“å‡º() ã€‚
 switch (a)
 {
 case 1:
@@ -662,94 +662,94 @@ case  2: printf("**2**");break;
 A.**0**
 B.**0****2**
 C.**0****1****2**
-D.ÓĞÓï·¨´íÎó
+D.æœ‰è¯­æ³•é”™è¯¯
 Answer:B
 
-3218. ÏÂÁĞÓï¾äÖĞ£¬²»ÕıÈ·µÄÊÇ( )¡£
+3218. ä¸‹åˆ—è¯­å¥ä¸­ï¼Œä¸æ­£ç¡®çš„æ˜¯( )ã€‚
 A.static char a[2]={1,2};
 B.static char a[2]={ '1', '2'};
 C.static char a[2]={ '1', '2', '3'};
 D.static char a[2]={ '1'};
 Answer:C
 
-3219. ÏÂÊö¶ÔCÓïÑÔ×Ö·ûÊı×éµÄÃèÊöÖĞ´íÎóµÄÊÇ( )¡£
-A.×Ö·ûÊı×é¿ÉÒÔ´æ·Å×Ö·û´®
-B.×Ö·ûÊı×éÖĞµÄ×Ö·û´®¿ÉÒÔÕûÌåÊäÈë¡¢Êä³ö
-C.¿ÉÒÔÔÚ¸³ÖµÓï¾äÖĞÍ¨¹ı¸³ÖµÔËËã·û"="¶Ô×Ö·ûÊı×éÕûÌå¸³Öµ
-D.²»¿ÉÒÔÓÃ¹ØÏµÔËËã·û¶Ô×Ö·ûÊı×éÖĞµÄ×Ö·û´®½øĞĞ±È½Ï
+3219. ä¸‹è¿°å¯¹Cè¯­è¨€å­—ç¬¦æ•°ç»„çš„æè¿°ä¸­é”™è¯¯çš„æ˜¯( )ã€‚
+A.å­—ç¬¦æ•°ç»„å¯ä»¥å­˜æ”¾å­—ç¬¦ä¸²
+B.å­—ç¬¦æ•°ç»„ä¸­çš„å­—ç¬¦ä¸²å¯ä»¥æ•´ä½“è¾“å…¥ã€è¾“å‡º
+C.å¯ä»¥åœ¨èµ‹å€¼è¯­å¥ä¸­é€šè¿‡èµ‹å€¼è¿ç®—ç¬¦"="å¯¹å­—ç¬¦æ•°ç»„æ•´ä½“èµ‹å€¼
+D.ä¸å¯ä»¥ç”¨å…³ç³»è¿ç®—ç¬¦å¯¹å­—ç¬¦æ•°ç»„ä¸­çš„å­—ç¬¦ä¸²è¿›è¡Œæ¯”è¾ƒ
 Answer:C
 
-3220. Èô¶şÎ¬Êı×éaÓĞmĞĞnÁĞ£¬ÔòÏÂÃæÄÜ¹»ÕıÈ·ÒıÓÃÔªËØa[i][j]µÄÎª£¨£© ¡£
+3220. è‹¥äºŒç»´æ•°ç»„aæœ‰mè¡Œnåˆ—ï¼Œåˆ™ä¸‹é¢èƒ½å¤Ÿæ­£ç¡®å¼•ç”¨å…ƒç´ a[i][j]çš„ä¸ºï¼ˆï¼‰ ã€‚
 A.*(a+j*n+i)
 B.*(a+i*n+j)
 C.*(*(a+i)+j)
 D.*(*a+i)+j
 Answer:C
 
-3221. ÏÂÁĞÊı¾İÖĞ£¬Îª×Ö·ûµÄÊÇ£¨£©¡£
+3221. ä¸‹åˆ—æ•°æ®ä¸­ï¼Œä¸ºå­—ç¬¦çš„æ˜¯ï¼ˆï¼‰ã€‚
 A.'AB'
 B."A"
 C.How
 D.'A'
 Answer:D
 
-3222. ÈôÓĞ¶¨Òå£ºint b[5];ÔòÒÔÏÂ¶Ôb Êı×éÔªËØµÄÕıÈ·ÒıÓÃÊÇ£¨£©¡£
+3222. è‹¥æœ‰å®šä¹‰ï¼šint b[5];åˆ™ä»¥ä¸‹å¯¹b æ•°ç»„å…ƒç´ çš„æ­£ç¡®å¼•ç”¨æ˜¯ï¼ˆï¼‰ã€‚
 A.*b[5]
 B.b+2
-C.*£¨*£¨b+2£©£©
-D.*£¨b+2£©
+C.*ï¼ˆ*ï¼ˆb+2ï¼‰ï¼‰
+D.*ï¼ˆb+2ï¼‰
 Answer:D
 
-3223. ÉèÓĞint x,y; ÒÔÏÂÓï¾äÅĞ¶ÏxºÍyÊÇ·ñÏàµÈ£¬ÕıÈ·µÄËµ·¨ÊÇ¸ÃÓï¾ä£¨£©¡£
+3223. è®¾æœ‰int x,y; ä»¥ä¸‹è¯­å¥åˆ¤æ–­xå’Œyæ˜¯å¦ç›¸ç­‰ï¼Œæ­£ç¡®çš„è¯´æ³•æ˜¯è¯¥è¯­å¥ï¼ˆï¼‰ã€‚
 if (x=y) printf(" x is equal to y.");
-A.Óï·¨´í
-B.²»ÄÜÅĞ¶ÏxºÍyÊÇ·ñÏàµÈ
-C.±àÒë³ö´í
-D.ÄÜÅĞ¶ÏxºÍyÊÇ·ñÏàµÈ
+A.è¯­æ³•é”™
+B.ä¸èƒ½åˆ¤æ–­xå’Œyæ˜¯å¦ç›¸ç­‰
+C.ç¼–è¯‘å‡ºé”™
+D.èƒ½åˆ¤æ–­xå’Œyæ˜¯å¦ç›¸ç­‰
 Answer:B
 
-3224. ÒÔÏÂÓĞ¹ØswitchÓï¾äµÄÕıÈ·Ëµ·¨ÊÇ£¨£©¡£
-A.breakÓï¾äÊÇÓï¾äÖĞ±ØĞëµÄÒ»²¿·Ö
-B.ÔÚswitch Óï¾äÖĞ¿ÉÒÔ¸ù¾İĞèÒªÊ¹ÓÃ»ò²»Ê¹ÓÃbreakÓï¾ä
-C.breakÓï¾äÔÚswitch Óï¾äÖĞ²»¿ÉÒÔÊ¹ÓÃ
-D.ÔÚswitch Óï¾äÖĞµÄÃ¿Ò»¸öcase¶¼ÒªÓÃbreakÓï¾ä
+3224. ä»¥ä¸‹æœ‰å…³switchè¯­å¥çš„æ­£ç¡®è¯´æ³•æ˜¯ï¼ˆï¼‰ã€‚
+A.breakè¯­å¥æ˜¯è¯­å¥ä¸­å¿…é¡»çš„ä¸€éƒ¨åˆ†
+B.åœ¨switch è¯­å¥ä¸­å¯ä»¥æ ¹æ®éœ€è¦ä½¿ç”¨æˆ–ä¸ä½¿ç”¨breakè¯­å¥
+C.breakè¯­å¥åœ¨switch è¯­å¥ä¸­ä¸å¯ä»¥ä½¿ç”¨
+D.åœ¨switch è¯­å¥ä¸­çš„æ¯ä¸€ä¸ªcaseéƒ½è¦ç”¨breakè¯­å¥
 Answer:B
 
-3225. Èô¸ø³öÒÔÏÂ¶¨Òå:
+3225. è‹¥ç»™å‡ºä»¥ä¸‹å®šä¹‰:
 char x[ ]="abcdefg";
 char y[ ]={'a','b','c','d','e','f','g'};
-ÔòÕıÈ·µÄĞğÊöÎª( )¡£
-A.Êı×éxºÍÊı×éyµÈ¼Û
-B.Êı×éxºÍÊı×éyµÄ³¤¶ÈÏàÍ¬
-C.Êı×éxµÄ³¤¶È´óÓÚÊı×éyµÄ³¤¶È           
-D.Êı×éxµÄ³¤¶ÈĞ¡ÓÚÊı×éyµÄ³¤¶È
+åˆ™æ­£ç¡®çš„å™è¿°ä¸º( )ã€‚
+A.æ•°ç»„xå’Œæ•°ç»„yç­‰ä»·
+B.æ•°ç»„xå’Œæ•°ç»„yçš„é•¿åº¦ç›¸åŒ
+C.æ•°ç»„xçš„é•¿åº¦å¤§äºæ•°ç»„yçš„é•¿åº¦           
+D.æ•°ç»„xçš„é•¿åº¦å°äºæ•°ç»„yçš„é•¿åº¦
 Answer:C
 
-3226. ÈôÓĞÊı×é¶¨Òå: char array [ ]="China"; ÔòÊı×é arrayËùÕ¼µÄ¿Õ¼äÎª( )¡£
-A.4¸ö×Ö½Ú
-B.5¸ö×Ö½Ú
-C.6¸ö×Ö½Ú
-D.7¸ö×Ö½Ú
+3226. è‹¥æœ‰æ•°ç»„å®šä¹‰: char array [ ]="China"; åˆ™æ•°ç»„ arrayæ‰€å çš„ç©ºé—´ä¸º( )ã€‚
+A.4ä¸ªå­—èŠ‚
+B.5ä¸ªå­—èŠ‚
+C.6ä¸ªå­—èŠ‚
+D.7ä¸ªå­—èŠ‚
 Answer:C
 
-3227. ÅĞ¶ÏÁ½¸ö×Ö·û´®ÊÇ·ñÏàµÈ£¬ÕıÈ·µÄ±í´ï·½Ê½ÊÇ( )¡£
+3227. åˆ¤æ–­ä¸¤ä¸ªå­—ç¬¦ä¸²æ˜¯å¦ç›¸ç­‰ï¼Œæ­£ç¡®çš„è¡¨è¾¾æ–¹å¼æ˜¯( )ã€‚
 A.while(s1==s2)
 B.while(s1=s2)
 C.while(strcmp(s1,s2)==0)
 D.while(strcmp(s1,s2)=0)
 Answer:C
 
-3228. ÈôÓĞÒÔÏÂ³ÌĞòÆ¬¶Î:
+3228. è‹¥æœ‰ä»¥ä¸‹ç¨‹åºç‰‡æ®µ:
 char str[ ]="ab\n\012\\\"";
 printf("%d",strlen(str));
-ÉÏÃæ³ÌĞòÆ¬¶ÎµÄÊä³ö½á¹ûÊÇ ( )¡£
+ä¸Šé¢ç¨‹åºç‰‡æ®µçš„è¾“å‡ºç»“æœæ˜¯ ( )ã€‚
 A.3
 B.4
 C.6
 D.12
 Answer:C
 
-3229. ÈôÓĞÒÔÏÂ³ÌĞò¶Î,Êä³ö½á¹ûÊÇ( )¡£
+3229. è‹¥æœ‰ä»¥ä¸‹ç¨‹åºæ®µ,è¾“å‡ºç»“æœæ˜¯( )ã€‚
 char s[ ]="\\141\141abc\t";
 printf ("%d\n",strlen(s));
 A.9
@@ -758,123 +758,123 @@ C.13
 D.14
 Answer:A
 
-3230. ÒÔÏÂËùÁĞµÄ¸÷º¯ÊıÊ×²¿ÖĞ£¬ÕıÈ·µÄÊÇ£¨£©¡£
+3230. ä»¥ä¸‹æ‰€åˆ—çš„å„å‡½æ•°é¦–éƒ¨ä¸­ï¼Œæ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
 A.void play(var a:integer,var b:integer)
 B.void play(int a,b)
 C.void play(int a,int b)
 D.sub play(a as integer,b as integer)
 Answer:C
 
-3231. ÒÔÏÂĞğÊöÕıÈ·µÄÊÇ£¨£©¡£
-A.ÊäÈëÏî¿ÉÒÔÊÇÒ»¸öÊµĞÍ³£Á¿£¬Èç£º scanf("%f".3.5);
-B.Ö»ÓĞ¸ñÊ½¿ØÖÆ£¬Ã»ÓĞÊäÈëÏî£¬Ò²ÄÜÕıÈ·ÊäÈëÊı¾İµ½ÄÚ´æ£¬ÀıÈç£º scanf("a=%d,b=%d);
-C.µ±ÊäÈëÒ»¸öÊµĞÍÊı¾İÊ±£¬¸ñÊ½¿ØÖÆ²¿·Ö¿ÉÒÔ¹æ¶¨Ğ¡ÊıµãºóµÄÎ»Êı£¬ÀıÈç£º scanf("%4.2f",&amp;f);
-D.µ±ÊäÈëÊı¾İÊ±£¬±ØĞëÖ¸Ã÷±äÁ¿µØÖ·£¬ÀıÈç£º scanf("%f",&amp;f);
+3231. ä»¥ä¸‹å™è¿°æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.è¾“å…¥é¡¹å¯ä»¥æ˜¯ä¸€ä¸ªå®å‹å¸¸é‡ï¼Œå¦‚ï¼š scanf("%f".3.5);
+B.åªæœ‰æ ¼å¼æ§åˆ¶ï¼Œæ²¡æœ‰è¾“å…¥é¡¹ï¼Œä¹Ÿèƒ½æ­£ç¡®è¾“å…¥æ•°æ®åˆ°å†…å­˜ï¼Œä¾‹å¦‚ï¼š scanf("a=%d,b=%d);
+C.å½“è¾“å…¥ä¸€ä¸ªå®å‹æ•°æ®æ—¶ï¼Œæ ¼å¼æ§åˆ¶éƒ¨åˆ†å¯ä»¥è§„å®šå°æ•°ç‚¹åçš„ä½æ•°ï¼Œä¾‹å¦‚ï¼š scanf("%4.2f",&amp;f);
+D.å½“è¾“å…¥æ•°æ®æ—¶ï¼Œå¿…é¡»æŒ‡æ˜å˜é‡åœ°å€ï¼Œä¾‹å¦‚ï¼š scanf("%f",&amp;f);
 Answer:D
 
-3232. ÈôÓĞ¶¨ÒåÓï¾ä£ºint a=3,b=2,c=1;£¬ÒÔÏÂÑ¡ÏîÖĞ´íÎóµÄ¸³ÖµÓï¾äÊÇ(     )¡£
+3232. è‹¥æœ‰å®šä¹‰è¯­å¥ï¼šint a=3,b=2,c=1;ï¼Œä»¥ä¸‹é€‰é¡¹ä¸­é”™è¯¯çš„èµ‹å€¼è¯­å¥æ˜¯(     )ã€‚
 A.a=(b=4)=3;
 B.a=b=c+1;
 C.a=(b=4)+c;
 D.a=1+(b=c=4);
 Answer:A
 
-3233. ÓĞÒÔÏÂ³ÌĞò¶Î
-¡¡¡¡char name[20];
-¡¡¡¡int num;
-¡¡¡¡scanf("name=%s num=%d",name,&num);
-¡¡¡¡µ±Ö´ĞĞÉÏÊö³ÌĞò¶Î£¬²¢´Ó¼üÅÌÊäÈë£ºname=Lili num=1001<»Ø³µ>ºó£¬nameµÄÖµÎª£¨    £©¡£
+3233. æœ‰ä»¥ä¸‹ç¨‹åºæ®µ
+ã€€ã€€char name[20];
+ã€€ã€€int num;
+ã€€ã€€scanf("name=%s num=%d",name,&num);
+ã€€ã€€å½“æ‰§è¡Œä¸Šè¿°ç¨‹åºæ®µï¼Œå¹¶ä»é”®ç›˜è¾“å…¥ï¼šname=Lili num=1001<å›è½¦>åï¼Œnameçš„å€¼ä¸ºï¼ˆ    ï¼‰ã€‚
 A.Lili
 B.name=Lili
 C.Lili num=
 D.name=Lili num=1001
 Answer:A
 
-3234. ifÓï¾äµÄ»ù±¾ĞÎÊ½ÊÇ£ºif(±í´ïÊ½)Óï¾ä£¬ÒÔÏÂ¹ØÓÚ¡°±í´ïÊ½¡±ÖµµÄĞğÊöÖĞÕıÈ·µÄÊÇ£¨    £©¡£
-A.±ØĞëÊÇÂß¼­Öµ£¨   £©¡£
-B.±ØĞëÊÇÕûÊıÖµ
-C.±ØĞëÊÇÕıÊı
-D.¿ÉÒÔÊÇÈÎÒâºÏ·¨µÄÊıÖµ
+3234. ifè¯­å¥çš„åŸºæœ¬å½¢å¼æ˜¯ï¼šif(è¡¨è¾¾å¼)è¯­å¥ï¼Œä»¥ä¸‹å…³äºâ€œè¡¨è¾¾å¼â€å€¼çš„å™è¿°ä¸­æ­£ç¡®çš„æ˜¯ï¼ˆ    ï¼‰ã€‚
+A.å¿…é¡»æ˜¯é€»è¾‘å€¼ï¼ˆ   ï¼‰ã€‚
+B.å¿…é¡»æ˜¯æ•´æ•°å€¼
+C.å¿…é¡»æ˜¯æ­£æ•°
+D.å¯ä»¥æ˜¯ä»»æ„åˆæ³•çš„æ•°å€¼
 Answer:D
 
-3235. ÈôiºÍk¶¼ÊÇintÀàĞÍ±äÁ¿£¬ÓĞÒÔÏÂforÓï¾ä
-¡¡¡¡for(i=0,k=-1;k=1;k++) printf("*****\n");
-ÏÂÃæ¹ØÓÚÓï¾äÖ´ĞĞÇé¿öµÄĞğÊöÖĞÕıÈ·µÄÊÇ£¨   £©¡£
-A.Ñ­»·ÌåÖ´ĞĞÁ½´Î¡¡
-B.Ñ­»·ÌåÖ´ĞĞÒ»´Î¡¡
-C.Ñ­»·ÌåÒ»´ÎÒ²²»Ö´ĞĞ
-D.¹¹³ÉÎŞÏŞÑ­»·
+3235. è‹¥iå’Œkéƒ½æ˜¯intç±»å‹å˜é‡ï¼Œæœ‰ä»¥ä¸‹forè¯­å¥
+ã€€ã€€for(i=0,k=-1;k=1;k++) printf("*****\n");
+ä¸‹é¢å…³äºè¯­å¥æ‰§è¡Œæƒ…å†µçš„å™è¿°ä¸­æ­£ç¡®çš„æ˜¯ï¼ˆ   ï¼‰ã€‚
+A.å¾ªç¯ä½“æ‰§è¡Œä¸¤æ¬¡ã€€
+B.å¾ªç¯ä½“æ‰§è¡Œä¸€æ¬¡ã€€
+C.å¾ªç¯ä½“ä¸€æ¬¡ä¹Ÿä¸æ‰§è¡Œ
+D.æ„æˆæ— é™å¾ªç¯
 Answer:D
 
-3236. ÉèÓĞ¶¨Òå£ºdouble x[10],*p=x;£¬ÒÔÏÂÄÜ¸øÊı×éxÏÂ±êÎª6µÄÔªËØ¶ÁÈëÊı¾İµÄÕıÈ·Óï¾äÊÇ£¨   £©¡£
+3236. è®¾æœ‰å®šä¹‰ï¼šdouble x[10],*p=x;ï¼Œä»¥ä¸‹èƒ½ç»™æ•°ç»„xä¸‹æ ‡ä¸º6çš„å…ƒç´ è¯»å…¥æ•°æ®çš„æ­£ç¡®è¯­å¥æ˜¯ï¼ˆ   ï¼‰ã€‚
 A.scanf("%f",&x[6]); 
-B.scanf("%lf",*(x+6));¡¡
+B.scanf("%lf",*(x+6));ã€€
 C.scanf("%lf",p+6); 
 D.scanf("%lf",p[6]);
 Answer:C
 
-3237. ÓĞÒÔÏÂ³ÌĞò¶Î
-¡¡¡¡#include <stdio.h>
-¡¡¡¡main()
-¡¡¡¡{ ¡­
-¡¡¡¡while( getchar()!='\n');
-¡¡¡¡¡­
-¡¡¡¡}
-¡¡¡¡ÒÔÏÂĞğÊöÖĞÕıÈ·µÄÊÇ£¨    £©¡£
-A.´ËwhileÓï¾ä½«ÎŞÏŞÑ­»·
-B.getchar()²»¿ÉÒÔ³öÏÖÔÚwhileÓï¾äµÄÌõ¼ş±í´ïÊ½ÖĞ
-C.µ±Ö´ĞĞ´ËwhileÓï¾äÊ±£¬Ö»ÓĞ°´»Ø³µ¼ü³ÌĞò²ÅÄÜ¼ÌĞøÖ´ĞĞ
-D.µ±Ö´ĞĞ´ËwhileÓï¾äÊ±£¬°´ÈÎÒâ¼ü³ÌĞò¾ÍÄÜ¼ÌĞøÖ´ĞĞ
+3237. æœ‰ä»¥ä¸‹ç¨‹åºæ®µ
+ã€€ã€€#include <stdio.h>
+ã€€ã€€main()
+ã€€ã€€{ â€¦
+ã€€ã€€while( getchar()!='\n');
+ã€€ã€€â€¦
+ã€€ã€€}
+ã€€ã€€ä»¥ä¸‹å™è¿°ä¸­æ­£ç¡®çš„æ˜¯ï¼ˆ    ï¼‰ã€‚
+A.æ­¤whileè¯­å¥å°†æ— é™å¾ªç¯
+B.getchar()ä¸å¯ä»¥å‡ºç°åœ¨whileè¯­å¥çš„æ¡ä»¶è¡¨è¾¾å¼ä¸­
+C.å½“æ‰§è¡Œæ­¤whileè¯­å¥æ—¶ï¼Œåªæœ‰æŒ‰å›è½¦é”®ç¨‹åºæ‰èƒ½ç»§ç»­æ‰§è¡Œ
+D.å½“æ‰§è¡Œæ­¤whileè¯­å¥æ—¶ï¼ŒæŒ‰ä»»æ„é”®ç¨‹åºå°±èƒ½ç»§ç»­æ‰§è¡Œ
 Answer:C
 
-3238. ÈôÓĞ¶¨ÒåÓï¾ä£ºchar s[3][10],(*k)[3],*p;£¬ÔòÒÔÏÂ¸³ÖµÓï¾äÕıÈ·µÄÊÇ£¨    £©¡£
+3238. è‹¥æœ‰å®šä¹‰è¯­å¥ï¼šchar s[3][10],(*k)[3],*p;ï¼Œåˆ™ä»¥ä¸‹èµ‹å€¼è¯­å¥æ­£ç¡®çš„æ˜¯ï¼ˆ    ï¼‰ã€‚
 A.p=s;
 B. p=k;
 C. p=s[0];
 D.k=s;
 Answer:C
 
-3239. ÉèÓĞ¶¨Òå£ºstruct {char mark[12];int num1;double num2;} t1,t2;£¬Èô±äÁ¿¾ùÒÑÕıÈ·¸³³õÖµ£¬ÔòÒÔÏÂÓï¾äÖĞ´íÎóµÄÊÇ£¨£©¡£
-A.¡¡t1=t2;   
-B. t2.num1=t1.num1; ¡¡
+3239. è®¾æœ‰å®šä¹‰ï¼šstruct {char mark[12];int num1;double num2;} t1,t2;ï¼Œè‹¥å˜é‡å‡å·²æ­£ç¡®èµ‹åˆå€¼ï¼Œåˆ™ä»¥ä¸‹è¯­å¥ä¸­é”™è¯¯çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.ã€€t1=t2;   
+B. t2.num1=t1.num1; ã€€
 C.t2.mark=t1.mark;    
 D.t2.num2=t1.num2;
 Answer:C
 
-3240. ÉèfpÒÑ¶¨Òå£¬Ö´ĞĞÓï¾äfp=fopen("file","w");ºó£¬ÒÔÏÂÕë¶ÔÎÄ±¾ÎÄ¼şfile²Ù×÷ĞğÊöµÄÑ¡ÏîÖĞÕıÈ·µÄÊÇ£¨  £©¡£
-A.Ğ´²Ù×÷½áÊøºó¿ÉÒÔ´ÓÍ·¿ªÊ¼¶Á      
-B.Ö»ÄÜĞ´²»ÄÜ¶Á¡¡
-C.¿ÉÒÔÔÚÔ­ÓĞÄÚÈİºó×·¼ÓĞ´          
-D. ¿ÉÒÔËæÒâ¶ÁºÍĞ´
+3240. è®¾fpå·²å®šä¹‰ï¼Œæ‰§è¡Œè¯­å¥fp=fopen("file","w");åï¼Œä»¥ä¸‹é’ˆå¯¹æ–‡æœ¬æ–‡ä»¶fileæ“ä½œå™è¿°çš„é€‰é¡¹ä¸­æ­£ç¡®çš„æ˜¯ï¼ˆ  ï¼‰ã€‚
+A.å†™æ“ä½œç»“æŸåå¯ä»¥ä»å¤´å¼€å§‹è¯»      
+B.åªèƒ½å†™ä¸èƒ½è¯»ã€€
+C.å¯ä»¥åœ¨åŸæœ‰å†…å®¹åè¿½åŠ å†™          
+D. å¯ä»¥éšæ„è¯»å’Œå†™
 Answer:B
 
-3241. ÈôÓĞ¶¨ÒåÓï¾ä£ºdouble a,*p=&a;ÒÔÏÂĞğÊöÖĞ´íÎóµÄÊÇ£¨£©¡£
-A.¶¨ÒåÓï¾äÖĞµÄ*ºÅÊÇÒ»¸ö¼äÖ·ÔËËã·û
-B.¶¨ÒåÓï¾äÖĞµÄ*ºÅÖ»ÊÇÒ»¸öËµÃ÷·û
-C.¶¨ÒåÓï¾äÖĞµÄpÖ»ÄÜ´æ·ÅdoubleÀàĞÍ±äÁ¿µÄµØÖ·
-D.¶¨ÒåÓï¾äÖĞ£¬*p=&a°Ñ±äÁ¿aµÄµØÖ·×÷Îª³õÖµ¸³¸øÖ¸Õë±äÁ¿p
+3241. è‹¥æœ‰å®šä¹‰è¯­å¥ï¼šdouble a,*p=&a;ä»¥ä¸‹å™è¿°ä¸­é”™è¯¯çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.å®šä¹‰è¯­å¥ä¸­çš„*å·æ˜¯ä¸€ä¸ªé—´å€è¿ç®—ç¬¦
+B.å®šä¹‰è¯­å¥ä¸­çš„*å·åªæ˜¯ä¸€ä¸ªè¯´æ˜ç¬¦
+C.å®šä¹‰è¯­å¥ä¸­çš„påªèƒ½å­˜æ”¾doubleç±»å‹å˜é‡çš„åœ°å€
+D.å®šä¹‰è¯­å¥ä¸­ï¼Œ*p=&aæŠŠå˜é‡açš„åœ°å€ä½œä¸ºåˆå€¼èµ‹ç»™æŒ‡é’ˆå˜é‡p
 Answer:A
 
-3242. ÈôÓĞ¶¨ÒåÓï¾ä£ºint year=2009,*p=&year;£¬ÒÔÏÂ²»ÄÜÊ¹±äÁ¿yearÖĞµÄÖµÔöÖÁ2010µÄÓï¾äÊÇ£¨£©¡£
+3242. è‹¥æœ‰å®šä¹‰è¯­å¥ï¼šint year=2009,*p=&year;ï¼Œä»¥ä¸‹ä¸èƒ½ä½¿å˜é‡yearä¸­çš„å€¼å¢è‡³2010çš„è¯­å¥æ˜¯ï¼ˆï¼‰ã€‚
 A.*p+=1;      
 B.(*p)++;      
 C.  ++(*p);       
 D. *p++;
 Answer:D
 
-3243. Èô±äÁ¿ÒÑÕıÈ·¶¨Òå,ÓĞÒÔÏÂ³ÌĞò¶Î 
+3243. è‹¥å˜é‡å·²æ­£ç¡®å®šä¹‰,æœ‰ä»¥ä¸‹ç¨‹åºæ®µ 
     int  a=3,b=5,c=7; 
        if(a>b)    a=b;  c=a; 
        if(c!=a)   c=b; 
        printf("%d,%d,%d\n",a,b,c); 
-ÆäÊä³ö½á¹ûÊÇ£¨   £©¡£
-A.³ÌĞò¶ÎÓĞÓï·¨´í          
+å…¶è¾“å‡ºç»“æœæ˜¯ï¼ˆ   ï¼‰ã€‚
+A.ç¨‹åºæ®µæœ‰è¯­æ³•é”™          
 B.3,5,3           
 C.3,5,5         
 D. 3,5,7 
 Answer:B
 
-3244. ÒÔÏÂ´íÎóµÄ¶¨ÒåÓï¾äÊÇ£¨     £©¡£ 
+3244. ä»¥ä¸‹é”™è¯¯çš„å®šä¹‰è¯­å¥æ˜¯ï¼ˆ     ï¼‰ã€‚ 
 A.int  x[][3]={{0},{1},{1,2,3}};     
 B.int  x[4][3]={{1,2,3},{1,2,3},{1,2,3},{1,2,3}}; 
    
@@ -882,48 +882,48 @@ C.int  x[4][]={{1,2,3},{1,2,3},{1,2,3},{1,2,3}};
 D. int  x[][3]={1,2,3,4};
 Answer:C
 
-3245. ÓĞ¶¨ÒåÓï¾ä:char  s[10];,ÈôÒª´ÓÖÕ¶Ë¸øsÊäÈë5¸ö×Ö·û,´íÎóµÄÊäÈëÓï¾äÊÇ£¨  £©¡£ 
+3245. æœ‰å®šä¹‰è¯­å¥:char  s[10];,è‹¥è¦ä»ç»ˆç«¯ç»™sè¾“å…¥5ä¸ªå­—ç¬¦,é”™è¯¯çš„è¾“å…¥è¯­å¥æ˜¯ï¼ˆ  ï¼‰ã€‚ 
 A.gets(&s[0]);   
 B.scanf("%s",s+1);     
 C. gets(s);    
 D.scanf("%s",s[1]);
 Answer:D
 
-3246. ÒÔÏÂĞğÊöÖĞ´íÎóµÄÊÇ£¨   £©¡£ 
-A.ÔÚ³ÌĞòÖĞ·²ÊÇÒÔ"#"¿ªÊ¼µÄÓï¾äĞĞ¶¼ÊÇÔ¤´¦ÀíÃüÁîĞĞ    
-B. Ô¤´¦ÀíÃüÁîĞĞµÄ×îºó²»ÄÜÒÔ·ÖºÅ±íÊ¾½áÊø      
-C.#define  MAX  ÊÇºÏ·¨µÄºê¶¨ÒåÃüÁîĞĞ   
-D.C³ÌĞò¶ÔÔ¤´¦ÀíÃüÁîĞĞµÄ´¦ÀíÊÇÔÚ³ÌĞòÖ´ĞĞµÄ¹ı³ÌÖĞ½øĞĞµÄ 
+3246. ä»¥ä¸‹å™è¿°ä¸­é”™è¯¯çš„æ˜¯ï¼ˆ   ï¼‰ã€‚ 
+A.åœ¨ç¨‹åºä¸­å‡¡æ˜¯ä»¥"#"å¼€å§‹çš„è¯­å¥è¡Œéƒ½æ˜¯é¢„å¤„ç†å‘½ä»¤è¡Œ    
+B. é¢„å¤„ç†å‘½ä»¤è¡Œçš„æœ€åä¸èƒ½ä»¥åˆ†å·è¡¨ç¤ºç»“æŸ      
+C.#define  MAX  æ˜¯åˆæ³•çš„å®å®šä¹‰å‘½ä»¤è¡Œ   
+D.Cç¨‹åºå¯¹é¢„å¤„ç†å‘½ä»¤è¡Œçš„å¤„ç†æ˜¯åœ¨ç¨‹åºæ‰§è¡Œçš„è¿‡ç¨‹ä¸­è¿›è¡Œçš„ 
 Answer:D
 
-3247. ÉèÓĞÒÔÏÂËµÃ÷Óï¾ä 
+3247. è®¾æœ‰ä»¥ä¸‹è¯´æ˜è¯­å¥ 
 typedef struct 
 { int n; 
   char ch[8]; 
 } PER; 
-ÔòÏÂÃæĞğÊöÖĞÕıÈ·µÄÊÇ£¨  £©¡£ 
-A.PER ÊÇ½á¹¹Ìå±äÁ¿Ãû  
-B.PERÊÇ½á¹¹ÌåÀàĞÍÃû    
-C.typedef struct ÊÇ½á¹¹ÌåÀàĞÍ  
-D.struct ÊÇ½á¹¹ÌåÀàĞÍÃû 
+åˆ™ä¸‹é¢å™è¿°ä¸­æ­£ç¡®çš„æ˜¯ï¼ˆ  ï¼‰ã€‚ 
+A.PER æ˜¯ç»“æ„ä½“å˜é‡å  
+B.PERæ˜¯ç»“æ„ä½“ç±»å‹å    
+C.typedef struct æ˜¯ç»“æ„ä½“ç±»å‹  
+D.struct æ˜¯ç»“æ„ä½“ç±»å‹å 
 Answer:B
 
-3248. ÒÔÏÂĞğÊöÖĞ´íÎóµÄÊÇ £¨   £©¡£  
-A.getsº¯ÊıÓÃÓÚ´ÓÖÕ¶Ë¶ÁÈë×Ö·û´®    
-B.getcharº¯ÊıÓÃÓÚ´Ó´ÅÅÌÎÄ¼ş¶ÁÈë×Ö·û 
+3248. ä»¥ä¸‹å™è¿°ä¸­é”™è¯¯çš„æ˜¯ ï¼ˆ   ï¼‰ã€‚  
+A.getså‡½æ•°ç”¨äºä»ç»ˆç«¯è¯»å…¥å­—ç¬¦ä¸²    
+B.getcharå‡½æ•°ç”¨äºä»ç£ç›˜æ–‡ä»¶è¯»å…¥å­—ç¬¦ 
    
-C.fputsº¯ÊıÓÃÓÚ°Ñ×Ö·û´®Êä³öµ½ÎÄ¼ş     
-D.fwriteº¯ÊıÓÃÓÚÒÔ¶ş½øÖÆĞÎÊ½Êä³öÊı¾İµ½ÎÄ¼ş
+C.fputså‡½æ•°ç”¨äºæŠŠå­—ç¬¦ä¸²è¾“å‡ºåˆ°æ–‡ä»¶     
+D.fwriteå‡½æ•°ç”¨äºä»¥äºŒè¿›åˆ¶å½¢å¼è¾“å‡ºæ•°æ®åˆ°æ–‡ä»¶
 Answer:B
 
-3249. ±äÁ¿aÖĞµÄÊı¾İÓÃ¶ş½øÖÆ±íÊ¾µÄĞÎÊ½ÊÇ01011101,±äÁ¿bÖĞµÄÊı¾İÓÃ¶ş½øÖÆ±íÊ¾µÄĞÎÊ½ÊÇ11110000¡£ÈôÒªÇó½«aµÄ¸ß4Î»È¡·´,µÍ4Î»²»±ä,ËùÒªÖ´ĞĞµÄÔËËãÊÇ£¨   £©¡£
+3249. å˜é‡aä¸­çš„æ•°æ®ç”¨äºŒè¿›åˆ¶è¡¨ç¤ºçš„å½¢å¼æ˜¯01011101,å˜é‡bä¸­çš„æ•°æ®ç”¨äºŒè¿›åˆ¶è¡¨ç¤ºçš„å½¢å¼æ˜¯11110000ã€‚è‹¥è¦æ±‚å°†açš„é«˜4ä½å–å,ä½4ä½ä¸å˜,æ‰€è¦æ‰§è¡Œçš„è¿ç®—æ˜¯ï¼ˆ   ï¼‰ã€‚
 A.a^b    
 B.a|b   
 C. a&b
 D.   a<<4
 Answer:A
 
-3250. ÏÖÓĞ³ÌĞòÍê³Éa¡¢bÁ½¸öÖµµÄ½»»»£¬¿Õ°×´¦ÕıÈ·µÄ´ğ°¸Ó¦¸ÃÊÇ(    )¡£
+3250. ç°æœ‰ç¨‹åºå®Œæˆaã€bä¸¤ä¸ªå€¼çš„äº¤æ¢ï¼Œç©ºç™½å¤„æ­£ç¡®çš„ç­”æ¡ˆåº”è¯¥æ˜¯(    )ã€‚
 main()
 {int a,b,t;
      t=b ;
@@ -936,58 +936,58 @@ C. b=t
 D. t=a
 Answer:B
 
-3251. Èç¹û³ÌĞòÖĞÓÃµ½±ê×¼¿âº¯Êılog()£¬ÄÇÃ´¸Ã³ÌĞòÓ¦º¬ÏÂÃæÄÄÌõÓï¾ä(      )¡£
-A.#include ¡±stdio.h¡±             
+3251. å¦‚æœç¨‹åºä¸­ç”¨åˆ°æ ‡å‡†åº“å‡½æ•°log()ï¼Œé‚£ä¹ˆè¯¥ç¨‹åºåº”å«ä¸‹é¢å“ªæ¡è¯­å¥(      )ã€‚
+A.#include â€stdio.hâ€             
 
-B.#include ¡±math.h ¡°
+B.#include â€math.h â€œ
 
-C. #include ¡±string.h¡±           
-D.#include ¡±stdlib.h¡± 
+C. #include â€string.hâ€           
+D.#include â€stdlib.hâ€ 
 Answer:B
 
 3252. #include<stdio.h>
       main()
       { 
 char a1,a2,a3,a4,a5,a6;
-         scanf(¡°%c%c%c%c¡±,&a1,&a2,&a3,&a4);
+         scanf(â€œ%c%c%c%câ€,&a1,&a2,&a3,&a4);
       a5=getchar(); 
 a6=getchar();
      putchar(a1);
 putchar(a2);
-         printf(¡°%c%c\n¡±,a5,a6);  
-}Èç£º123»Ø³µ
-          45678»Ø³µ  ½á¹ûÊÇ(     )¡£
+         printf(â€œ%c%c\nâ€,a5,a6);  
+}å¦‚ï¼š123å›è½¦
+          45678å›è½¦  ç»“æœæ˜¯(     )ã€‚
 A.1267
 B.1256
 C.1278
 D.1245
 Answer:D
 
-3253. ÏÖÓĞÒ»¸öÎÄ±¾ÎÄ¼ş£¬ÏëÒÔ×·¼Ó·½Ê½´ò¿ª£¬ÏÂÁĞ·½Ê½ÕıÈ·µÄÊÇ(     )¡£
+3253. ç°æœ‰ä¸€ä¸ªæ–‡æœ¬æ–‡ä»¶ï¼Œæƒ³ä»¥è¿½åŠ æ–¹å¼æ‰“å¼€ï¼Œä¸‹åˆ—æ–¹å¼æ­£ç¡®çš„æ˜¯(     )ã€‚
  if((fp=fopen("fname.dat","____"))==NULL)
-£ûprintf("can not open file£¡\n",num);  exit(0);£ı
+ï½›printf("can not open fileï¼\n",num);  exit(0);ï½
 A. w          
 B.ab      
 C.b       
 D.   a
 Answer:D
 
-3254. ¶¨Òåstruct st
+3254. å®šä¹‰struct st
          {int x;
           float y;
           double z;
          } b;
-     Ôò£âÊÇ×Ö½ÚÊı         ¡£
+     åˆ™ï½‚æ˜¯å­—èŠ‚æ•°         ã€‚
 A.4
 B.8
 C.10
 D.16
 Answer:D
 
-3255. ÔËĞĞ½á¹ûÊÇ£¨        £©
-     switch ( ¡®B¡¯ )
-     {case ¡®A¡¯:printf("abc");break;
-      case ¡®B¡¯:switch(1)
+3255. è¿è¡Œç»“æœæ˜¯ï¼ˆ        ï¼‰
+     switch ( â€˜Bâ€™ )
+     {case â€˜Aâ€™:printf("abc");break;
+      case â€˜Bâ€™:switch(1)
           {case 0:printf("a");break;
            case 1;printf("b");break;
            default:printf("c");break;
@@ -1001,7 +1001,7 @@ C.cx
 D. dx
 Answer:B
 
-3256. ÒÔÏÂ³ÌĞòÊä³ö½á¹ûÊÇ          ¡£
+3256. ä»¥ä¸‹ç¨‹åºè¾“å‡ºç»“æœæ˜¯          ã€‚
      #include "stdio.h"
      void f ();
      main()
@@ -1020,8 +1020,8 @@ C.4 5 6
 D.4  6  8
 Answer:A
 
-3257. ÉèÓĞÒÔÏÂ¶¨Òå£¬ÖµÎª5µÄÃ¶¾Ù³£Á¿ÊÇ£¨  £©¡£
-enum week{sun£¬mon=4£¬tue£¬wed£¬thu£¬fri£¬sat} w£»
+3257. è®¾æœ‰ä»¥ä¸‹å®šä¹‰ï¼Œå€¼ä¸º5çš„æšä¸¾å¸¸é‡æ˜¯ï¼ˆ  ï¼‰ã€‚
+enum week{sunï¼Œmon=4ï¼Œtueï¼Œwedï¼Œthuï¼Œfriï¼Œsat} wï¼›
 
 A.tue    
 B. sat   
@@ -1029,9 +1029,9 @@ C.  fri
 D. thu
 Answer:A
 
-3258. ÉèÓĞÒÔÏÂ³ÌĞò¶Î£¬ÔòÖµÎª6µÄ±í´ïÊ½ÊÇ£¨  £©¡£
+3258. è®¾æœ‰ä»¥ä¸‹ç¨‹åºæ®µï¼Œåˆ™å€¼ä¸º6çš„è¡¨è¾¾å¼æ˜¯ï¼ˆ  ï¼‰ã€‚
  struct st { int n; struct st *next;};
- static struct st a[3]={5,&a[1],7,&a[2],9,0 }£¬*p; 
+ static struct st a[3]={5,&a[1],7,&a[2],9,0 }ï¼Œ*p; 
  p=&a[0]; 
 
 A.p++->n  
@@ -1040,40 +1040,40 @@ C. p->n++
 D.(*p).n++
 Answer:B
 
-3259. CÓïÑÔÖĞµÄÎÄ¼şÀàĞÍÖ»ÓĞ£¨  £©¡£
-A.Ë÷ÒıÎÄ¼şºÍÎÄ±¾ÎÄ¼şÁ½ÖÖ     
-B.ÎÄ±¾ÎÄ¼şÒ»ÖÖ
+3259. Cè¯­è¨€ä¸­çš„æ–‡ä»¶ç±»å‹åªæœ‰ï¼ˆ  ï¼‰ã€‚
+A.ç´¢å¼•æ–‡ä»¶å’Œæ–‡æœ¬æ–‡ä»¶ä¸¤ç§     
+B.æ–‡æœ¬æ–‡ä»¶ä¸€ç§
 
-C.¶ş½øÖÆÎÄ¼şÒ»ÖÖ            
-D. ASCIIÂëÎÄ¼şºÍ¶ş½øÖÆÎÄ¼şÁ½ÖÖ
+C.äºŒè¿›åˆ¶æ–‡ä»¶ä¸€ç§            
+D. ASCIIç æ–‡ä»¶å’ŒäºŒè¿›åˆ¶æ–‡ä»¶ä¸¤ç§
 Answer:D
 
-3260. ÒÑÖªº¯ÊıfreadµÄµ÷ÓÃĞÎÊ½Îªfread£¨buffer£¬size£¬count£¬fp£©£¬ÆäÖĞbuffer´ú±íµÄÊÇ£¨  £©¡£
-A.´æ·Å¶ÁÈëÊı¾İÏîµÄ´æ´¢Çø      
+3260. å·²çŸ¥å‡½æ•°freadçš„è°ƒç”¨å½¢å¼ä¸ºfreadï¼ˆbufferï¼Œsizeï¼Œcountï¼Œfpï¼‰ï¼Œå…¶ä¸­bufferä»£è¡¨çš„æ˜¯ï¼ˆ  ï¼‰ã€‚
+A.å­˜æ”¾è¯»å…¥æ•°æ®é¡¹çš„å­˜å‚¨åŒº      
 
-B.´æ·Å¶ÁÈëÊı¾İµÄµØÖ·»òÖ¸Ïò´ËµØÖ·µÄÖ¸Õë
+B.å­˜æ”¾è¯»å…¥æ•°æ®çš„åœ°å€æˆ–æŒ‡å‘æ­¤åœ°å€çš„æŒ‡é’ˆ
 
-C.Ò»¸öÖ¸ÏòËù¶ÁÎÄ¼şµÄÎÄ¼şÖ¸Õë    
-D. Ò»¸öÕûĞÎ±äÁ¿,´ú±íÒª¶ÁÈëµÄÊı¾İÏî×ÜÊı
+C.ä¸€ä¸ªæŒ‡å‘æ‰€è¯»æ–‡ä»¶çš„æ–‡ä»¶æŒ‡é’ˆ    
+D. ä¸€ä¸ªæ•´å½¢å˜é‡,ä»£è¡¨è¦è¯»å…¥çš„æ•°æ®é¡¹æ€»æ•°
 Answer:B
 
-3261. º¯Êıµ÷ÓÃÓï¾ä£ºfseek£¨fp£¬-10L£¬2£©£»µÄº¬ÒåÊÇ£¨  £©¡£
-A.½«ÎÄ¼şÎ»ÖÃÖ¸Õë´ÓÎÄ¼şÄ©Î²´¦ÏòÎÄ¼şÍ·µÄ·½ÏòÒÆ¶¯10¸ö×Ö½Ú 
-B.½«ÎÄ¼şÎ»ÖÃÖ¸Õë´Óµ±Ç°Î»ÖÃÏòÎÄ¼şÍ·µÄ·½ÏòÒÆ¶¯10¸ö×Ö½Ú 
-C.½«ÎÄ¼şÎ»ÖÃÖ¸Õë´Óµ±Ç°Î»ÖÃÏòÎÄ¼şÄ©Î²·½ÏòÒÆ¶¯10¸ö×Ö½Ú 
-D.½«ÎÄ¼şÎ»ÖÃÖ¸ÕëÒÆµ½¾àÀëÎÄ¼şÍ·10¸ö×Ö½Ú´¦
+3261. å‡½æ•°è°ƒç”¨è¯­å¥ï¼šfseekï¼ˆfpï¼Œ-10Lï¼Œ2ï¼‰ï¼›çš„å«ä¹‰æ˜¯ï¼ˆ  ï¼‰ã€‚
+A.å°†æ–‡ä»¶ä½ç½®æŒ‡é’ˆä»æ–‡ä»¶æœ«å°¾å¤„å‘æ–‡ä»¶å¤´çš„æ–¹å‘ç§»åŠ¨10ä¸ªå­—èŠ‚ 
+B.å°†æ–‡ä»¶ä½ç½®æŒ‡é’ˆä»å½“å‰ä½ç½®å‘æ–‡ä»¶å¤´çš„æ–¹å‘ç§»åŠ¨10ä¸ªå­—èŠ‚ 
+C.å°†æ–‡ä»¶ä½ç½®æŒ‡é’ˆä»å½“å‰ä½ç½®å‘æ–‡ä»¶æœ«å°¾æ–¹å‘ç§»åŠ¨10ä¸ªå­—èŠ‚ 
+D.å°†æ–‡ä»¶ä½ç½®æŒ‡é’ˆç§»åˆ°è·ç¦»æ–‡ä»¶å¤´10ä¸ªå­—èŠ‚å¤„
 Answer:A
 
-3262. ÔÚCÓïÑÔÖĞ,ÒÔÏÂÕıÈ·µÄËµ·¨ÊÇ(    )  ¡£
+3262. åœ¨Cè¯­è¨€ä¸­,ä»¥ä¸‹æ­£ç¡®çš„è¯´æ³•æ˜¯(    )  ã€‚
    
 
-A.Êµ²ÎºÍÓëÆä¶ÔÓ¦µÄĞÎ²Î¸÷Õ¼ÓÃ¶ÀÁ¢µÄ´æ´¢µ¥Ôª
-B. Êµ²ÎºÍÓëÆä¶ÔÓ¦µÄĞÎ²Î¹²Õ¼ÓÃÒ»¸ö´æ´¢µ¥Ôª
-C.Ö»ÓĞµ±Êµ²ÎºÍÓëÆä¶ÔÓ¦µÄĞÎ²ÎÍ¬ÃûÊ±²Å¹²Õ¼ÓÃ´æ´¢µ¥Ôª
-D. ĞÎ²ÎÊÇĞéÄâµÄ£¬²»Õ¼ÓÃ´æ´¢µ¥Ôª
+A.å®å‚å’Œä¸å…¶å¯¹åº”çš„å½¢å‚å„å ç”¨ç‹¬ç«‹çš„å­˜å‚¨å•å…ƒ
+B. å®å‚å’Œä¸å…¶å¯¹åº”çš„å½¢å‚å…±å ç”¨ä¸€ä¸ªå­˜å‚¨å•å…ƒ
+C.åªæœ‰å½“å®å‚å’Œä¸å…¶å¯¹åº”çš„å½¢å‚åŒåæ—¶æ‰å…±å ç”¨å­˜å‚¨å•å…ƒ
+D. å½¢å‚æ˜¯è™šæ‹Ÿçš„ï¼Œä¸å ç”¨å­˜å‚¨å•å…ƒ
 Answer:A
 
-3263. ÒÔÏÂ³ÌĞòÓĞÓï·¨ĞÔ´íÎó£¬ÓĞ¹Ø´íÎóÔ­ÒòµÄÕıÈ·Ëµ·¨ÊÇ(   )¡£
+3263. ä»¥ä¸‹ç¨‹åºæœ‰è¯­æ³•æ€§é”™è¯¯ï¼Œæœ‰å…³é”™è¯¯åŸå› çš„æ­£ç¡®è¯´æ³•æ˜¯(   )ã€‚
 void main()
  {
   int G=5,k;
@@ -1082,100 +1082,100 @@ void main()
   k=prt_char(G);
   ......
  }
-A.Óï¾ävoid prt_char(); ÓĞ´í£¬ËüÊÇº¯Êıµ÷ÓÃÓï¾ä£¬²»ÄÜÓÃvoidËµÃ÷
-B.±äÁ¿Ãû²»ÄÜÊ¹ÓÃ´óĞ´×ÖÄ¸
-C.º¯ÊıËµÃ÷ºÍº¯Êıµ÷ÓÃÖ®¼äÓĞÃ¬¶Ü
-D. º¯ÊıÃû²»ÄÜÊ¹ÓÃÏÂ»®Ïß
+A.è¯­å¥void prt_char(); æœ‰é”™ï¼Œå®ƒæ˜¯å‡½æ•°è°ƒç”¨è¯­å¥ï¼Œä¸èƒ½ç”¨voidè¯´æ˜
+B.å˜é‡åä¸èƒ½ä½¿ç”¨å¤§å†™å­—æ¯
+C.å‡½æ•°è¯´æ˜å’Œå‡½æ•°è°ƒç”¨ä¹‹é—´æœ‰çŸ›ç›¾
+D. å‡½æ•°åä¸èƒ½ä½¿ç”¨ä¸‹åˆ’çº¿
 Answer:C
 
-3264. ÉèÕûĞÍ±äÁ¿aÎª5£¬Ê¹b²»Îª2µÄ±í´ïÊ½ÊÇ£¨     £©¡£
+3264. è®¾æ•´å‹å˜é‡aä¸º5ï¼Œä½¿bä¸ä¸º2çš„è¡¨è¾¾å¼æ˜¯ï¼ˆ     ï¼‰ã€‚
 A.b=a/2
 B.b=6-(--a)    
 C.b=a%2 
 D.b=a>3?2:1 
 Answer:C
 
-3265. Ö´ĞĞÒÔÏÂÓï¾ä£ºx+=y£»y=x-y£»x-=y£»µÄ¹¦ÄÜÊÇ£¨£©¡£
-A.°ÑxºÍy°´´Ó´óµ½Ğ¡ÅÅÁĞ
-B.°ÑxºÍy°´´ÓĞ¡µ½´óÅÅÁĞ
-C.ÎŞÈ·¶¨½á¹û
-D.½»»»xºÍyÖĞµÄÖµ
+3265. æ‰§è¡Œä»¥ä¸‹è¯­å¥ï¼šx+=yï¼›y=x-yï¼›x-=yï¼›çš„åŠŸèƒ½æ˜¯ï¼ˆï¼‰ã€‚
+A.æŠŠxå’ŒyæŒ‰ä»å¤§åˆ°å°æ’åˆ—
+B.æŠŠxå’ŒyæŒ‰ä»å°åˆ°å¤§æ’åˆ—
+C.æ— ç¡®å®šç»“æœ
+D.äº¤æ¢xå’Œyä¸­çš„å€¼
 Answer:D
 
-3266. Çë¶Á³ÌĞò:
+3266. è¯·è¯»ç¨‹åº:
 main()
 { int a=1,b=2;
 printf("%d\n",a=a+1,a+6,b+2);}
-ÔòÉÏÃæ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+åˆ™ä¸Šé¢ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.2
 B.3
 C.4
 D.1
 Answer:A
 
-3267. ¶ÔÒÔÏÂforÑ­»·£¬ĞğÊöÕıÈ·µÄÊÇ£¨£©¡£
-for£¨x=0£¬y=0£»£¨y£¡=123£©&amp;&amp;£¨x<4£©;x++,y++£©;
-A.ÊÇÎŞÏŞÑ­»·
-B.Ñ­»·´ÎÊı²»¶¨
-C.Ö´ĞĞÁË4´Î
-D.Ö´ĞĞÁË3´Î
+3267. å¯¹ä»¥ä¸‹forå¾ªç¯ï¼Œå™è¿°æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
+forï¼ˆx=0ï¼Œy=0ï¼›ï¼ˆyï¼=123ï¼‰&amp;&amp;ï¼ˆx<4ï¼‰;x++,y++ï¼‰;
+A.æ˜¯æ— é™å¾ªç¯
+B.å¾ªç¯æ¬¡æ•°ä¸å®š
+C.æ‰§è¡Œäº†4æ¬¡
+D.æ‰§è¡Œäº†3æ¬¡
 Answer:C
 
-3268. ÈôÓĞ³ÌĞò¶Î£º
-x=99£»
-while£¨x-2£© x--£»ÔòÑ­»·½áÊøÊ±£¬x=£¨ £©¡£
+3268. è‹¥æœ‰ç¨‹åºæ®µï¼š
+x=99ï¼›
+whileï¼ˆx-2ï¼‰ x--ï¼›åˆ™å¾ªç¯ç»“æŸæ—¶ï¼Œx=ï¼ˆ ï¼‰ã€‚
 A.99
 B.2
 C.1
 D.0
 Answer:B
 
-3269. ÏÂÁĞ³ÌĞò¶ÎµÄÖ´ĞĞ½á¹ûÊÇÊä³ö£¨ £©¡£
-x=3£»
+3269. ä¸‹åˆ—ç¨‹åºæ®µçš„æ‰§è¡Œç»“æœæ˜¯è¾“å‡ºï¼ˆ ï¼‰ã€‚
+x=3ï¼›
 do
-£û
-printf£¨"%2d"£¬x--£©£»
-£ı while£¨£¡x£©£»
+ï½›
+printfï¼ˆ"%2d"ï¼Œx--ï¼‰ï¼›
+ï½ whileï¼ˆï¼xï¼‰ï¼›
 A.3 2 1
 B.3
 C.2 1
 D.2 1 0
 Answer:B
 
-3270. Ö´ĞĞÏÂÁĞ³ÌĞòºó£¬iµÄÖµÊÇ£¨£©¡£
-int i£¬x£»
-for£¨i=1£¬x=1£»i<20; i++£©
-£ûif (x>=10) break;
+3270. æ‰§è¡Œä¸‹åˆ—ç¨‹åºåï¼Œiçš„å€¼æ˜¯ï¼ˆï¼‰ã€‚
+int iï¼Œxï¼›
+forï¼ˆi=1ï¼Œx=1ï¼›i<20; i++ï¼‰
+ï½›if (x>=10) break;
 if(x%2= =1)
-£ûx+=5; continue; £ı
+ï½›x+=5; continue; ï½
 x-=3;
-£ı
+ï½
 A.4
 B.5
 C.6
 D.7
 Answer:C
 
-3271. ÒÔÏÂ³ÌĞò¶ÎÊä³ö½á¹ûÊÇ£¨£©¡£
-main£¨£©
-{ int k£¬j£¬s£»
+3271. ä»¥ä¸‹ç¨‹åºæ®µè¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
+mainï¼ˆï¼‰
+{ int kï¼Œjï¼Œsï¼›
 for(k=2;k<6;k++,k++)
-{ s=1£»for(j=k;j<6;j++) s+=j£»}
-printf(¡°%d\n¡±£¬s)£»}
+{ s=1ï¼›for(j=k;j<6;j++) s+=jï¼›}
+printf(â€œ%d\nâ€ï¼Œs)ï¼›}
 A.9
 B.1
 C.11
 D.10
 Answer:D
 
-3272. ÒÔÏÂĞğÊöÕıÈ·µÄÊÇ£¨£©¡£
-A.do...whileÓï¾ä¹¹³ÉµÄÑ­»·²»ÄÜÓÃÆäËüÓï¾ä¹¹³ÉµÄÑ­»·À´´úÌæ
-B.do...whileÓï¾ä¹¹³ÉµÄÑ­»·Ö»ÄÜÓÃbreakÓï¾äÍË³ö
-C.ÓÃdo...whileÓï¾ä¹¹³ÉÑ­»·Ê±£¬Ö»ÓĞÔÚwhileºóµÄ±í´ïÊ½·ÇÁãÊ±½áÊøÑ­»·
-D.ÓÃdo...whileÓï¾ä¹¹³ÉÑ­»·Ê±£¬Ö»ÓĞÔÚwhileºóµÄ±í´ïÊ½ÎªÁãÊ±½áÊøÑ­»·
+3272. ä»¥ä¸‹å™è¿°æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.do...whileè¯­å¥æ„æˆçš„å¾ªç¯ä¸èƒ½ç”¨å…¶å®ƒè¯­å¥æ„æˆçš„å¾ªç¯æ¥ä»£æ›¿
+B.do...whileè¯­å¥æ„æˆçš„å¾ªç¯åªèƒ½ç”¨breakè¯­å¥é€€å‡º
+C.ç”¨do...whileè¯­å¥æ„æˆå¾ªç¯æ—¶ï¼Œåªæœ‰åœ¨whileåçš„è¡¨è¾¾å¼éé›¶æ—¶ç»“æŸå¾ªç¯
+D.ç”¨do...whileè¯­å¥æ„æˆå¾ªç¯æ—¶ï¼Œåªæœ‰åœ¨whileåçš„è¡¨è¾¾å¼ä¸ºé›¶æ—¶ç»“æŸå¾ªç¯
 Answer:D
 
-3273. ÒÔÏÂ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨ £©¡£
+3273. ä»¥ä¸‹ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ ï¼‰ã€‚
 main()
 { int a, b;
 for(a=1, b=1; a<=100; a++)
@@ -1191,43 +1191,43 @@ C.5
 D.4
 Answer:D
 
-3274. ÒÔÏÂ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
-func£¨int a£¬int b£©
-{ int c£»
-c=a+b£»
-return c£»}
-main£¨ £©
-{ int x=6£¬y=7£¬z=8£¬r=0£»
-r=func£¨£¨x--£¬y++£¬x+y£©£¬z--£©£»
-printf(¡°%d\n¡±,r);}
+3274. ä»¥ä¸‹ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
+funcï¼ˆint aï¼Œint bï¼‰
+{ int cï¼›
+c=a+bï¼›
+return cï¼›}
+mainï¼ˆ ï¼‰
+{ int x=6ï¼Œy=7ï¼Œz=8ï¼Œr=0ï¼›
+r=funcï¼ˆï¼ˆx--ï¼Œy++ï¼Œx+yï¼‰ï¼Œz--ï¼‰ï¼›
+printf(â€œ%d\nâ€,r);}
 A.11
 B.20
 C.21
 D.31
 Answer:C
 
-3275. ¶ÔÏÂÃæ³ÌĞò¶Î£º
+3275. å¯¹ä¸‹é¢ç¨‹åºæ®µï¼š
 #define A 3
 #define B(a) ((A+1)*a)
 ...
-x=3*(A+B(7));ÕıÈ·µÄÅĞ¶ÏÊÇ£¨£©¡£
-A.³ÌĞò´íÎó£¬²»ĞíÇ¶Ì×ºê¶¨Òå
-B.³ÌĞò´íÎó£¬ºê¶¨Òå²»ĞíÓĞ²ÎÊı
+x=3*(A+B(7));æ­£ç¡®çš„åˆ¤æ–­æ˜¯ï¼ˆï¼‰ã€‚
+A.ç¨‹åºé”™è¯¯ï¼Œä¸è®¸åµŒå¥—å®å®šä¹‰
+B.ç¨‹åºé”™è¯¯ï¼Œå®å®šä¹‰ä¸è®¸æœ‰å‚æ•°
 C.x=93
 D.x=21
 Answer:C
 
-3276. ÉèÓĞÒÔÏÂºê¶¨Òå:
+3276. è®¾æœ‰ä»¥ä¸‹å®å®šä¹‰:
 #define N 3
 #define Y(n) ( (N+1)*n)
-ÔòÖ´ĞĞÓï¾ä:z=2 * (N+Y(5+1));ºó,zµÄÖµÎª£¨£©¡£
-A.³ö´í
+åˆ™æ‰§è¡Œè¯­å¥:z=2 * (N+Y(5+1));å,zçš„å€¼ä¸ºï¼ˆï¼‰ã€‚
+A.å‡ºé”™
 B.42
 C.48
 D.54
 Answer:C
 
-3277. 8¡¢ ÓĞÒÔÏÂ³ÌĞò
+3277. 8ã€ æœ‰ä»¥ä¸‹ç¨‹åº
 struct STU{
 char name[10];
 int num;
@@ -1243,14 +1243,14 @@ main( )
 {  struct  STU   a={"YangSan",2041},b={"WangYin",2043};
    f1(a);f2(&amp;b);
    printf("%d %d\n",a.num,b.num);}  
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ £¨£©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ ï¼ˆï¼‰ã€‚
 A.2041 2044
 B.2041 2043
 C.2042  2044
 D.2042  2043
 Answer:A
 
-3278. ÒÔÏÂ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3278. ä»¥ä¸‹ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 #define M(x,y,z) x*y+z
 main()
 { int a=1,b=2, c=3;
@@ -1262,47 +1262,47 @@ C.15
 D.12
 Answer:D
 
-3279. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡struct stu
-¡¡¡¡{ int num;
-¡¡¡¡char name[10];
-¡¡¡¡int age;
-¡¡¡¡};
-¡¡¡¡void fun(struct stu *p)
-¡¡¡¡{ printf("%s\n",(*p).name); }
-¡¡¡¡main()
-¡¡¡¡{
-¡¡¡¡struct stu students[3]={{9801,"Zhang",20},
-¡¡¡¡{9802,"Wang",19},
-¡¡¡¡{9803,"Zhao",18} };
-¡¡¡¡fun(students+2);
-¡¡¡¡}
-¡¡¡¡Êä³ö½á¹ûÊÇ£¨£©¡£
+3279. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€struct stu
+ã€€ã€€{ int num;
+ã€€ã€€char name[10];
+ã€€ã€€int age;
+ã€€ã€€};
+ã€€ã€€void fun(struct stu *p)
+ã€€ã€€{ printf("%s\n",(*p).name); }
+ã€€ã€€main()
+ã€€ã€€{
+ã€€ã€€struct stu students[3]={{9801,"Zhang",20},
+ã€€ã€€{9802,"Wang",19},
+ã€€ã€€{9803,"Zhao",18} };
+ã€€ã€€fun(students+2);
+ã€€ã€€}
+ã€€ã€€è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.Zhang
 B.Zhao
 C.Wang
 D.18
 Answer:B
 
-3280. ³ÌĞòÆ¬¶Î£ºÔÚTC20ÖĞ, int i=65536; printf("%d\n",i);µÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3280. ç¨‹åºç‰‡æ®µï¼šåœ¨TC20ä¸­, int i=65536; printf("%d\n",i);çš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.65536
 B.0
-C.ÓĞÓï·¨´íÎó£¬ÎŞÊä³ö½á¹û
+C.æœ‰è¯­æ³•é”™è¯¯ï¼Œæ— è¾“å‡ºç»“æœ
 D.-1
 Answer:B
 
-3281. ÒÔÏÂ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
-main£¨£©
+3281. ä»¥ä¸‹ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
+mainï¼ˆï¼‰
 { int i,j,x=0;
-for£¨i=0;i<2;i++£©
+forï¼ˆi=0;i<2;i++ï¼‰
 { x++;
-for£¨j=0;j<3;j++£©
-{ if£¨j%2£©continue;
+forï¼ˆj=0;j<3;j++ï¼‰
+{ ifï¼ˆj%2ï¼‰continue;
 x++;
 }
 x++;
 }
-printf£¨"x=%d£Ün",x£©;
+printfï¼ˆ"x=%dï¼¼n",xï¼‰;
 }
 A.x=4
 B.x=8
@@ -1310,322 +1310,322 @@ C.x=6
 D.x=12
 Answer:B
 
-3282. 22.ÉèÓĞÒÔÏÂ³ÌĞò¶Î
+3282. 22.è®¾æœ‰ä»¥ä¸‹ç¨‹åºæ®µ
 int x=0,s=0;
-while£¨!x!=0£©s+=++x;
-printf£¨"%d",s£©;
-Ôò£¨£©¡£
-A.ÔËĞĞ³ÌĞò¶ÎºóÊä³ö0
-B.ÔËĞĞ³ÌĞò¶ÎºóÊä³ö1
-C.³ÌĞò¶ÎÖĞµÄ¿ØÖÆ±í´ïÊ½ÊÇ·Ç·¨µÄ
-D.³ÌĞò¶ÎÖ´ĞĞÎŞÏŞ´Î
+whileï¼ˆ!x!=0ï¼‰s+=++x;
+printfï¼ˆ"%d",sï¼‰;
+åˆ™ï¼ˆï¼‰ã€‚
+A.è¿è¡Œç¨‹åºæ®µåè¾“å‡º0
+B.è¿è¡Œç¨‹åºæ®µåè¾“å‡º1
+C.ç¨‹åºæ®µä¸­çš„æ§åˆ¶è¡¨è¾¾å¼æ˜¯éæ³•çš„
+D.ç¨‹åºæ®µæ‰§è¡Œæ— é™æ¬¡
 Answer:B
 
-3283. ÏÂÃæ³ÌĞòµÄÊä³ö½á¹ûÎª£¨£©¡£
-main£¨£©
-{ int a,b;b=£¨a=3*5,a*4,a*5£©;
-printf£¨"%d",b£©;
+3283. ä¸‹é¢ç¨‹åºçš„è¾“å‡ºç»“æœä¸ºï¼ˆï¼‰ã€‚
+mainï¼ˆï¼‰
+{ int a,b;b=ï¼ˆa=3*5,a*4,a*5ï¼‰;
+printfï¼ˆ"%d",bï¼‰;
 }
 A.60
 B.75
 C.65
-D.ÎŞÈ·¶¨Öµ
+D.æ— ç¡®å®šå€¼
 Answer:B
 
-3284. ÏÂÃæ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3284. ä¸‹é¢ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 #include
 #include
-main£¨£©
-{ char *p1="abc",*p2="ABC",str£Û50£İ= "xyz";
-strcpy£¨str+2,strcat£¨p1,p2£©£©;
-printf£¨"%s£Ün",str£©;}
+mainï¼ˆï¼‰
+{ char *p1="abc",*p2="ABC",strï¼»50ï¼½= "xyz";
+strcpyï¼ˆstr+2,strcatï¼ˆp1,p2ï¼‰ï¼‰;
+printfï¼ˆ"%sï¼¼n",strï¼‰;}
 A.xyzabcABC
 B.zabcABC
 C.xyabcABC
 D.yzabcABC
 Answer:C
 
-3285. ÒÔÏÂ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
-long fun£¨ int n£©
+3285. ä»¥ä¸‹ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
+long funï¼ˆ int nï¼‰
 { long s;
-if£¨n==1||n==2£©s=2;
-else s=n-fun£¨n-1£©;
+ifï¼ˆn==1||n==2ï¼‰s=2;
+else s=n-funï¼ˆn-1ï¼‰;
 return s;}
-main£¨£©
-{ printf£¨"%ld£Ün", fun£¨3£©£©; }
+mainï¼ˆï¼‰
+{ printfï¼ˆ"%ldï¼¼n", funï¼ˆ3ï¼‰ï¼‰; }
 A.1
 B.2
 C.3
 D.4
 Answer:A
 
-3286. ÓĞÈçÏÂ³ÌĞò
-main£¨£©
+3286. æœ‰å¦‚ä¸‹ç¨‹åº
+mainï¼ˆï¼‰
 { char ch[2][5]={"6937","8254"},*p[2];
 int i,j,s=0;
-for£¨i=0;i<2;i++£©p£Ûi£İ=ch£Ûi£İ;
-for£¨i=0;i<2;i++£©
-for£¨j=0;p£Ûi£İ£Ûj£İ>'\0';j+=2£©
-s=10*s+p£Ûi£İ£Ûj£İ-'0';
-printf£¨"%d£Ün",s£©;} 
-¸Ã³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+forï¼ˆi=0;i<2;i++ï¼‰pï¼»iï¼½=chï¼»iï¼½;
+forï¼ˆi=0;i<2;i++ï¼‰
+forï¼ˆj=0;pï¼»iï¼½ï¼»jï¼½>'\0';j+=2ï¼‰
+s=10*s+pï¼»iï¼½ï¼»jï¼½-'0';
+printfï¼ˆ"%dï¼¼n",sï¼‰;} 
+è¯¥ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.69825
 B.63825
 C.6385
 D.693825
 Answer:C
 
-3287. ÒÔÏÂ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3287. ä»¥ä¸‹ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 union myun
 { struct
 { int x, y, z; } u;
 int k;
 } a;
-main£¨£©
+mainï¼ˆï¼‰
 { a.u.x=4; a.u.y=5; a.u.z=6;
 a.k=0;
-printf£¨"%d£Ün",a.u.x£©;}
+printfï¼ˆ"%dï¼¼n",a.u.xï¼‰;}
 A.4
 B.5
 C.6
 D.0
 Answer:D
 
-3288. ÏÂÃæµÄ³ÌĞòÖ´ĞĞºó£¬ÎÄ¼ştestÖĞµÄÄÚÈİÊÇ £¨£©¡£
-void fun£¨char *fname,char *st£©
+3288. ä¸‹é¢çš„ç¨‹åºæ‰§è¡Œåï¼Œæ–‡ä»¶testä¸­çš„å†…å®¹æ˜¯ ï¼ˆï¼‰ã€‚
+void funï¼ˆchar *fname,char *stï¼‰
 { FILE *myf; int i;
-myf=fopen£¨fname,"w" £©;
-for£¨i=0;st[i];i++)
+myf=fopenï¼ˆfname,"w" ï¼‰;
+forï¼ˆi=0;st[i];i++)
 fputc(st[i],myf);
 fputc('\0',myf);
-fclose£¨myf£©;
+fcloseï¼ˆmyfï¼‰;
 }
-main£¨£©
-{ fun£¨"test","new world"£©; fun£¨"test","hello,"£©;}
+mainï¼ˆï¼‰
+{ funï¼ˆ"test","new world"ï¼‰; funï¼ˆ"test","hello,"ï¼‰;}
 A.hello,
 B.new worldhello,
 C.new world
 D.hello, rld
 Answer:A
 
-3289. ÓĞÒÔÏÂ³ÌĞò
+3289. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
-{char c1£¬c2£¬c3£¬c4£¬c5£¬c6£»
-scanf("£¥c£¥c£¥c£¥c"£¬&amp;c1£¬&amp;c2£¬&amp;c3£¬&amp;c4)£»
-c5=getchar()£» c6=getchar()£»
-putchar(c1)£»putchar(c2)£»
-printf("£¥c£¥c£Ün"£¬c5£¬c6)£»
+{char c1ï¼Œc2ï¼Œc3ï¼Œc4ï¼Œc5ï¼Œc6ï¼›
+scanf("ï¼…cï¼…cï¼…cï¼…c"ï¼Œ&amp;c1ï¼Œ&amp;c2ï¼Œ&amp;c3ï¼Œ&amp;c4)ï¼›
+c5=getchar()ï¼› c6=getchar()ï¼›
+putchar(c1)ï¼›putchar(c2)ï¼›
+printf("ï¼…cï¼…cï¼¼n"ï¼Œc5ï¼Œc6)ï¼›
 }
-³ÌĞòÔËĞĞºó£¬Èô´Ó¼üÅÌÊäÈë(´ÓµÚ1ÁĞ¿ªÊ¼)
-123<»Ø³µ>
-45678<»Ø³µ>
-ÔòÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºè¿è¡Œåï¼Œè‹¥ä»é”®ç›˜è¾“å…¥(ä»ç¬¬1åˆ—å¼€å§‹)
+123<å›è½¦>
+45678<å›è½¦>
+åˆ™è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.1267  
 B.1256 
 C.1278  
 D.1245
 Answer:D
 
-3290. ÓĞÒÔÏÂ³ÌĞò
+3290. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
-{int y=10£»
-while(y--)£»printf("y=%d\n",y);
+{int y=10ï¼›
+while(y--)ï¼›printf("y=%d\n",y);
 }
-³ÌĞòÖ´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºæ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.y=0
 B.y=-1
 C.y=1
-D.while¹¹³ÉÎŞÏŞÑ­»·
+D.whileæ„æˆæ— é™å¾ªç¯
 Answer:B
 
-3291. ÓĞÒÔÏÂ³ÌĞò
+3291. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
-{int a=0£¬b=0£¬c=0£¬d=0£»
-if(a=1) b=1£»c=2£»
+{int a=0ï¼Œb=0ï¼Œc=0ï¼Œd=0ï¼›
+if(a=1) b=1ï¼›c=2ï¼›
 else d=3;
-printf("£¥d£¬£¥d£¬£¥d£¬£¥d£Ün"£¬a£¬b£¬c£¬d)£»
+printf("ï¼…dï¼Œï¼…dï¼Œï¼…dï¼Œï¼…dï¼¼n"ï¼Œaï¼Œbï¼Œcï¼Œd)ï¼›
 }
-³ÌĞòÊä³ö£¨£©¡£
-A.0£¬1£¬2£¬0
-B.0,0£¬0£¬3 
-C.1£¬1£¬2£¬0 
-D.±àÒëÓĞ´í
+ç¨‹åºè¾“å‡ºï¼ˆï¼‰ã€‚
+A.0ï¼Œ1ï¼Œ2ï¼Œ0
+B.0,0ï¼Œ0ï¼Œ3 
+C.1ï¼Œ1ï¼Œ2ï¼Œ0 
+D.ç¼–è¯‘æœ‰é”™
 Answer:D
 
-3292. ÓĞÒÔÏÂ³ÌĞò
+3292. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
-{int i£¬t£Û£İ£Û3£İ={9£¬8£¬7£¬6£¬5£¬4£¬3£¬2£¬1}£»
-for(i=0£»i<3£»i++) printf("£¥d"£¬t£Û2-i£İ£Ûi£İ)£»
+{int iï¼Œtï¼»ï¼½ï¼»3ï¼½={9ï¼Œ8ï¼Œ7ï¼Œ6ï¼Œ5ï¼Œ4ï¼Œ3ï¼Œ2ï¼Œ1}ï¼›
+for(i=0ï¼›i<3ï¼›i++) printf("ï¼…d"ï¼Œtï¼»2-iï¼½ï¼»iï¼½)ï¼›
 }
-³ÌĞòÖ´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºæ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.7 5 3
 B.3 5 7 
 C.3 6 9 
 D.7 5 1
 Answer:B
 
-3293. ÓĞÒÔÏÂ³ÌĞò
-fun(char p£Û£İ£Û10£İ)
-{int n=0£¬i£»
-for(i=0£»i<7£»i++)
-if(p£Ûi£İ£Û0£İ=='T')n++£»
+3293. æœ‰ä»¥ä¸‹ç¨‹åº
+fun(char pï¼»ï¼½ï¼»10ï¼½)
+{int n=0ï¼Œiï¼›
+for(i=0ï¼›i<7ï¼›i++)
+if(pï¼»iï¼½ï¼»0ï¼½=='T')n++ï¼›
 return n;
 }
 main()
-{char str£Û£İ£Û10£İ={"Mon"£¬"Tue"£¬"Wed"£¬"Thu"£¬"Fri","Sat"£¬"Sun"}£»
-printf("£¥d£Ün",fun(str))£»
+{char strï¼»ï¼½ï¼»10ï¼½={"Mon"ï¼Œ"Tue"ï¼Œ"Wed"ï¼Œ"Thu"ï¼Œ"Fri","Sat"ï¼Œ"Sun"}ï¼›
+printf("ï¼…dï¼¼n",fun(str))ï¼›
 }
-³ÌĞòÖ´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºæ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.1
 B.2
 C.3
 D.0
 Answer:B
 
-3294. ÓĞÒÔÏÂ³ÌĞò
+3294. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
-{int i£¬s=0£¬t£Û£İ={l£¬2£¬3£¬4£¬5£¬6£¬7£¬8£¬9}£»
-for(i=0£»i<9£»i+=2)s+=*(t+i)£»
-printf("£¥d£Ün"£¬s)£»
+{int iï¼Œs=0ï¼Œtï¼»ï¼½={lï¼Œ2ï¼Œ3ï¼Œ4ï¼Œ5ï¼Œ6ï¼Œ7ï¼Œ8ï¼Œ9}ï¼›
+for(i=0ï¼›i<9ï¼›i+=2)s+=*(t+i)ï¼›
+printf("ï¼…dï¼¼n"ï¼Œs)ï¼›
 }
-³ÌĞòÖ´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºæ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.45
 B.20
 C.25
 D.36
 Answer:C
 
-3295. ÓĞÒÔÏÂ³ÌĞò
+3295. æœ‰ä»¥ä¸‹ç¨‹åº
 void fun1(char *p)
-{char *q£»
-q=p£»
+{char *qï¼›
+q=pï¼›
 while(*q!='\0')
-{ (*q)++£» q++£»
+{ (*q)++ï¼› q++ï¼›
 }
 main()
-{char a£Û£İ={"Program"}£¬ *p£»
-p=&amp;a£Û3£İ£»fun1(p)£»printf("£¥s£Ün"£¬a)£»
+{char aï¼»ï¼½={"Program"}ï¼Œ *pï¼›
+p=&amp;aï¼»3ï¼½ï¼›fun1(p)ï¼›printf("ï¼…sï¼¼n"ï¼Œa)ï¼›
 }
-³ÌĞòÖ´ĞĞºóµÄÊä³ö
+ç¨‹åºæ‰§è¡Œåçš„è¾“å‡º
 A.Prohsbn
 B.Prphsbn 
 C.Progsbn
 D.Program
 Answer:A
 
-3296. ÓĞÒÔÏÂ³ÌĞò
-void swap(char *x£¬char *y)
-{char t£»
-t=*x£» *x=*y£» *y=t£»
+3296. æœ‰ä»¥ä¸‹ç¨‹åº
+void swap(char *xï¼Œchar *y)
+{char tï¼›
+t=*xï¼› *x=*yï¼› *y=tï¼›
 }
 main()
-{char *s1="abc"£¬*s2="123";
-swap(s1£¬s2)£»printf("£¥s£¬£¥s£Ün"£¬s1£¬s2)£»
+{char *s1="abc"ï¼Œ*s2="123";
+swap(s1ï¼Œs2)ï¼›printf("ï¼…sï¼Œï¼…sï¼¼n"ï¼Œs1ï¼Œs2)ï¼›
 }
-³ÌĞòÖ´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
-A.123£¬abc
-B.abc£¬123 
-C.1bc£¬a23
+ç¨‹åºæ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
+A.123ï¼Œabc
+B.abcï¼Œ123 
+C.1bcï¼Œa23
 D.321,cba
 Answer:C
 
-3297. ÓĞÒÔÏÂ³ÌĞò
+3297. æœ‰ä»¥ä¸‹ç¨‹åº
 int fun(int n)
-{if(n==1)return 1£»
+{if(n==1)return 1ï¼›
 else
-return(n+fun(n-1))£»
+return(n+fun(n-1))ï¼›
 }
 main()
-{int x£»
-scanf("£¥d",&amp;x); x=fun(x)£»printf("£¥d£Ün"£¬x)£»
+{int xï¼›
+scanf("ï¼…d",&amp;x); x=fun(x)ï¼›printf("ï¼…dï¼¼n"ï¼Œx)ï¼›
 }
-Ö´ĞĞ³ÌĞòÊ±£¬¸ø±äÁ¿XÊäÈë10£¬³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+æ‰§è¡Œç¨‹åºæ—¶ï¼Œç»™å˜é‡Xè¾“å…¥10ï¼Œç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.55
 B.54
 C.65
 D.45
 Answer:A
 
-3298. ÓĞÒÔÏÂ³ÌĞò
-int fun(int x£Û£İ£¬int n)
-{static int sum=0£¬i£»
-for(i=0£»i<n£»i++) sum+=x£Ûi£İ£»
-return sum£»
+3298. æœ‰ä»¥ä¸‹ç¨‹åº
+int fun(int xï¼»ï¼½ï¼Œint n)
+{static int sum=0ï¼Œiï¼›
+for(i=0ï¼›i<nï¼›i++) sum+=xï¼»iï¼½ï¼›
+return sumï¼›
 }
 main()
-{int a£Û£İ={1,2£¬3£¬4£¬5}£¬b£Û£İ={6£¬7£¬8£¬9}£¬s=0£»
-s=fun(a,5)+fun(b£¬4)£»printf("£¥d£Ün"£¬s)£»
+{int aï¼»ï¼½={1,2ï¼Œ3ï¼Œ4ï¼Œ5}ï¼Œbï¼»ï¼½={6ï¼Œ7ï¼Œ8ï¼Œ9}ï¼Œs=0ï¼›
+s=fun(a,5)+fun(bï¼Œ4)ï¼›printf("ï¼…dï¼¼n"ï¼Œs)ï¼›
 }
-³ÌĞòÖ´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºæ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.45
 B.50
 C.60
 D.55
 Answer:C
 
-3299. ÓĞÒÔÏÂ³ÌĞò
+3299. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
 {union
-{char ch[2]£»
-int d£»
-}s£»
-s.d=0x4321£»
-printf("%x£¬%x\n"£¬s.ch[0]£¬s.ch[1]);
+{char ch[2]ï¼›
+int dï¼›
+}sï¼›
+s.d=0x4321ï¼›
+printf("%xï¼Œ%x\n"ï¼Œs.ch[0]ï¼Œs.ch[1]);
 }
-ÔÚ16Î»±àÒëÏµÍ³ÉÏ£¬³ÌĞòÖ´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
-A.21£¬43 
-B.43£¬21
-C.43£¬00
-D.21£¬00
+åœ¨16ä½ç¼–è¯‘ç³»ç»Ÿä¸Šï¼Œç¨‹åºæ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
+A.21ï¼Œ43 
+B.43ï¼Œ21
+C.43ï¼Œ00
+D.21ï¼Œ00
 Answer:A
 
-3300. ÓĞÒÔÏÂ³ÌĞò
+3300. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
-{char *p£Û£İ={"3697"£¬"2584"}£»
-int i£¬j£»long num=0£»
-for(i=0£»i<2£»i++)
-{j=0£»
-while(p£Ûi£İ£Ûj£İ!="£Ü0")
-{if((p£Ûi£İ£Ûj£İ-"0")£¥2)num=10*num+p£Ûi£İ£Ûj£İ-"0"£»
-j+=2£»
+{char *pï¼»ï¼½={"3697"ï¼Œ"2584"}ï¼›
+int iï¼Œjï¼›long num=0ï¼›
+for(i=0ï¼›i<2ï¼›i++)
+{j=0ï¼›
+while(pï¼»iï¼½ï¼»jï¼½!="ï¼¼0")
+{if((pï¼»iï¼½ï¼»jï¼½-"0")ï¼…2)num=10*num+pï¼»iï¼½ï¼»jï¼½-"0"ï¼›
+j+=2ï¼›
 }
 }
-printf("£¥d£Ün",num)£»
+printf("ï¼…dï¼¼n",num)ï¼›
 }
-³ÌĞòÖ´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºæ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.35
 B.37
 C.39
 D.3975
 Answer:C
 
-3301. ÓĞÒÔÏÂ³ÌĞò
+3301. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
-{int i£»
+{int iï¼›
 for(i=1;i<=40;i++)
 {if(i++%5==0)
 if (++i%8==0) printf("%d",i) ;}
-printf("\n") ;} Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+printf("\n") ;} æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.5
 B.24
 C.32
 D.40
 Answer:C
 
-3302. ÓĞÒÔÏÂ³ÌĞò
+3302. æœ‰ä»¥ä¸‹ç¨‹åº
 fun(int x,int y){return(x+y);}
 main()
 {int a=1,b=2,c=3,sum;
 sum=fun((a++,b++,a+b),c++);
 printf("%d\n",sum); }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.6
 B.7
 C.8
 D.9
 Answer:C
 
-3303. ÓĞÒÔÏÂ³ÌĞò
+3303. æœ‰ä»¥ä¸‹ç¨‹åº
 fun(int x,int y)
 {static int m=0,i=2; i+=m+1;m=i+x+y; return m; }
 main()
@@ -1634,101 +1634,101 @@ k=fun(j,m); printf("%d,",k);
 k=fun(j,m);
 printf("%d\n",k);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹û
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœ
 A.5,5
 B.5,11
 C.11,11
 D.11,5
 Answer:B
 
-3304. ÓĞÒÔÏÂ³ÌĞò
+3304. æœ‰ä»¥ä¸‹ç¨‹åº
 fun(int x)
 {int p;
-if(x==0¨Ux==1) return(3);
+if(x==0â•‘x==1) return(3);
 p=x-fun(x-2); return p; }
 main()
 { prinf("%d\n",fun(7));}
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.7
 B.3
 C.2
 D.0
 Answer:C
 
-3305. ÓĞÒÔÏÂ³ÌĞò
+3305. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
 {int a=1,b=3,c=5;
 int *p1=&amp;a,*p2=&amp;b,*p=&amp;c;
 *p=*p1*(*p2);
 printf("%d\n",c);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.1
 B.2
 C.3
 D.4
 Answer:C
 
-3306. ÓĞÒÔÏÂ³ÌĞò
+3306. æœ‰ä»¥ä¸‹ç¨‹åº
 void change(int k[ ]){k[0]=k[5];}
 main()
 {int x[10]={1,2,3,4,5,6,7,8,9,10},n=0;
 while(n<=4) {change(&amp;x[n]);n++;} for(n=0;n<5;n++) printf("%d",x[n]);printf("\n"); }
-³ÌĞòÔËĞĞºóÊä³öµÄ½á¹ûÊÇ£¨£©¡£
+ç¨‹åºè¿è¡Œåè¾“å‡ºçš„ç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.678910
 B.13579
 C.12345
 D.62345
 Answer:A
 
-3307. ÒÔÏÂ³ÌĞò
+3307. ä»¥ä¸‹ç¨‹åº
 main() {int x[3][2]={0},I;
 for(I=0;I<3;I++) scanf("%d",x[i]);
 printf("%3d%3d%3d\n",x[0][0],x[0][1],x[1][0]);}
-ÈôÔËĞĞÊ±ÊäÈë£º246<»Ø³µ>£¬ÔòÊä³ö½á¹ûÎª£¨£©¡£
+è‹¥è¿è¡Œæ—¶è¾“å…¥ï¼š246<å›è½¦>ï¼Œåˆ™è¾“å‡ºç»“æœä¸ºï¼ˆï¼‰ã€‚
 A.2 0 0
 B.2 0 4
 C.2 4 0
 D.2 4 6
 Answer:B
 
-3308. ÓĞÒÔÏÂ³ÌĞò
+3308. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
 {char s[ ]={ "aeiou"},*ps;
-ps=s; printf("%c\n",*ps+4);}³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ps=s; printf("%c\n",*ps+4);}ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.a
 B.e
 C.u
-D.ÔªËØs[4]µÄµØÖ·
+D.å…ƒç´ s[4]çš„åœ°å€
 Answer:B
 
-3309. ÓĞÒÔÏÂ³ÌĞò
+3309. æœ‰ä»¥ä¸‹ç¨‹åº
 int add(int a,int b){return+b};}
 main()
 {int k,(*f)(),a=5,b=10;
 f=add;
-... }ÔòÒÔÏÂº¯Êıµ÷ÓÃÓï¾ä´íÎóµÄÊÇ£¨£©¡£
+... }åˆ™ä»¥ä¸‹å‡½æ•°è°ƒç”¨è¯­å¥é”™è¯¯çš„æ˜¯ï¼ˆï¼‰ã€‚
 A.k=(*f)(a,b);
 B.k=add(a,b);
 C.k=*f(a,b);
 D.k=f(a,b);
 Answer:C
 
-3310. ÓĞÒÔÏÂ³ÌĞò
-void fun2(char a, char b){printf(¡°%c%c¡±,a,b);}
+3310. æœ‰ä»¥ä¸‹ç¨‹åº
+void fun2(char a, char b){printf(â€œ%c%câ€,a,b);}
 char a= 'A',b= 'B';
 void fun1( ){ a= 'C'; b= 'D'; }
 main( )
 { fun1( ) ;
-printf( ¡°%c%c¡±,a,b);fun2('E', 'F'); }
-³ÌĞòµÄÔËĞĞ½á¹ûÊÇ£¨£©¡£
+printf( â€œ%c%câ€,a,b);fun2('E', 'F'); }
+ç¨‹åºçš„è¿è¡Œç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.CDEF
 B.ABEF
 C.ABCD
 D.CDAB
 Answer:A
 
-3311. ÓĞÒÔÏÂ³ÌĞò
+3311. æœ‰ä»¥ä¸‹ç¨‹åº
 #define N 5
 #define M N+1
 #define f(x) (x*M)
@@ -1736,15 +1736,15 @@ main()
 {int i1,i2;
 i1=f(2);
 i2=f(1+1);
-printf(¡°%d %d\n¡±,i1,i2); }
-³ÌĞòµÄÔËĞĞ½á¹ûÊÇ£¨£©¡£
+printf(â€œ%d %d\nâ€,i1,i2); }
+ç¨‹åºçš„è¿è¡Œç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.12 12
 B.11 7
 C.11 11
 D.12 7
 Answer:B
 
-3312. ÓĞÒÔÏÂ³ÌĞò
+3312. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
 {int k=5,n=0;
 do
@@ -1752,16 +1752,16 @@ do
 {case 1: case 3:n+=1; break;
 default:n=0;k--;
 case 2: case4:n+=2;k--;break;}
-printf(¡°%d¡±,n);
+printf(â€œ%dâ€,n);
 }while(k>0&amp;&amp;n<5);}
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ()
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯()
 A.2345
 B.235
 C.23456
 D.2356
 Answer:A
 
-3313. ÒÔÏÂ³ÌĞòÖĞº¯ÊıfµÄ¹¦ÄÜÊÇ£ºµ±flagÎª4Ê±£¬½øĞĞÓĞĞ¡µ½´óÅÅĞò£»µ±flagÎª0Ê±£¬½øĞĞÓÉ´óµ½Ğ¡ÅÅĞò¡£
+3313. ä»¥ä¸‹ç¨‹åºä¸­å‡½æ•°fçš„åŠŸèƒ½æ˜¯ï¼šå½“flagä¸º4æ—¶ï¼Œè¿›è¡Œæœ‰å°åˆ°å¤§æ’åºï¼›å½“flagä¸º0æ—¶ï¼Œè¿›è¡Œç”±å¤§åˆ°å°æ’åºã€‚
 void f(int b[],int n,int flag)
 {int i,j,t;
 for(i=0;i<n-1;i++)
@@ -1771,15 +1771,15 @@ if(flag?b[j]>b[j+1]:b[j]<b[j+1])
 main()
 {int a[10]={5,4,3,2,1,6,7,8,9,10},I;
 f(&amp;a[2],5,,0); f(a,5,1);
-for(i=0;i<10;i++) printf(¡°%d,¡±a[ i ]);} 
- ³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
-A.1£¬2£¬3£¬4£¬5£¬6£¬7£¬8£¬9£¬10£¬
-B.3£¬4£¬5£¬6£¬7£¬2£¬1£¬8£¬9£¬10£¬
-C.5£¬4£¬3£¬2£¬1£¬6£¬7£¬8£¬9£¬10£¬
-D.10£¬9£¬8£¬7£¬6£¬5£¬4£¬3£¬2£¬1£¬
+for(i=0;i<10;i++) printf(â€œ%d,â€a[ i ]);} 
+ ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
+A.1ï¼Œ2ï¼Œ3ï¼Œ4ï¼Œ5ï¼Œ6ï¼Œ7ï¼Œ8ï¼Œ9ï¼Œ10ï¼Œ
+B.3ï¼Œ4ï¼Œ5ï¼Œ6ï¼Œ7ï¼Œ2ï¼Œ1ï¼Œ8ï¼Œ9ï¼Œ10ï¼Œ
+C.5ï¼Œ4ï¼Œ3ï¼Œ2ï¼Œ1ï¼Œ6ï¼Œ7ï¼Œ8ï¼Œ9ï¼Œ10ï¼Œ
+D.10ï¼Œ9ï¼Œ8ï¼Œ7ï¼Œ6ï¼Œ5ï¼Œ4ï¼Œ3ï¼Œ2ï¼Œ1ï¼Œ
 Answer:B
 
-3314. ÏÖÓĞ³ÌĞò:
+3314. ç°æœ‰ç¨‹åº:
 main()
 {
 int *ptr,*p[5],i;
@@ -1794,14 +1794,14 @@ for(i=0;i<100;i++)
         printf("%3d",*p[i]);
      }
 }
-ÆäÊä³ö½á¹ûÊÇ£¨£©¡£
+å…¶è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.1 7 14 27 28
 B.0 7 14 22 28
 C.0 7 13 22 28
 D.0 7 14 21 28
 Answer:D
 
-3315. Çë¶Á³ÌĞò:
+3315. è¯·è¯»ç¨‹åº:
 main()
 { static int a[]={1,2,3,4,5,6}
 int *p;
@@ -1810,7 +1810,7 @@ p=a;
 *(p+3)+=2;
 printf("n1=%d,n2=%d\n:",*p,*(p+3));
 }
-ÆäÊä³öÊÇ£¨ £©¡£
+å…¶è¾“å‡ºæ˜¯ï¼ˆ ï¼‰ã€‚
 A.n1=1;n2=5
 B.n1=2,n2=6
 C.n1=1
@@ -1818,7 +1818,7 @@ n2=7
 D.n1=1,n2=6
 Answer:D
 
-3316. ÏÂÃæµÄC³ÌĞòÍê³ÉµÄ¹¦ÄÜÊÇ£¨£©¡£
+3316. ä¸‹é¢çš„Cç¨‹åºå®Œæˆçš„åŠŸèƒ½æ˜¯ï¼ˆï¼‰ã€‚
 #define SIZE 5
 void func(int data[SIZE]);
 main()
@@ -1843,27 +1843,27 @@ void func(int data[SIZE])
           data[j+1]=d;        }
 }
 
-A.¶ÔÒ»Î¬Êı×é½µĞòÅÅĞò
-B.¶ÔÒ»Î¬Êı×éÉıĞòÅÅĞò
-C.¶ÔÒ»Î¬Êı×éÄæÏòÅÅĞò
-D.¶ÔÒ»Î¬Êı×éË³ĞòÅÅĞò
+A.å¯¹ä¸€ç»´æ•°ç»„é™åºæ’åº
+B.å¯¹ä¸€ç»´æ•°ç»„å‡åºæ’åº
+C.å¯¹ä¸€ç»´æ•°ç»„é€†å‘æ’åº
+D.å¯¹ä¸€ç»´æ•°ç»„é¡ºåºæ’åº
 Answer:B
 
-3317. ÏÂÃæ³ÌĞòÊä³öÊı×éÖĞµÄ×î´óÖµ£¬ÓÉsÖ¸ÕëÖ¸Ïò¸ÃÔªËØ.
+3317. ä¸‹é¢ç¨‹åºè¾“å‡ºæ•°ç»„ä¸­çš„æœ€å¤§å€¼ï¼Œç”±sæŒ‡é’ˆæŒ‡å‘è¯¥å…ƒç´ .
 main()
 { int a[10]={6,7,2,9,1,10,5,8,4,3,},*p,*s;
 flr(p=a, s=a; p-a<10; p++)
 if(_________)s=p;
 printf("The max:%d",*s):
 }
-ÔòÔÚifÓï¾äÖĞµÄÅĞ¶Ï±í´ïÊ½Ó¦¸ÃÊÇ£¨£©¡£
+åˆ™åœ¨ifè¯­å¥ä¸­çš„åˆ¤æ–­è¡¨è¾¾å¼åº”è¯¥æ˜¯ï¼ˆï¼‰ã€‚
 A.p>s
 B.*p>*s
 C.a[p]>a[s]
 D.p-a>p-
 Answer:B
 
-3318. ÏÂÁĞ³ÌĞò¶ÎÊä³ö½á¹ûÊÇ£¨  £©¡£
+3318. ä¸‹åˆ—ç¨‹åºæ®µè¾“å‡ºç»“æœæ˜¯ï¼ˆ  ï¼‰ã€‚
 a=1;b=10;
 do{
 b-=a;
@@ -1886,14 +1886,14 @@ static c=3;
 b++;c++;
 return(a+b+c);
 }
-Ö´ĞĞ´Ë³ÌĞòºóÆÁÄ»ÉÏÏÔÊ¾µÄ½á¹ûÊÇ£¨£©¡£
+æ‰§è¡Œæ­¤ç¨‹åºåå±å¹•ä¸Šæ˜¾ç¤ºçš„ç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.8 10 10
 B.7 9 10
 C.8 9 11
 D.8 9 10
 Answer:D
 
-3320. Çë¶Á³ÌĞò:
+3320. è¯·è¯»ç¨‹åº:
 main()
 { char *p;
 char s[80];
@@ -1901,25 +1901,25 @@ scanf("%s",s);
 p=s[0];
 printf("%s",p);
 }
-ÇëÅĞ¶ÏÉÏÃæ³ÌĞòÑ¡³öÕıÈ·´ğ°¸ÊÇ£¨£©¡£
-A.´íÎó:p=s[0];
-ÕıÈ·:p=*s;
-B.´íÎó:p=s[0];
-ÕıÈ·:p=s[];
-C.´íÎó:p=s[0];
-ÕıÈ·:p=s;
-D.´íÎó:p=s[0];
-ÕıÈ·:p=&amp;s;
+è¯·åˆ¤æ–­ä¸Šé¢ç¨‹åºé€‰å‡ºæ­£ç¡®ç­”æ¡ˆæ˜¯ï¼ˆï¼‰ã€‚
+A.é”™è¯¯:p=s[0];
+æ­£ç¡®:p=*s;
+B.é”™è¯¯:p=s[0];
+æ­£ç¡®:p=s[];
+C.é”™è¯¯:p=s[0];
+æ­£ç¡®:p=s;
+D.é”™è¯¯:p=s[0];
+æ­£ç¡®:p=&amp;s;
 Answer:C
 
-3321. ¶ÔÓÚÓÃ"r"·½Ê½´ò¿ªÎÄ¼şÏÂÁĞËµ·¨ÕıÈ·µÄÊÇ£¨£©¡£
-A.ÓÃ"r"·½Ê½´ò¿ªµÄÎÄ¼şÖ»ÊäÈë²»ÄÜÊä³ö
-B.ÓÃ"r"·½Ê½´ò¿ªµÄÎÄ¼şÖ»ÄÜÊä³ö£¬²»ÄÜÊäÈë
-C.ÓÃ"r"·½Ê½¿ÉÒÔ´ò¿ªÈÎºÎÎÄ¼ş
-D.ÒÔÉÏ¾ù²»¶Ô
+3321. å¯¹äºç”¨"r"æ–¹å¼æ‰“å¼€æ–‡ä»¶ä¸‹åˆ—è¯´æ³•æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.ç”¨"r"æ–¹å¼æ‰“å¼€çš„æ–‡ä»¶åªè¾“å…¥ä¸èƒ½è¾“å‡º
+B.ç”¨"r"æ–¹å¼æ‰“å¼€çš„æ–‡ä»¶åªèƒ½è¾“å‡ºï¼Œä¸èƒ½è¾“å…¥
+C.ç”¨"r"æ–¹å¼å¯ä»¥æ‰“å¼€ä»»ä½•æ–‡ä»¶
+D.ä»¥ä¸Šå‡ä¸å¯¹
 Answer:A
 
-3322. ÒÔÏÂ³ÌĞòµ÷ÓÃfindmaxº¯Êı·µ»ØÊı×éÖĞµÄ×î´óÖµ
+3322. ä»¥ä¸‹ç¨‹åºè°ƒç”¨findmaxå‡½æ•°è¿”å›æ•°ç»„ä¸­çš„æœ€å¤§å€¼
 findmax(int *a,int n)
 { int *p,*s;
 for(p=a,s=a; p-a
@@ -1930,44 +1930,44 @@ main()
 { int x[5]={12,21,13,6,18};
 printf("%d\n",findmax(x,5));
 }
-ÔÚÏÂ»®Ïß´¦Ó¦ÌîÈëµÄÊÇ£¨£©¡£
+åœ¨ä¸‹åˆ’çº¿å¤„åº”å¡«å…¥çš„æ˜¯ï¼ˆï¼‰ã€‚
 A.p>s
 B.*p>*s
 C.a[p]>a[s]
 D.p-a>p-s
 Answer:B
 
-3323. ÓĞÒÔÏÂ³ÌĞò
+3323. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
 { int i, j;
 for(j=10;j<11;j++)
 { for(i=9;i<=j-1;i++)printf("%d",j);
 }
 }
-Êä³ö½á¹ûÊÇ()¡£
+è¾“å‡ºç»“æœæ˜¯()ã€‚
 A.11
 B.10
 C.9
 D.10 11
 Answer:B
 
-3324. ÓĞÒÔÏÂ³ÌĞò
+3324. æœ‰ä»¥ä¸‹ç¨‹åº
 main()
 { char a[]="programming", b[]="language";
 char *p1,*p2;
 int i;
 p1=a; p2=b;
 for(i=0;i<7;i++)
-if(*(p1+i)==*(p2+i)) printf("£¥c",*(p1+i));
+if(*(p1+i)==*(p2+i)) printf("ï¼…c",*(p1+i));
 }
-Êä³ö½á¹ûÊÇ£¨£©¡£
+è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.gm
 B.rg
 C.or
 D.ga
 Answer:D
 
-3325. ÓĞÒÔÏÂ³ÌĞò
+3325. æœ‰ä»¥ä¸‹ç¨‹åº
 int fun(int x,int y,int *cp,int *dp)
 { *cp=x+y; *dp=x-y; }
 main()
@@ -1976,14 +1976,14 @@ a=30; b=50;
 fun(a,b,&amp;c,&amp;d);
 printf("%d,%d\n", c, d);
 }
-Êä³ö½á¹ûÊÇ£¨£©¡£
+è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.50,30
 B.30,50
 C.80,-20
 D.80,20
 Answer:C
 
-3326. ÓĞÒÔÏÂ³ÌĞò
+3326. æœ‰ä»¥ä¸‹ç¨‹åº
 #include "stdio.h"
 main()
 { int a,b,c=246;
@@ -1991,15 +1991,15 @@ a=c/100%9;
 b=(-1)&amp;&amp;(-1);
 printf("%d,%d\n",a,b);
 }
-Êä³ö½á¹ûÊÇ£¨£©¡£
+è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.2,1
 B.3,2
 C.4,3
 D.2,-1
 Answer:A
 
-3327. ÓĞÒÔÏÂ³ÌĞò
-££include "stdio.h"
+3327. æœ‰ä»¥ä¸‹ç¨‹åº
+ï¼ƒinclude "stdio.h"
 int abc(int u,intv);
 main ()
 { int a=24,b=16,c;
@@ -2012,14 +2012,14 @@ while(v)
 { w=u%v;  u=v; v=w }
 return u;
 }
-Êä³ö½á¹ûÊÇ£¨£©¡£
+è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.6
 B.7
 C.8
 D.9
 Answer:C
 
-3328. ÔÄ¶ÁÏÂÃæµÄ³ÌĞò,ÔËĞĞ½á¹ûÊÇ£¨£©¡£
+3328. é˜…è¯»ä¸‹é¢çš„ç¨‹åº,è¿è¡Œç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 main()
 {
 char *str="ABCabcd";
@@ -2048,30 +2048,30 @@ C.cdbaCBA
 D.bCBAacd
 Answer:B
 
-3329. ÔÄ¶ÁÏÂÁĞ³ÌĞò:
+3329. é˜…è¯»ä¸‹åˆ—ç¨‹åº:
 main( )
 { int n[3],i,j,k;
-for(i=0;i¡´3;i++¡µ n[i]=0;
+for(i=0;iã€ˆ3;i++ã€‰ n[i]=0;
 k=2;
-for (i=0;i¡´k;i++¡µ
-for (j=0;j¡´k;j++¡µ n[j]=n[i]+1;
+for (i=0;iã€ˆk;i++ã€‰
+for (j=0;jã€ˆk;j++ã€‰ n[j]=n[i]+1;
 printf("%d\n",n[1]); }
-³ÌĞòÔËĞĞºóÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºè¿è¡Œåè¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.2
 B.1
 C.0
 D.3
 Answer:D
 
-3330. ÔÚÒÔÏÂ¶¨ÒåÖĞ£¬±êÊ¶·ûp£¨ £©¡£
-int (*p)[3]£»
-A.¶¨Òå²»ºÏ·¨
-B.ÊÇÒ»¸öÖ¸ÕëÊı×éÃû£¬Ã¿¸öÔªËØÊÇÒ»¸öÖ¸ÏòÕûÊı±äÁ¿µÄÖ¸Õë
-C.ÊÇÒ»¸öÖ¸Õë£¬ËüÖ¸ÏòÒ»¸ö¾ßÓĞÈı¸öÔªËØµÄÒ»Î¬Êı×é
-D.ÊÇÒ»¸öÖ¸ÏòÕûĞÍ±äÁ¿µÄÖ¸Õë
+3330. åœ¨ä»¥ä¸‹å®šä¹‰ä¸­ï¼Œæ ‡è¯†ç¬¦pï¼ˆ ï¼‰ã€‚
+int (*p)[3]ï¼›
+A.å®šä¹‰ä¸åˆæ³•
+B.æ˜¯ä¸€ä¸ªæŒ‡é’ˆæ•°ç»„åï¼Œæ¯ä¸ªå…ƒç´ æ˜¯ä¸€ä¸ªæŒ‡å‘æ•´æ•°å˜é‡çš„æŒ‡é’ˆ
+C.æ˜¯ä¸€ä¸ªæŒ‡é’ˆï¼Œå®ƒæŒ‡å‘ä¸€ä¸ªå…·æœ‰ä¸‰ä¸ªå…ƒç´ çš„ä¸€ç»´æ•°ç»„
+D.æ˜¯ä¸€ä¸ªæŒ‡å‘æ•´å‹å˜é‡çš„æŒ‡é’ˆ
 Answer:C
 
-3331. ÔÚCÓïÑÔÖĞ£¬Èç¹ûÏÂÃæµÄ±äÁ¿¶¼ÊÇintÀàĞÍ£¬ÔòÊä³öµÄ½á¹ûÊÇ(¡¡¡¡)¡£
+3331. åœ¨Cè¯­è¨€ä¸­ï¼Œå¦‚æœä¸‹é¢çš„å˜é‡éƒ½æ˜¯intç±»å‹ï¼Œåˆ™è¾“å‡ºçš„ç»“æœæ˜¯(ã€€ã€€)ã€‚
 sum=5,p=5;p=sum++,p++,++p;
 printf("%d\n",p);
 A.7
@@ -2080,7 +2080,7 @@ C.5
 D.4
 Answer:A
 
-3332. ÓĞÒÔÏÂ³ÌĞò¶Î
+3332. æœ‰ä»¥ä¸‹ç¨‹åºæ®µ
 main()
 { union
 { int k;
@@ -2090,30 +2090,30 @@ s=&amp;a;
 s->i[0]=0x39; s->i[1]=0x38;
 printf("%x\n",s->k); 
 }
-Êä³ö½á¹ûÊÇ£¨£©¡£
+è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.3839
 B.3938
 C.380039
 D.390038
 Answer:A
 
-3333. ÏÂÁĞº¯ÊıµÄ¹¦ÄÜÊÇ
+3333. ä¸‹åˆ—å‡½æ•°çš„åŠŸèƒ½æ˜¯
 fun(char * a,char * b)
 { while((*b=*a)!='\0') {a++,b++;} }
-A.½«aËùÖ¸×Ö·û´®¸³¸øbËùÖ¸¿Õ¼ä
-B.Ê¹Ö¸ÕëbÖ¸ÏòaËùÖ¸×Ö·û´®
-C.½«aËùÖ¸×Ö·û´®ºÍbËùÖ¸×Ö·û´®½øĞĞ±È½Ï
-D.¼ì²éaºÍbËùÖ¸×Ö·û´®ÖĞÊÇ·ñÓĞ'\0'
+A.å°†aæ‰€æŒ‡å­—ç¬¦ä¸²èµ‹ç»™bæ‰€æŒ‡ç©ºé—´
+B.ä½¿æŒ‡é’ˆbæŒ‡å‘aæ‰€æŒ‡å­—ç¬¦ä¸²
+C.å°†aæ‰€æŒ‡å­—ç¬¦ä¸²å’Œbæ‰€æŒ‡å­—ç¬¦ä¸²è¿›è¡Œæ¯”è¾ƒ
+D.æ£€æŸ¥aå’Œbæ‰€æŒ‡å­—ç¬¦ä¸²ä¸­æ˜¯å¦æœ‰'\0'
 Answer:A
 
-3334. ÓĞÓï¾ächar str1[10],str2[10]={"china"};ÔòÄÜ½«×Ö·û´®china¸³¸øÊı×éstr1µÄÕıÈ·Óï¾äÊÇ£¨ £©¡£
+3334. æœ‰è¯­å¥char str1[10],str2[10]={"china"};åˆ™èƒ½å°†å­—ç¬¦ä¸²chinaèµ‹ç»™æ•°ç»„str1çš„æ­£ç¡®è¯­å¥æ˜¯ï¼ˆ ï¼‰ã€‚
 A.str1={"china"};
 B.strcpy(str1,str2);
 C.str1=str2;
 D.strcpy(str2,str1);
 Answer:B
 
-3335. ÒÔÏÂ³ÌĞòÔËĞĞºó,Êä³ö½á¹ûÊÇ £¨£©¡£
+3335. ä»¥ä¸‹ç¨‹åºè¿è¡Œå,è¾“å‡ºç»“æœæ˜¯ ï¼ˆï¼‰ã€‚
 fut (int **s,int p[2][3])
 { **s=p[1][1];)
 main()
@@ -2128,7 +2128,7 @@ C.9
 D.11
 Answer:C
 
-3336. ÒÔÏÂ¶Ô½á¹¹ÌåÀàĞÍ±äÁ¿µÄ¶¨ÒåÖĞ£¬²»ÕıÈ·µÄÊÇ£¨£©¡£
+3336. ä»¥ä¸‹å¯¹ç»“æ„ä½“ç±»å‹å˜é‡çš„å®šä¹‰ä¸­ï¼Œä¸æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
 A.typedef struct aa
 { int n; AA
 float m;
@@ -2149,20 +2149,20 @@ float m;
 }td1;
 Answer:C
 
-3337. ÓĞÈçÏÂ¶¨Òå
+3337. æœ‰å¦‚ä¸‹å®šä¹‰
 struct person{char name[9]; int age;};
 strict person class[10]={"Johu", 17,
 "Paul", 19
 "Mary", 18,
 "Adam 16,};
-¸ù¾İÉÏÊö¶¨Òå£¬ÄÜÊä³ö×ÖÄ¸MµÄÓï¾äÊÇ£¨£©¡£
+æ ¹æ®ä¸Šè¿°å®šä¹‰ï¼Œèƒ½è¾“å‡ºå­—æ¯Mçš„è¯­å¥æ˜¯ï¼ˆï¼‰ã€‚
 A.prinft("%c\n",class[3].mane);
 B.pfintf("%c\n",class[3].name[1]);
 C.prinft("%c\n",class[2].name[1]);
 D.printf("%^c\n",class[2].name[0]);
 Answer:D
 
-3338. ÒÔÏÂ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3338. ä»¥ä¸‹ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 struct HAR
 { int x, y; struct HAR *p;
 } h[2];
@@ -2181,7 +2181,7 @@ C.1 4
 D.3 2
 Answer:D
 
-3339. ÒÔÏÂ³ÌĞòµÄÊä³öÊÇ£¨£©¡£
+3339. ä»¥ä¸‹ç¨‹åºçš„è¾“å‡ºæ˜¯ï¼ˆï¼‰ã€‚
 struct st
 { int x; int *y;} *p;
 int dt[4]={ 10,20,30,40 };
@@ -2196,7 +2196,7 @@ C.51
 D.60
 Answer:C
 
-3340. ÒÑÖª×Ö·û0µÄASCIIÂëÎªÊ®Áù½øÖÆµÄ30£¬ÏÂÃæ³ÌĞòµÄÊä³öÊÇ£¨£©¡£
+3340. å·²çŸ¥å­—ç¬¦0çš„ASCIIç ä¸ºåå…­è¿›åˆ¶çš„30ï¼Œä¸‹é¢ç¨‹åºçš„è¾“å‡ºæ˜¯ï¼ˆï¼‰ã€‚
 main()
 { union { unsigned char c;
 unsigned int i[4];
@@ -2210,7 +2210,7 @@ C.0
 D.3
 Answer:B
 
-3341. ÒÔÊı¾İ¿éÎªµ¥Î»¶ÔÊı¾İ½øĞĞÕûÌå ¶ÁĞ´Ê±Èç¹ûptrÊÇÖ¸ÏòÄÚ´æÖĞÊı¾İ¿éµÄÊ×µØÖ·£¬fpÊÇÎÄ¼şÖ¸Õë£¬ÄÇÃ´Êı¾İ¿éÖĞÃ¿¸öÊı¾İÏîµÄ´óĞ¡Îª(¡¡¡¡)¡£
+3341. ä»¥æ•°æ®å—ä¸ºå•ä½å¯¹æ•°æ®è¿›è¡Œæ•´ä½“ è¯»å†™æ—¶å¦‚æœptræ˜¯æŒ‡å‘å†…å­˜ä¸­æ•°æ®å—çš„é¦–åœ°å€ï¼Œfpæ˜¯æ–‡ä»¶æŒ‡é’ˆï¼Œé‚£ä¹ˆæ•°æ®å—ä¸­æ¯ä¸ªæ•°æ®é¡¹çš„å¤§å°ä¸º(ã€€ã€€)ã€‚
 A.sizeof(*ptr)
  
 B.*ptr
@@ -2221,7 +2221,7 @@ C.sizeof(ptr)
 D.sizeof(*fp)
 Answer:A
 
-3342. Ğ´³öÏÂÁĞ³ÌĞò¶ÎÔËĞĞ½á¹û£¨£©¡£
+3342. å†™å‡ºä¸‹åˆ—ç¨‹åºæ®µè¿è¡Œç»“æœï¼ˆï¼‰ã€‚
 unsigned int a=3,b=10;
 printf("%d\n",a<<2|b==1);
 A. 
@@ -2231,7 +2231,7 @@ C.8
 D.14
 Answer:B
 
-3343. ÏÂÁĞ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3343. ä¸‹åˆ—ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 int b=2;
 int func(int *a)
 { b += *a; return(b);}
@@ -2246,7 +2246,7 @@ C.8
 D.10
 Answer:B
 
-3344. ÏÂÁĞ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3344. ä¸‹åˆ—ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 struct abc
 { int a, b, c; };
 main()
@@ -2260,18 +2260,18 @@ C.7
 D.8
 Answer:B
 
-3345. ÏÂÁĞ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3345. ä¸‹åˆ—ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 main()
 { char a[10]={9,8,7,6,5,4,3,2,1,0},*p=a+5;
 printf("%d",*--p);
 }
-A.·Ç·¨
-B.a[4]µÄµØÖ·
+A.éæ³•
+B.a[4]çš„åœ°å€
 C.5
 D.3
 Answer:C
 
-3346. ÏÂÁĞ³ÌĞòµÄÔËĞĞ½á¹ûÊÇ()¡£
+3346. ä¸‹åˆ—ç¨‹åºçš„è¿è¡Œç»“æœæ˜¯()ã€‚
 void fun(int *a, int *b)
 { int *k;
 k=a; a=b; b=k;
@@ -2283,11 +2283,11 @@ printf("%d %d", a, b);
 }
 A.6 3
 B.3 6
-C.±àÒë³ö´í
+C.ç¼–è¯‘å‡ºé”™
 D.0 0
 Answer:B
 
-3347. ÏÂÁĞ³ÌĞòÖ´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3347. ä¸‹åˆ—ç¨‹åºæ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 main()
 { char x=0xFFFF; printf("%d \n",x--); }
 A.-32767
@@ -2296,7 +2296,7 @@ C.-1
 D.-32768
 Answer:C
 
-3348. ÏÂÃæ³ÌĞòµÄÊä³ö½á¹ûÎª£¨£©¡£
+3348. ä¸‹é¢ç¨‹åºçš„è¾“å‡ºç»“æœä¸ºï¼ˆï¼‰ã€‚
 struct st
 { int x;
 int *y;
@@ -2331,19 +2331,19 @@ D.60
 31
 Answer:C
 
-3349. ÉèÓĞËµÃ÷int(*ptr)[m];ÆäÖĞµÄ±êÊ¶·ûptrÊÇ(¡¡¡¡)¡£
-A.M¸öÖ¸ÏòÕûĞÍ±äÁ¿µÄÖ¸Õë
-B.Ö¸ÏòM¸öÕûĞÍ±äÁ¿µÄº¯ÊıÖ¸Õë
-C.Ò»¸öÖ¸Ïò¾ßÓĞM¸öÕûĞÍÔªËØµÄÒ»Î¬Êı×éµÄÖ¸Õë
-D.¾ßÓĞM¸öÖ¸ÕëÔªËØµÄÒ»Î¬Ö¸ÕëÊı×é£¬Ã¿¸öÔªËØ¶¼Ö»ÄÜÖ¸ÏòÕûĞÍÁ¿
+3349. è®¾æœ‰è¯´æ˜int(*ptr)[m];å…¶ä¸­çš„æ ‡è¯†ç¬¦ptræ˜¯(ã€€ã€€)ã€‚
+A.Mä¸ªæŒ‡å‘æ•´å‹å˜é‡çš„æŒ‡é’ˆ
+B.æŒ‡å‘Mä¸ªæ•´å‹å˜é‡çš„å‡½æ•°æŒ‡é’ˆ
+C.ä¸€ä¸ªæŒ‡å‘å…·æœ‰Mä¸ªæ•´å‹å…ƒç´ çš„ä¸€ç»´æ•°ç»„çš„æŒ‡é’ˆ
+D.å…·æœ‰Mä¸ªæŒ‡é’ˆå…ƒç´ çš„ä¸€ç»´æŒ‡é’ˆæ•°ç»„ï¼Œæ¯ä¸ªå…ƒç´ éƒ½åªèƒ½æŒ‡å‘æ•´å‹é‡
 Answer:C
 
-3350. ÉèÓĞÈçÏÂº¯Êı¶¨Òå:
+3350. è®¾æœ‰å¦‚ä¸‹å‡½æ•°å®šä¹‰:
 int f(char *s)
 { char *p=s;
 while(*p!='\0') p++;
 return(p-s); }
-Èç¹ûÔÚÖ÷³ÌĞòÖĞÓÃÏÂÃæµÄÓï¾äµ÷ÓÃÉÏÊöº¯Êı,ÔòÊä³ö½á¹ûÎª£¨£©¡£
+å¦‚æœåœ¨ä¸»ç¨‹åºä¸­ç”¨ä¸‹é¢çš„è¯­å¥è°ƒç”¨ä¸Šè¿°å‡½æ•°,åˆ™è¾“å‡ºç»“æœä¸ºï¼ˆï¼‰ã€‚
 printf("%d\n",f("goodbey!"));
 A.3
 B.6
@@ -2351,61 +2351,61 @@ C.8
 D.0
 Answer:C
 
-3351. ÉèÓĞÈçÏÂÃ¶¾ÙÀàĞÍ¶¨Òå:
+3351. è®¾æœ‰å¦‚ä¸‹æšä¸¾ç±»å‹å®šä¹‰:
 enum language { Basic=3,Assembly,Ada=100,COBOL,Fortran};
-Ã¶¾ÙÁ¿FortranµÄÖµÎª£¨£©¡£
+æšä¸¾é‡Fortrançš„å€¼ä¸ºï¼ˆï¼‰ã€‚
 A.4
 B.7
 C.102
 D.103
 Answer:C
 
-3352. ÉèÓĞÈçÏÂ¶¨Òå£º
-int (*ptr)()£»
-ÔòÒÔÏÂĞğÊöÖĞÕıÈ·µÄÊÇ£¨£©¡£
-A.ptrÊÇÖ¸ÏòÒ»Î¬×éÊıµÄÖ¸Õë±äÁ¿
+3352. è®¾æœ‰å¦‚ä¸‹å®šä¹‰ï¼š
+int (*ptr)()ï¼›
+åˆ™ä»¥ä¸‹å™è¿°ä¸­æ­£ç¡®çš„æ˜¯ï¼ˆï¼‰ã€‚
+A.ptræ˜¯æŒ‡å‘ä¸€ç»´ç»„æ•°çš„æŒ‡é’ˆå˜é‡
  
-B.ptrÊÇÖ¸ÏòintĞÍÊı¾İµÄÖ¸Õë±äÁ¿
+B.ptræ˜¯æŒ‡å‘intå‹æ•°æ®çš„æŒ‡é’ˆå˜é‡
  
-C.ptrÊÇÖ¸Ïòº¯ÊıµÄÖ¸Õë£¬¸Ãº¯Êı·µ»ØÒ»¸öintĞÍÊı¾İ
+C.ptræ˜¯æŒ‡å‘å‡½æ•°çš„æŒ‡é’ˆï¼Œè¯¥å‡½æ•°è¿”å›ä¸€ä¸ªintå‹æ•°æ®
  
-D.ptrÊÇÒ»¸öº¯ÊıÃû£¬¸Ãº¯ÊıµÄ·µ»ØÖµÊÇÖ¸ÏòintĞÍÊı¾İµÄÖ¸Õë
+D.ptræ˜¯ä¸€ä¸ªå‡½æ•°åï¼Œè¯¥å‡½æ•°çš„è¿”å›å€¼æ˜¯æŒ‡å‘intå‹æ•°æ®çš„æŒ‡é’ˆ
 Answer:C
 
-3353. ÉèÓĞÈçÏÂ¶¨Òå:
+3353. è®¾æœ‰å¦‚ä¸‹å®šä¹‰:
  
 struct sk
 {int a;float b;}data,*p;
-ÈôÓĞp=&amp;data;£¬Ôò¶ÔdataÖĞµÄaÓòµÄÕıÈ·ÒıÓÃÊÇ£¨£©¡£
+è‹¥æœ‰p=&amp;data;ï¼Œåˆ™å¯¹dataä¸­çš„aåŸŸçš„æ­£ç¡®å¼•ç”¨æ˜¯ï¼ˆï¼‰ã€‚
 A.(*p).data.a
 B.(*p).a
 C.p->data.a
 D.p.data.a
 Answer:B
 
-3354. ÉèchÊÇcharĞÍ±äÁ¿£¬ÆäÖµÎªA£¬ÇÒÓĞÏÂÃæµÄ±í´ïÊ½£º
-ch=(ch>='A'&amp;&amp;ch<='Z')?(ch+32):ch µÄÖµÊÇ£¨£©¡£
+3354. è®¾chæ˜¯charå‹å˜é‡ï¼Œå…¶å€¼ä¸ºAï¼Œä¸”æœ‰ä¸‹é¢çš„è¡¨è¾¾å¼ï¼š
+ch=(ch>='A'&amp;&amp;ch<='Z')?(ch+32):ch çš„å€¼æ˜¯ï¼ˆï¼‰ã€‚
 A.A
 B.a
 C.Z
 D.z
 Answer:B
 
-3355. Éèa=3£¬b=2£¬Ôò±í´ïÊ½a^b>>2µÄÖµµÄ¶ş½øÖÆ±íÊ¾Îª(   )¡£
+3355. è®¾a=3ï¼Œb=2ï¼Œåˆ™è¡¨è¾¾å¼a^b>>2çš„å€¼çš„äºŒè¿›åˆ¶è¡¨ç¤ºä¸º(   )ã€‚
 A.00000011
 B.00000110
 C.00000100
 D.10
 Answer:A
 
-3356. Éèx¡¢y¡¢t¾ùÎªintĞÍ±äÁ¿£¬ÔòÖ´ĞĞÓï¾ä£ºx=y=3;t=++x||++y;ºó£¬yµÄÖµÎª()¡£
-A.²»¶¨Öµ
+3356. è®¾xã€yã€tå‡ä¸ºintå‹å˜é‡ï¼Œåˆ™æ‰§è¡Œè¯­å¥ï¼šx=y=3;t=++x||++y;åï¼Œyçš„å€¼ä¸º()ã€‚
+A.ä¸å®šå€¼
 B.4
 C.3
 D.1
 Answer:C
 
-3357. Éèp1ºÍp2ÊÇÖ¸ÏòÍ¬Ò»¸öintĞÍÒ»Î¬Êı×éµÄÖ¸Õë±äÁ¿,kÎªintĞÍ±äÁ¿,Ôò²»ÄÜÕıÈ·Ö´ĞĞµÄÓï¾äÊÇ£¨£©¡£
+3357. è®¾p1å’Œp2æ˜¯æŒ‡å‘åŒä¸€ä¸ªintå‹ä¸€ç»´æ•°ç»„çš„æŒ‡é’ˆå˜é‡,kä¸ºintå‹å˜é‡,åˆ™ä¸èƒ½æ­£ç¡®æ‰§è¡Œçš„è¯­å¥æ˜¯ï¼ˆï¼‰ã€‚
 A. 
 k=*p1+*p2;
 B.p2=k;
@@ -2413,40 +2413,41 @@ C.p1=p2;
 D.k=*p1 * (*p2);
 Answer:B
 
-3358. ÉèxµÄÖµÎª4£¬Ôò±í´ïÊ½y=(++x)+(++x)+(++x)ºó,yµÄÖµÊÇ£¨ £©¡£
+3358. è®¾xçš„å€¼ä¸º4ï¼Œåˆ™è¡¨è¾¾å¼y=(++x)+(++x)+(++x)å,yçš„å€¼æ˜¯ï¼ˆ ï¼‰ã€‚
 A.12
 B.18
 C.16
 D.21
 Answer:D
 
-3359. ÉèÒ»ÕûĞÍ(int)±äÁ¿Õ¼ÓÃ2¸ö×Ö½ÚÔòÏÂÊö¹²ÓÃÌå±äÁ¿xËùÕ¼ÓÃÄÚ´æ×Ö½ÚÊıÎª£¨£©¡£
+3359. è®¾ä¸€æ•´å‹(int)å˜é‡å ç”¨2ä¸ªå­—èŠ‚åˆ™ä¸‹è¿°å…±ç”¨ä½“å˜é‡xæ‰€å ç”¨å†…å­˜å­—èŠ‚æ•°ä¸ºï¼ˆï¼‰ã€‚
 union exp
 { int i;
 float j;
 double k;
 }x;
-A.14¸ö
-B.7¸ö
-C.8¸ö
-D.  Ëæ»ú¶ø¶¨
+A.14ä¸ª
+B.7ä¸ª
+
+C.8ä¸ª
+D.  éšæœºè€Œå®š
 Answer:C
 
-3360. ÉèÓĞÈçÏÂ³ÌĞò:
+3360. è®¾æœ‰å¦‚ä¸‹ç¨‹åº:
 #include<stdio.h>
 main()
 { int **k, *j, i=100;
 j=&amp;i; k=&amp;j;
 printf("%d\n", **k);
 }
-ÉÏÃæ³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨£©¡£
-A.ÔËĞĞ´íÎó
+ä¸Šé¢ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
+A.è¿è¡Œé”™è¯¯
 B.100
-C.iµÄµØÖ·
-D.jµÄµØÖ·
+C.içš„åœ°å€
+D.jçš„åœ°å€
 Answer:B
 
-3361. Èôint x;ÇÒÓĞÏÂÃæµÄ³ÌĞòÆ¬¶Ï£¬ÔòÊä³ö½á¹ûÊÇ£¨£© ¡£
+3361. è‹¥int x;ä¸”æœ‰ä¸‹é¢çš„ç¨‹åºç‰‡æ–­ï¼Œåˆ™è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ ã€‚
 for (x=3; x<6; x++)
 {
 printf((x%2) ? "##%d" : "**%d\n", x);
@@ -2463,133 +2464,133 @@ D.##3**4
 ##5
 Answer:D
 
-3362. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡main()
-¡¡¡¡{ int x=011;
-¡¡¡¡printf("%d\n",++x);
-¡¡¡¡}
-¡¡¡¡³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+3362. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€main()
+ã€€ã€€{ int x=011;
+ã€€ã€€printf("%d\n",++x);
+ã€€ã€€}
+ã€€ã€€ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.12
 B.11
 C.10
 D.9
 Answer:C
 
-3363. ÓĞÒÔÏÂ³ÌĞò
+3363. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 Main()
 {int a=1,b=0;
  if(--a)   b++;
  else if(a==0) b+=2;
  else b+=3;
- printf(¡°%d\n¡±,b);
+ printf(â€œ%d\nâ€,b);
 }
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.0
 B.1
 C.2
 D.3
 Answer:C
 
-3364. ÓĞÒÔÏÂ³ÌĞò¶Î
-¡¡¡¡int i,n;
-¡¡¡¡for(i=0;i<8;i++)
-¡¡¡¡{ n=rand()%5;
-¡¡¡¡switch (n)
-¡¡¡¡{ case 1:
-¡¡¡¡case 3:printf("%d\n",n); break;
-¡¡¡¡case 2:
-¡¡¡¡case 4:printf("%d\n",n); continue;
-¡¡¡¡case 0:exit(0);
-¡¡¡¡}
-¡¡¡¡printf("%d\n",n);
-¡¡¡¡}
-ÒÔÏÂ¹ØÓÚ³ÌĞò¶ÎÖ´ĞĞÇé¿öµÄĞğÊö£¬ÕıÈ·µÄÊÇ£¨    £©¡£
-A.forÑ­»·Óï¾ä¹Ì¶¨Ö´ĞĞ8´Î  
-B.µ±²úÉúµÄËæ»úÊınÎª4Ê±½áÊøÑ­»·²Ù×÷
-C.µ±²úÉúµÄËæ»úÊınÎª1ºÍ2Ê±²»×öÈÎºÎ²Ù×÷
-D.µ±²úÉúµÄËæ»úÊınÎª0Ê±½áÊø³ÌĞòÔËĞĞ
+3364. æœ‰ä»¥ä¸‹ç¨‹åºæ®µ
+ã€€ã€€int i,n;
+ã€€ã€€for(i=0;i<8;i++)
+ã€€ã€€{ n=rand()%5;
+ã€€ã€€switch (n)
+ã€€ã€€{ case 1:
+ã€€ã€€case 3:printf("%d\n",n); break;
+ã€€ã€€case 2:
+ã€€ã€€case 4:printf("%d\n",n); continue;
+ã€€ã€€case 0:exit(0);
+ã€€ã€€}
+ã€€ã€€printf("%d\n",n);
+ã€€ã€€}
+ä»¥ä¸‹å…³äºç¨‹åºæ®µæ‰§è¡Œæƒ…å†µçš„å™è¿°ï¼Œæ­£ç¡®çš„æ˜¯ï¼ˆ    ï¼‰ã€‚
+A.forå¾ªç¯è¯­å¥å›ºå®šæ‰§è¡Œ8æ¬¡  
+B.å½“äº§ç”Ÿçš„éšæœºæ•°nä¸º4æ—¶ç»“æŸå¾ªç¯æ“ä½œ
+C.å½“äº§ç”Ÿçš„éšæœºæ•°nä¸º1å’Œ2æ—¶ä¸åšä»»ä½•æ“ä½œ
+D.å½“äº§ç”Ÿçš„éšæœºæ•°nä¸º0æ—¶ç»“æŸç¨‹åºè¿è¡Œ
 Answer:D
 
-3365. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡main()
-¡¡¡¡{ char s[]="012xy\08s34f4w2";
-¡¡¡¡int i,n=0;
-¡¡¡¡for(i=0;s[i]!=0;i++)
-¡¡¡¡if(s[i]>='0'&&s[i]<='9') n++;
-¡¡¡¡printf("%d\n",n);
-¡¡¡¡}
-¡¡¡¡³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨   £©¡£
+3365. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€main()
+ã€€ã€€{ char s[]="012xy\08s34f4w2";
+ã€€ã€€int i,n=0;
+ã€€ã€€for(i=0;s[i]!=0;i++)
+ã€€ã€€if(s[i]>='0'&&s[i]<='9') n++;
+ã€€ã€€printf("%d\n",n);
+ã€€ã€€}
+ã€€ã€€ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ   ï¼‰ã€‚
 A.0
 B.3
 C.7
 D.8
 Answer:B
 
-3366. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡main()
-¡¡¡¡{ char b,c; int i;
-¡¡¡¡b='a'; c='A';
-¡¡¡¡for(i=0;i<6;i++)
-¡¡¡¡{ if(i%2) putchar(i+b);
-¡¡¡¡else putchar(i+c);
-¡¡¡¡} printf("\n");
-¡¡¡¡}
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+3366. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€main()
+ã€€ã€€{ char b,c; int i;
+ã€€ã€€b='a'; c='A';
+ã€€ã€€for(i=0;i<6;i++)
+ã€€ã€€{ if(i%2) putchar(i+b);
+ã€€ã€€else putchar(i+c);
+ã€€ã€€} printf("\n");
+ã€€ã€€}
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.ABCDEF 
 B.AbCdEf 
 C.aBcDeF  
 D.abcdef
 Answer:B
 
-3367. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡main()
-¡¡¡¡{ int x=1,y=0;
-¡¡¡¡if(!x) y++;
-¡¡¡¡else if(x==0)
-¡¡¡¡if (x) y+=2;
-¡¡¡¡else y+=3;
-¡¡¡¡printf("%d\n",y);
-¡¡¡¡}
-¡¡¡¡³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3367. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€main()
+ã€€ã€€{ int x=1,y=0;
+ã€€ã€€if(!x) y++;
+ã€€ã€€else if(x==0)
+ã€€ã€€if (x) y+=2;
+ã€€ã€€else y+=3;
+ã€€ã€€printf("%d\n",y);
+ã€€ã€€}
+ã€€ã€€ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.3
 B.2
 C.1
 D.0
 Answer:D
 
-3368. ÒÔÏÂº¯ÊıµÄ¹¦ÄÜÊÇ£ºÍ¨¹ı¼üÅÌÊäÈëÊı¾İ£¬ÎªÊı×éÖĞµÄËùÓĞÔªËØ¸³Öµ¡£
-¡¡¡¡#include <stdio.h>
-¡¡¡¡#define N 10
-¡¡¡¡void fun(int x[N])
-¡¡¡¡{ int i=0;
-¡¡¡¡  while (i<N)
+3368. ä»¥ä¸‹å‡½æ•°çš„åŠŸèƒ½æ˜¯ï¼šé€šè¿‡é”®ç›˜è¾“å…¥æ•°æ®ï¼Œä¸ºæ•°ç»„ä¸­çš„æ‰€æœ‰å…ƒç´ èµ‹å€¼ã€‚
+ã€€ã€€#include <stdio.h>
+ã€€ã€€#define N 10
+ã€€ã€€void fun(int x[N])
+ã€€ã€€{ int i=0;
+ã€€ã€€  while (i<N)
         scanf("%d",______);
-¡¡¡¡}
-¡¡¡¡ÔÚ³ÌĞòÖĞÏÂ»®Ïß´¦Ó¦ÌîÈëµÄÊÇ£¨    £©¡£
+ã€€ã€€}
+ã€€ã€€åœ¨ç¨‹åºä¸­ä¸‹åˆ’çº¿å¤„åº”å¡«å…¥çš„æ˜¯ï¼ˆ    ï¼‰ã€‚
 A.x+i   
-B.  &x[i+1]¡¡
-C.¡¡x+(i++)    
+B.  &x[i+1]ã€€
+C.ã€€x+(i++)    
 D.  &x[++i]
 Answer:C
 
-3369. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡main()
-¡¡¡¡{ char a[30],b[30];
-¡¡¡¡scanf("%s",a);
-¡¡¡¡gets(b);
-¡¡¡¡printf("%s\n %s\n",a,b);
-¡¡¡¡}
-¡¡¡¡³ÌĞòÔËĞĞÊ±ÈôÊäÈë£º
-¡¡¡¡how are you? I am fine<»Ø³µ>
-¡¡¡¡ÔòÊä³ö½á¹ûÊÇ£¨£©¡£
+3369. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€main()
+ã€€ã€€{ char a[30],b[30];
+ã€€ã€€scanf("%s",a);
+ã€€ã€€gets(b);
+ã€€ã€€printf("%s\n %s\n",a,b);
+ã€€ã€€}
+ã€€ã€€ç¨‹åºè¿è¡Œæ—¶è‹¥è¾“å…¥ï¼š
+ã€€ã€€how are you? I am fine<å›è½¦>
+ã€€ã€€åˆ™è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.how are you?    
-B.how¡¡
+B.howã€€
 are you? I am fine  
 C.how are you? I am fine 
 D.how 
@@ -2597,299 +2598,299 @@ are
 you?
 Answer:B
 
-3370. ÉèÓĞÈçÏÂº¯Êı¶¨Òå
-¡¡¡¡int fun(int k)
-¡¡¡¡{ if (k<1) return 0;
-¡¡¡¡else if(k==1) return 1;
-¡¡¡¡else return fun(k-1)+1;
-¡¡¡¡}
-¡¡¡¡ÈôÖ´ĞĞµ÷ÓÃÓï¾ä£ºn=fun(3);£¬Ôòº¯Êıfun×Ü¹²±»µ÷ÓÃµÄ´ÎÊıÊÇ£¨   £©¡£
+3370. è®¾æœ‰å¦‚ä¸‹å‡½æ•°å®šä¹‰
+ã€€ã€€int fun(int k)
+ã€€ã€€{ if (k<1) return 0;
+ã€€ã€€else if(k==1) return 1;
+ã€€ã€€else return fun(k-1)+1;
+ã€€ã€€}
+ã€€ã€€è‹¥æ‰§è¡Œè°ƒç”¨è¯­å¥ï¼šn=fun(3);ï¼Œåˆ™å‡½æ•°funæ€»å…±è¢«è°ƒç”¨çš„æ¬¡æ•°æ˜¯ï¼ˆ   ï¼‰ã€‚
 A.2
 B.3
 C.4
 D.5
 Answer:B
 
-3371. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡int fun (int x,int y)
-¡¡¡¡{ if (x!=y) return ((x+y)/2);
-¡¡¡¡else return (x);
-¡¡¡¡}
-¡¡¡¡main()
-¡¡¡¡{ int a=4,b=5,c=6;
-¡¡¡¡printf("%d\n",fun(2*a,fun(b,c)));
-¡¡¡¡}
-¡¡¡¡³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ £¨£©¡£
+3371. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€int fun (int x,int y)
+ã€€ã€€{ if (x!=y) return ((x+y)/2);
+ã€€ã€€else return (x);
+ã€€ã€€}
+ã€€ã€€main()
+ã€€ã€€{ int a=4,b=5,c=6;
+ã€€ã€€printf("%d\n",fun(2*a,fun(b,c)));
+ã€€ã€€}
+ã€€ã€€ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ ï¼ˆï¼‰ã€‚
 A.3
 B.6
 C.8
 D.12
 Answer:B
 
-3372. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡int fun()
-¡¡¡¡{ static int x=1;
-¡¡¡¡x*=2;
-¡¡¡¡return x;
-¡¡¡¡}
-¡¡¡¡main()
-¡¡¡¡{ int i,s=1;
-¡¡¡¡for(i=1;i<=3;i++) s*=fun();
-¡¡¡¡printf("%d\n",s);
-¡¡¡¡}
-¡¡¡¡³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+3372. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€int fun()
+ã€€ã€€{ static int x=1;
+ã€€ã€€x*=2;
+ã€€ã€€return x;
+ã€€ã€€}
+ã€€ã€€main()
+ã€€ã€€{ int i,s=1;
+ã€€ã€€for(i=1;i<=3;i++) s*=fun();
+ã€€ã€€printf("%d\n",s);
+ã€€ã€€}
+ã€€ã€€ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.0
 B.10
 C.30
 D.64
 Answer:D
 
-3373. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡#define S(x) 4*(x)*x+1
-¡¡¡¡main()
-¡¡¡¡{ int k=5,j=2;
-¡¡¡¡printf("%d\n",S(k+j));
-¡¡¡¡}
-¡¡¡¡³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£  ¡¡¡¡
+3373. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€#define S(x) 4*(x)*x+1
+ã€€ã€€main()
+ã€€ã€€{ int k=5,j=2;
+ã€€ã€€printf("%d\n",S(k+j));
+ã€€ã€€}
+ã€€ã€€ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚  ã€€ã€€
 A.197
 B.143
 C.33
 D.28
 Answer:B
 
-3374. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡struct ord
-¡¡¡¡{ int x£¬y;}dt[2]={1,2,3,4};
-¡¡¡¡main()
-¡¡¡¡{
-¡¡¡¡struct ord *p=dt;
-¡¡¡¡printf("%d,",++(p->x)); printf("%d\n",++(p->y));
-¡¡¡¡}
-¡¡¡¡³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£  
+3374. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€struct ord
+ã€€ã€€{ int xï¼Œy;}dt[2]={1,2,3,4};
+ã€€ã€€main()
+ã€€ã€€{
+ã€€ã€€struct ord *p=dt;
+ã€€ã€€printf("%d,",++(p->x)); printf("%d\n",++(p->y));
+ã€€ã€€}
+ã€€ã€€ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚  
 A.1,2    
 B.4,1  
 C. 3,4   
 D.2,3
 Answer:D
 
-3375. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡struct S
-¡¡¡¡{ int a,b;}data[2]={10,100,20,200};
-¡¡¡¡main()
-¡¡¡¡{ struct S p=data[1];
-¡¡¡¡printf("%d\n",++(p.a));
-¡¡¡¡}
-¡¡¡¡³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£  ¡¡¡¡
+3375. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€struct S
+ã€€ã€€{ int a,b;}data[2]={10,100,20,200};
+ã€€ã€€main()
+ã€€ã€€{ struct S p=data[1];
+ã€€ã€€printf("%d\n",++(p.a));
+ã€€ã€€}
+ã€€ã€€ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚  ã€€ã€€
 A.10
 B.11
 C.20
 D.21
 Answer:D
 
-3376. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡main()
-¡¡¡¡{ unsigned char a=8,c;
-¡¡¡¡c=a>>3;
-¡¡¡¡printf("%d\n",c);
-¡¡¡¡}
-¡¡¡¡³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£¡¡¡¡
+3376. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€main()
+ã€€ã€€{ unsigned char a=8,c;
+ã€€ã€€c=a>>3;
+ã€€ã€€printf("%d\n",c);
+ã€€ã€€}
+ã€€ã€€ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚ã€€ã€€
 A.32
 B.16
 C.1
 D.0
 Answer:C
 
-3377. ÏÂ³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£© ¡£
-¡¡¡¡#include <stdio.h>
-¡¡¡¡main()
-¡¡¡¡{ int a;
-¡¡¡¡a=(int)((double)(3/2)+0.5+(int)1.99*2);
-¡¡¡¡printf("%d\n",a);
-¡¡¡¡}
+3377. ä¸‹ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ ã€‚
+ã€€ã€€#include <stdio.h>
+ã€€ã€€main()
+ã€€ã€€{ int a;
+ã€€ã€€a=(int)((double)(3/2)+0.5+(int)1.99*2);
+ã€€ã€€printf("%d\n",a);
+ã€€ã€€}
 A.3
 B.2
 C.0
 D.1
 Answer:A
 
-3378. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡main()
-¡¡¡¡{ int x;
-¡¡¡¡scanf("%d",&x);
-¡¡¡¡if(x>15) printf("%d",x-5);
-¡¡¡¡if(x>10) printf("%d",x);
-¡¡¡¡if(x>5) printf("%d\n",x+5);
-¡¡¡¡}
-¡¡¡¡Èô³ÌĞòÔËĞĞÊ±´Ó¼üÅÌÊäÈë12<»Ø³µ>£¬ÔòÊä³ö½á¹ûÎª(   )¡£
+3378. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€main()
+ã€€ã€€{ int x;
+ã€€ã€€scanf("%d",&x);
+ã€€ã€€if(x>15) printf("%d",x-5);
+ã€€ã€€if(x>10) printf("%d",x);
+ã€€ã€€if(x>5) printf("%d\n",x+5);
+ã€€ã€€}
+ã€€ã€€è‹¥ç¨‹åºè¿è¡Œæ—¶ä»é”®ç›˜è¾“å…¥12<å›è½¦>ï¼Œåˆ™è¾“å‡ºç»“æœä¸º(   )ã€‚
 A.7
 B.1217
 C.12
 D.17
 Answer:B
 
-3379. ÓĞÒÔÏÂ³ÌĞò(ËµÃ÷£º×Ö·û0µÄASCIIÂëÖµÎª48)
-¡¡¡¡#include <stdio.h>
-¡¡¡¡main()
-¡¡¡¡{ char c1,c2;
-¡¡¡¡scanf("%d",&c1);
-¡¡¡¡c2=c1+9;
-¡¡¡¡printf("%c%c\n",c1,c2);
-¡¡¡¡}
-¡¡¡¡Èô³ÌĞòÔËĞĞÊ±´Ó¼üÅÌÊäÈë48<»Ø³µ>£¬ÔòÊä³ö½á¹ûÎª£¨   £©¡£
+3379. æœ‰ä»¥ä¸‹ç¨‹åº(è¯´æ˜ï¼šå­—ç¬¦0çš„ASCIIç å€¼ä¸º48)
+ã€€ã€€#include <stdio.h>
+ã€€ã€€main()
+ã€€ã€€{ char c1,c2;
+ã€€ã€€scanf("%d",&c1);
+ã€€ã€€c2=c1+9;
+ã€€ã€€printf("%c%c\n",c1,c2);
+ã€€ã€€}
+ã€€ã€€è‹¥ç¨‹åºè¿è¡Œæ—¶ä»é”®ç›˜è¾“å…¥48<å›è½¦>ï¼Œåˆ™è¾“å‡ºç»“æœä¸ºï¼ˆ   ï¼‰ã€‚
 A.7
 B.8
 C.9
 D.6
 Answer:C
 
-3380. ÒÔÏÂ³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£© ¡£
-¡¡¡¡#include <stdio.h>
-¡¡¡¡main()
-¡¡¡¡{ int x=10,y=20,t=0;
-¡¡¡¡if(x==y)t=x;x=y;y=t;
-¡¡¡¡printf("%d %d\n",x,y);
-¡¡¡¡}
+3380. ä»¥ä¸‹ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ ã€‚
+ã€€ã€€#include <stdio.h>
+ã€€ã€€main()
+ã€€ã€€{ int x=10,y=20,t=0;
+ã€€ã€€if(x==y)t=x;x=y;y=t;
+ã€€ã€€printf("%d %d\n",x,y);
+ã€€ã€€}
 A.10 0
 B.20 0
 C.10 20
 D.20 10
 Answer:B
 
-3381. ÒÔÏÂ³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
-¡¡¡¡#include <stdio.h>
-¡¡¡¡main()
-¡¡¡¡{ int i,n[5]={0};
-¡¡¡¡for(i=1;i<=4;i++)
-¡¡¡¡{ n[i]=n[i-1]*2+1; printf("%d",n[i]); }
-¡¡¡¡printf("\n");
-¡¡¡¡}
+3381. ä»¥ä¸‹ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
+ã€€ã€€#include <stdio.h>
+ã€€ã€€main()
+ã€€ã€€{ int i,n[5]={0};
+ã€€ã€€for(i=1;i<=4;i++)
+ã€€ã€€{ n[i]=n[i-1]*2+1; printf("%d",n[i]); }
+ã€€ã€€printf("\n");
+ã€€ã€€}
 A.13715
 B.13716
 C.13717
 D.13714
 Answer:A
 
-3382. ÒÔÏÂ³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨   £© ¡£
-¡¡¡¡#include <stdio.h>
-¡¡¡¡#include <string.h>
-¡¡¡¡#include <stdlib.h>
-¡¡¡¡main()
-¡¡¡¡{ char *p; int i;
-¡¡¡¡p=(char *)malloc(sizeof(char)*20);
-¡¡¡¡strcpy(p,"welcome");
-¡¡¡¡for(i=6;i>=0;i--) putchar(*(p+i));
-¡¡¡¡printf("\n-"); free(p);
-¡¡¡¡}
+3382. ä»¥ä¸‹ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ   ï¼‰ ã€‚
+ã€€ã€€#include <stdio.h>
+ã€€ã€€#include <string.h>
+ã€€ã€€#include <stdlib.h>
+ã€€ã€€main()
+ã€€ã€€{ char *p; int i;
+ã€€ã€€p=(char *)malloc(sizeof(char)*20);
+ã€€ã€€strcpy(p,"welcome");
+ã€€ã€€for(i=6;i>=0;i--) putchar(*(p+i));
+ã€€ã€€printf("\n-"); free(p);
+ã€€ã€€}
 A.welcome
 B.ewlcome
 C.wlecome
 D.emoclew
 Answer:D
 
-3383. ÏÂÁĞÌõ¼şÓï¾äÖĞ£¬Êä³ö½á¹ûÓëÆäËûÓï¾ä²»Í¬µÄÊÇ£¨£©¡£
-A.if(a) printf(¡°%d\n¡±,x);   else printf(¡°%d\n¡±,y);
-B.if(a==0) printf(¡°%d\n¡±,y); else printf(¡°%d\n¡±,x);
-C.if(a!=0) printf(¡°%d\n¡±,x); else printf(¡°%d\n¡±,y);
-D.if(a==0) printf(¡°%d\n¡±,x); else printf(¡°%d\n¡±,y);
+3383. ä¸‹åˆ—æ¡ä»¶è¯­å¥ä¸­ï¼Œè¾“å‡ºç»“æœä¸å…¶ä»–è¯­å¥ä¸åŒçš„æ˜¯ï¼ˆï¼‰ã€‚
+A.if(a) printf(â€œ%d\nâ€,x);   else printf(â€œ%d\nâ€,y);
+B.if(a==0) printf(â€œ%d\nâ€,y); else printf(â€œ%d\nâ€,x);
+C.if(a!=0) printf(â€œ%d\nâ€,x); else printf(â€œ%d\nâ€,y);
+D.if(a==0) printf(â€œ%d\nâ€,x); else printf(â€œ%d\nâ€,y);
 Answer:D
 
-3384. ÓĞÒÔÏÂ³ÌĞò
+3384. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 main()
 {int a=7;
 while(a--);
-printf(¡°%d\n¡±,a);
+printf(â€œ%d\nâ€,a);
 }
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ(  )¡£
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯(  )ã€‚
 A.-1
 B.0
 C.1
 D.7
 Answer:A
 
-3385. ÓĞÒÔÏÂ³ÌĞò£¨×¢£º×Ö·ûaµÄASCIIÂëÖµÎª97£©
+3385. æœ‰ä»¥ä¸‹ç¨‹åºï¼ˆæ³¨ï¼šå­—ç¬¦açš„ASCIIç å€¼ä¸º97ï¼‰
 #include <stdio.h>
 main()
-{char *s={¡°abc¡±};
+{char *s={â€œabcâ€};
 do
-{printf(¡°%d¡±,*s%10);++s;}
+{printf(â€œ%dâ€,*s%10);++s;}
 while(*s);
 }
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.abc     
 B.789
 C.7890
 D.979899
 Answer:B
 
-3386. ÓĞÒÔÏÂ³ÌĞò
+3386. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 double f(double x);
 main()
 {double a=0; int i;
  for(i=0;i<30;i+=10) a+=f((double)i);
-printf(¡°%5.0f\n¡±,a);
+printf(â€œ%5.0f\nâ€,a);
 }
 double f(double x)
 {return x*x+1;}
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.503
 B.401
 C.500
 D.1404
 Answer:A
 
-3387. ÓĞÒÔÏÂ³ÌĞò
+3387. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 void fun(int *p)
-{printf(¡°%d\n¡±,p[5]);}
+{printf(â€œ%d\nâ€,p[5]);}
 main()
 {int a[10]={1,2,3,4,5,6,7,8,9,10};
 fun(&a[3]);
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.5
 B.6
 C.8
 D.9
 Answer:D
 
-3388. ÓĞÒÔÏÂº¯Êı
+3388. æœ‰ä»¥ä¸‹å‡½æ•°
 int fun(char *x,char *y)
 { int n=0;
-while((*x==*y)&&*x!=¡¯\0¡¯) {x++;y++;n++;}
+while((*x==*y)&&*x!=â€™\0â€™) {x++;y++;n++;}
 return n;
 }
-º¯ÊıµÄ¹¦ÄÜÊÇ£¨£©¡£
-A.²éÕÒxºÍyËùÖ¸×Ö·û´®ÖĞÊÇ·ñÓĞ¡¯\0¡¯
+å‡½æ•°çš„åŠŸèƒ½æ˜¯ï¼ˆï¼‰ã€‚
+A.æŸ¥æ‰¾xå’Œyæ‰€æŒ‡å­—ç¬¦ä¸²ä¸­æ˜¯å¦æœ‰â€™\0â€™
 
-B.Í³¼ÆxºÍyËùÖ¸×Ö·û´®ÖĞ×îÇ°ÃæÁ¬ĞøÏàÍ¬µÄ×Ö·û¸öÊı
+B.ç»Ÿè®¡xå’Œyæ‰€æŒ‡å­—ç¬¦ä¸²ä¸­æœ€å‰é¢è¿ç»­ç›¸åŒçš„å­—ç¬¦ä¸ªæ•°
 
-C.½«yËùÖ¸×Ö·û´®¸³¸øxËùÖ¸´æ´¢¿Õ¼ä
+C.å°†yæ‰€æŒ‡å­—ç¬¦ä¸²èµ‹ç»™xæ‰€æŒ‡å­˜å‚¨ç©ºé—´
 
-D.Í³¼ÆxºÍyËùÖ¸×Ö·û´®ÖĞÏàÍ¬µÄ×Ö·û¸öÊı
+D.ç»Ÿè®¡xå’Œyæ‰€æŒ‡å­—ç¬¦ä¸²ä¸­ç›¸åŒçš„å­—ç¬¦ä¸ªæ•°
 Answer:B
 
-3389. ÒÔÏÂ³ÌĞòµÄÖ÷º¯ÊıÖĞµ÷ÓÃÁËÔÚÆäÇ°Ãæ¶¨ÒåµÄfunº¯Êı
+3389. ä»¥ä¸‹ç¨‹åºçš„ä¸»å‡½æ•°ä¸­è°ƒç”¨äº†åœ¨å…¶å‰é¢å®šä¹‰çš„funå‡½æ•°
 #include <stdio.h>
 main()
 {double a[15],k;
 k=fun(a);
 }
-ÔòÒÔÏÂÑ¡ÏîÖĞ´íÎóµÄfunº¯ÊıÊ×²¿ÊÇ£¨£©¡£
+åˆ™ä»¥ä¸‹é€‰é¡¹ä¸­é”™è¯¯çš„funå‡½æ•°é¦–éƒ¨æ˜¯ï¼ˆï¼‰ã€‚
 A.double fun(double a[15])        
 B.double fun(double *a)
 C.double fun(double a[])           
 D. double fun(double a)
 Answer:D
 
-3390. ÓĞÒÔÏÂ³ÌĞò
+3390. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 int f(int m)
 {static int n=0;
@@ -2898,30 +2899,30 @@ return n;
 }
 main()
 {int n=0;
-printf(¡°%d,¡±,f(++n));
-printf(¡°%d\n¡±,f(n++));
+printf(â€œ%d,â€,f(++n));
+printf(â€œ%d\nâ€,f(n++));
 }
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.1,2   
 B.1,1       
 C.2,3      
 D.3,3
 Answer:A
 
-3391. ÓĞÒÔÏÂ³ÌĞò
+3391. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 main()
-{char ch[3][5]={¡°AAAA¡±,¡±BBB¡±,¡±CC¡±};
-printf(¡°%s\n¡±,ch[1]);
+{char ch[3][5]={â€œAAAAâ€,â€BBBâ€,â€CCâ€};
+printf(â€œ%s\nâ€,ch[1]);
 }
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.AAAA      
 B.  CC           
 C.BBBCC      
 D. BBB
 Answer:D
 
-3392. ÓĞÒÔÏÂ³ÌĞò
+3392. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 #include <string.h>
 void fun(char *w,int m)
@@ -2930,50 +2931,50 @@ p1=w;p2=w+m-1;
 while(p1<p2){s=*p1;*p1=*p2; *p2=s; p1++; p2--;}
 }
 main()
-{char a[]=¡±123456¡±;
+{char a[]=â€123456â€;
  fun(a,strlen(a));   puts(a);
 }
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ(     )¡£
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯(     )ã€‚
 A.654321      
 B.116611   
 C.161616      
 D.123456
 Answer:A
 
-3393. ÓĞÒÔÏÂ³ÌĞò
+3393. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 main()
 {struct node{int n;struct node *next;} *p;
 struct node x[3]={{2,x+1},{4,x+2},{6,NULL}};
 p=x;
-printf(¡°%d,¡±,p->n);
-printf(¡°%d\n¡±,p->next->n);
+printf(â€œ%d,â€,p->n);
+printf(â€œ%d\nâ€,p->next->n);
 }
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨   £©¡£
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ   ï¼‰ã€‚
 A.2,3       
 B. 2,4      
 C.3,4       
 D.   4,6
 Answer:B
 
-3394. ÓĞÒÔÏÂ³ÌĞò
+3394. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 main()
 {int a=2,b;
-b=a<<2;  printf(¡°%d\n¡±,b);
+b=a<<2;  printf(â€œ%d\nâ€,b);
 }
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨£©¡£
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆï¼‰ã€‚
 A.2
 B.4
 C.6
 D.8
 Answer:D
 
-3395. ÒÔÏÂ³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨   £© ¡£
+3395. ä»¥ä¸‹ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ   ï¼‰ ã€‚
 #include <stdio.h>
 main()
 {int a=37;
-a%=9;   printf(¡°%d\n¡±,a);
+a%=9;   printf(â€œ%d\nâ€,a);
 }
 A.0
 B.1
@@ -2981,12 +2982,12 @@ C.2
 D.3
 Answer:B
 
-3396. ÒÔÏÂ³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨  £© ¡£
+3396. ä»¥ä¸‹ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ  ï¼‰ ã€‚
 #include <stdio.h>
 main()
 {int i,j;
 for(i=6;i>3;i--)  j=i;
-printf(¡°%d%d\n¡±,i,j);
+printf(â€œ%d%d\nâ€,i,j);
 }
 A.2,3
 B.3,3
@@ -2994,15 +2995,15 @@ C.3,4
 D.4,5
 Answer:C
 
-3397. ÒÔÏÂ³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ £¨   £© ¡£
+3397. ä»¥ä¸‹ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ ï¼ˆ   ï¼‰ ã€‚
 #include <stdio.h>
 main()
 {int i,n[]={0,0,0,0,0};
 for(i=1;i<=2;i++)
 {n[i]=n[i-1]*3+1;
-printf(¡°%d¡±,n[i]);
+printf(â€œ%dâ€,n[i]);
 }
-printf(¡°\n¡±);
+printf(â€œ\nâ€);
 }
 A.13
 B.14
@@ -3010,43 +3011,43 @@ C.15
 D.16
 Answer:B
 
-3398. ÒÔÏÂ³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨   £© ¡£
+3398. ä»¥ä¸‹ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ   ï¼‰ ã€‚
 #include <stdio.h>
 void fun(int x)
 {if(x/5>0)  fun(x/5);
- printf(¡°%d¡±,x);
+ printf(â€œ%dâ€,x);
 }
 main()
-{fun(11); printf(¡°\n¡±);}
+{fun(11); printf(â€œ\nâ€);}
 A.211
 B.212
 C.213
 D.214
 Answer:A
 
-3399. ÓĞÒÔÏÂ³ÌĞò
+3399. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 main()
 {int c[3]={0},k,I;
-while((k=getchar())!=¡¯\n¡¯)
-c[k-¡®A¡¯]++;
-for(i=0;i<3;i++)   printf(¡°%d¡±,c[i]);  printf(¡°\n¡±);
+while((k=getchar())!=â€™\nâ€™)
+c[k-â€˜Aâ€™]++;
+for(i=0;i<3;i++)   printf(â€œ%dâ€,c[i]);  printf(â€œ\nâ€);
 }
-Èô³ÌĞòÔËĞĞÊ±´Ó¼üÅÌÊäÈëABCACC<»Ø³µ>£¬ÔòÊä³ö½á¹ûÎª £¨    £© ¡£
+è‹¥ç¨‹åºè¿è¡Œæ—¶ä»é”®ç›˜è¾“å…¥ABCACC<å›è½¦>ï¼Œåˆ™è¾“å‡ºç»“æœä¸º ï¼ˆ    ï¼‰ ã€‚
 A.211
 B.212
 C.213
 D.214
 Answer:C
 
-3400. ÒÔÏÂ³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ £¨   £© ¡£
+3400. ä»¥ä¸‹ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ ï¼ˆ   ï¼‰ ã€‚
 #include  <stdio.h>
 main()
 {int n[2],i,j;
 for(i=0;i<2;i++)   n[i]=0;
 for(i=0;i<2;i++)
 for(j=0;j<2;j++)   n[j]=n[i]+1;
-printf(¡°%d\n¡±,n[1]);
+printf(â€œ%d\nâ€,n[1]);
 }
 A.4
 B.3
@@ -3054,20 +3055,20 @@ C.2
 D.1
 Answer:B
 
-3401. ÓĞÒÔÏÂ³ÌĞò 
+3401. æœ‰ä»¥ä¸‹ç¨‹åº 
 main() 
 {  int  i,s=1; 
 for (i=1;i<50;i++) 
 if(!(i%5)&&!(i%3))  s+=i; 
 printf("%d\n",s);} 
-³ÌĞòµÄÊä³ö½á¹ûÊÇ (    )¡£
+ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ (    )ã€‚
 A.409
 B.277
 C.1
 D.91
 Answer:D
 
-3402. µ±±äÁ¿cµÄÖµ²»Îª2¡¢4¡¢6Ê±,ÖµÒ²Îª"Õæ"µÄ±í´ïÊ½ÊÇ£¨  £©¡£
+3402. å½“å˜é‡cçš„å€¼ä¸ä¸º2ã€4ã€6æ—¶,å€¼ä¹Ÿä¸º"çœŸ"çš„è¡¨è¾¾å¼æ˜¯ï¼ˆ  ï¼‰ã€‚
 A.(c==2)||(c==4)||(c==6)     
 
 B.(c>=2&& c<=6)||(c!=3)||(c!=5)     
@@ -3077,7 +3078,7 @@ C.(c>=2&&c<=6)&&!(c%2)
 D.(c>=2&& c<=6)&&(c%2!=1) 
 Answer:B
 
-3403. ÏÂÁĞ³ÌĞòµÄÊä³ö½á¹ûÊÇ £¨    £©¡£
+3403. ä¸‹åˆ—ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ ï¼ˆ    ï¼‰ã€‚
 #include "stdio.h" 
 main() 
 {  int i,a=0,b=0; 
@@ -3093,18 +3094,18 @@ C.  a=5,b=4
 D. a=5,b=5 
 Answer:B
 
-3404. ÒÑÖª 
+3404. å·²çŸ¥ 
 #int t=0; 
 while (t=1) 
 {...} 
-ÔòÒÔÏÂĞğÊöÕıÈ·µÄÊÇ £¨    £©¡£
-A.Ñ­»·¿ØÖÆ±í´ïÊ½µÄÖµÎª0     
-B.Ñ­»·¿ØÖÆ±í´ïÊ½µÄÖµÎª1     
-C.Ñ­»·¿ØÖÆ±í´ïÊ½²»ºÏ·¨       
-D.ÒÔÉÏËµ·¨¶¼²»¶Ô
+åˆ™ä»¥ä¸‹å™è¿°æ­£ç¡®çš„æ˜¯ ï¼ˆ    ï¼‰ã€‚
+A.å¾ªç¯æ§åˆ¶è¡¨è¾¾å¼çš„å€¼ä¸º0     
+B.å¾ªç¯æ§åˆ¶è¡¨è¾¾å¼çš„å€¼ä¸º1     
+C.å¾ªç¯æ§åˆ¶è¡¨è¾¾å¼ä¸åˆæ³•       
+D.ä»¥ä¸Šè¯´æ³•éƒ½ä¸å¯¹
 Answer:B
 
-3405. ÏÂÃæ³ÌĞòµÄÊä³ö½á¹ûÊÇ £¨   £©¡£
+3405. ä¸‹é¢ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ ï¼ˆ   ï¼‰ã€‚
 main() 
 { int a[10]={1,2,3,4,5,6,7,8,9,10},*p=a; 
   printf("%d\n",*(p+2));} 
@@ -3114,48 +3115,48 @@ C.1
 D.2
 Answer:A
 
-3406. ÓĞÒÔÏÂ³ÌĞò 
+3406. æœ‰ä»¥ä¸‹ç¨‹åº 
 void ss(char *s,char t) 
 {  while(*s) 
-{  if(*s==t)*s=t-¡äa¡ä+¡äA¡ä; 
+{  if(*s==t)*s=t-â€²aâ€²+â€²Aâ€²; 
 s++; } } 
 main() 
-{  char str1[100]="abcddfefdbd",c=¡äd¡ä; 
+{  char str1[100]="abcddfefdbd",c=â€²dâ€²; 
 ss(str1,c); printf("%s\n",str1);} 
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨   £©¡£ 
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ   ï¼‰ã€‚ 
 A.ABCDDEFEDBD          
 B.abcDDfefDbD    
 C. abcAAfefAbA    
 D.Abcddfefdbd 
 Answer:B
 
-3407. ÓĞÒÔÏÂ³ÌĞò 
+3407. æœ‰ä»¥ä¸‹ç¨‹åº 
 #include<string.h> 
 main() 
-{  char p[]={¡äa¡ä, ¡äb¡ä, ¡äc¡ä},q[10]={ ¡äa¡ä, ¡äb¡ä, ¡äc¡ä}; 
+{  char p[]={â€²aâ€², â€²bâ€², â€²câ€²},q[10]={ â€²aâ€², â€²bâ€², â€²câ€²}; 
 printf("%d%d\n",strlen(p),strlen(q));} 
-ÒÔÏÂĞğÊöÖĞÕıÈ·µÄÊÇ £¨   £©¡£
-A.ÔÚ¸øpºÍqÊı×éÖÃ³õÖµÊ±,ÏµÍ³»á×Ô¶¯Ìí¼Ó×Ö·û´®½áÊø·û,¹ÊÊä³öµÄ³¤¶È¶¼Îª3   
-B. ÓÉÓÚpÊı×éÖĞÃ»ÓĞ×Ö·û´®½áÊø·û,³¤¶È²»ÄÜÈ·¶¨,µ«qÊı×éÖĞ×Ö·û´®³¤¶ÈÎª3    
-C.ÓÉÓÚqÊı×éÖĞÃ»ÓĞ×Ö·û´®½áÊø·û,³¤¶È²»ÄÜÈ·¶¨,µ«pÊı×éÖĞ×Ö·û´®³¤¶ÈÎª3   
-D.ÓÉÓÚpºÍqÊı×éÖĞ¶¼Ã»ÓĞ×Ö·û´®½áÊø·û,¹Ê³¤¶È¶¼²»ÄÜÈ·¶¨ 
+ä»¥ä¸‹å™è¿°ä¸­æ­£ç¡®çš„æ˜¯ ï¼ˆ   ï¼‰ã€‚
+A.åœ¨ç»™på’Œqæ•°ç»„ç½®åˆå€¼æ—¶,ç³»ç»Ÿä¼šè‡ªåŠ¨æ·»åŠ å­—ç¬¦ä¸²ç»“æŸç¬¦,æ•…è¾“å‡ºçš„é•¿åº¦éƒ½ä¸º3   
+B. ç”±äºpæ•°ç»„ä¸­æ²¡æœ‰å­—ç¬¦ä¸²ç»“æŸç¬¦,é•¿åº¦ä¸èƒ½ç¡®å®š,ä½†qæ•°ç»„ä¸­å­—ç¬¦ä¸²é•¿åº¦ä¸º3    
+C.ç”±äºqæ•°ç»„ä¸­æ²¡æœ‰å­—ç¬¦ä¸²ç»“æŸç¬¦,é•¿åº¦ä¸èƒ½ç¡®å®š,ä½†pæ•°ç»„ä¸­å­—ç¬¦ä¸²é•¿åº¦ä¸º3   
+D.ç”±äºpå’Œqæ•°ç»„ä¸­éƒ½æ²¡æœ‰å­—ç¬¦ä¸²ç»“æŸç¬¦,æ•…é•¿åº¦éƒ½ä¸èƒ½ç¡®å®š 
 Answer:A
 
-3408. ¶ÔÓÚÏÂÊö³ÌĞò,ÔÚ·½Ê½´®·Ö±ğ²ÉÓÃ"wt"ºÍ"wb"ÔËĞĞÊ±,Á½´ÎÉú³ÉµÄÎÄ¼şTESTµÄ³¤¶È·Ö±ğÊÇ£¨   £©¡£ 
+3408. å¯¹äºä¸‹è¿°ç¨‹åº,åœ¨æ–¹å¼ä¸²åˆ†åˆ«é‡‡ç”¨"wt"å’Œ"wb"è¿è¡Œæ—¶,ä¸¤æ¬¡ç”Ÿæˆçš„æ–‡ä»¶TESTçš„é•¿åº¦åˆ†åˆ«æ˜¯ï¼ˆ   ï¼‰ã€‚ 
 #include<stdio.h> 
 void main() 
 {  FILE *fp=fopen("TEST",); 
-fputc(¡äA¡ä,fp);fputc(¡ä\n¡ä,fp);
-fputc(¡äB¡ä,fp);fputc(¡ä\n¡ä,fp);
-fputc(¡äC¡ä,fp); 
+fputc(â€²Aâ€²,fp);fputc(â€²\nâ€²,fp);
+fputc(â€²Bâ€²,fp);fputc(â€²\nâ€²,fp);
+fputc(â€²Câ€²,fp); 
 fclose(fp); }
-A.7×Ö½Ú¡¢7×Ö½Ú    
-B.7×Ö½Ú¡¢5×Ö½Ú   
-C.5×Ö½Ú¡¢7×Ö½Ú    
-D.5×Ö½Ú¡¢5×Ö½Ú 
+A.7å­—èŠ‚ã€7å­—èŠ‚    
+B.7å­—èŠ‚ã€5å­—èŠ‚   
+C.5å­—èŠ‚ã€7å­—èŠ‚    
+D.5å­—èŠ‚ã€5å­—èŠ‚ 
 Answer:B
 
-3409. ÏÂÃæµÄ³ÌĞò¶ÎÔËĞĞºó,Êä³ö½á¹ûÊÇ £¨¡¡¡¡£©¡£
+3409. ä¸‹é¢çš„ç¨‹åºæ®µè¿è¡Œå,è¾“å‡ºç»“æœæ˜¯ ï¼ˆã€€ã€€ï¼‰ã€‚
 int i,j,x=0; 
 static int a[8][8]; 
 for(i=0;i<3;i++) 
@@ -3165,12 +3166,12 @@ for(i=0;i<8;i++)
     x+=a[i][j]; 
 printf("%d",x); 
 A.9
-B.²»È·¶¨Öµ   
+B.ä¸ç¡®å®šå€¼   
 C.0
 D.18
 Answer:C
 
-3410. ÏÂÁĞ³ÌĞòÖ´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨¡¡¡¡¡¡£©¡£ #include "stdio.h" 
+3410. ä¸‹åˆ—ç¨‹åºæ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆã€€ã€€ã€€ï¼‰ã€‚ #include "stdio.h" 
 void main() 
 {   
  int a=-1,b=1,k; 
@@ -3185,7 +3186,7 @@ C.1,1
 D.0,0
 Answer:A
 
-3411. ÏÂÁĞ³ÌĞòÖ´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨¡¡¡¡¡¡£©¡£ #include "stdio.h" 
+3411. ä¸‹åˆ—ç¨‹åºæ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆã€€ã€€ã€€ï¼‰ã€‚ #include "stdio.h" 
 void main() 
 {  
  int i; 
@@ -3210,7 +3211,7 @@ D.1
 4
 Answer:B
 
-3412. ÒªÊ¹ÏÂÁĞ³ÌĞòµÄÊä³ö½á¹ûÊÇ×Ö·ûA£¬ÔòÏÂ»®Ïß´¦Ó¦Ìî (    ) ¡£
+3412. è¦ä½¿ä¸‹åˆ—ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯å­—ç¬¦Aï¼Œåˆ™ä¸‹åˆ’çº¿å¤„åº”å¡« (    ) ã€‚
    main()
      {
        char x='b';
@@ -3239,7 +3240,7 @@ void main()
     }
       printf("%d",sn);
 }
-³ÌĞòµÄÔËĞĞ½á¹ûÊÇ(      )¡£
+ç¨‹åºçš„è¿è¡Œç»“æœæ˜¯(      )ã€‚
 A.2 4 8
 B.246
 C.2
@@ -3261,7 +3262,7 @@ void main()
 {
       disp("abcdefg");
 }
-³ÌĞòµÄÔËĞĞ½á¹ûÊÇ(      )¡£
+ç¨‹åºçš„è¿è¡Œç»“æœæ˜¯(      )ã€‚
 A.abcdefg    
 B. gfedcba   
 C.  abcd   
@@ -3282,7 +3283,7 @@ int digits(int n)
     {
       printf("%d",digits(824));
     }
-³ÌĞòÔËĞĞ½á¹ûÊÇ (    ) ¡£
+ç¨‹åºè¿è¡Œç»“æœæ˜¯ (    ) ã€‚
 A.8
 B.3
 C.4
@@ -3304,7 +3305,7 @@ void main( )
       }
      printf("%s",s);
    }
- Èç¹ûÊäÈëµÄ×Ö·û´®ÊÇabcd£¬ Ôò³ÌĞòµÄÔËĞĞ½á¹ûÊÇ (     ) ¡£
+ å¦‚æœè¾“å…¥çš„å­—ç¬¦ä¸²æ˜¯abcdï¼Œ åˆ™ç¨‹åºçš„è¿è¡Œç»“æœæ˜¯ (     ) ã€‚
 A.
 a
 b
@@ -3331,7 +3332,7 @@ Answer:C
      {
        printf("%d",streql("abc","Abc"));
      }
- ³ÌĞòµÄÔËĞĞ½á¹ûÊÇ (    ) ¡£
+ ç¨‹åºçš„è¿è¡Œç»“æœæ˜¯ (    ) ã€‚
 A.0
 B.1
 C.2
@@ -3344,7 +3345,7 @@ void  main()
        char str[]="\"stop!\",he said";
        printf(str);
 }
-   ³ÌĞòµÄÔËĞĞ½á¹ûÊÇ (     )¡£
+   ç¨‹åºçš„è¿è¡Œç»“æœæ˜¯ (     )ã€‚
 A.stop!               
 B.  "stop!" 
     
@@ -3352,67 +3353,67 @@ C.  "stop",he said
 D. he said*/
 Answer:C
 
-3419. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡void main()
-¡¡¡¡{ int s;
-¡¡¡¡scanf("%d",&s);
-¡¡¡¡while(s>0)
-¡¡¡¡{ switch(s)
-¡¡¡¡{ case 1:printf("%d",s+5);
-¡¡¡¡case 2:printf("%d",s+4); break;
-¡¡¡¡case 3:printf("%d",s+3);
-¡¡¡¡default:printf("%d",s+1);break;
-¡¡¡¡}
-¡¡¡¡scanf("%d",&s);
-¡¡¡¡}
-¡¡¡¡}
-¡¡¡¡ÔËĞĞÊ±£¬ÈôÊäÈë1 2 3 4 5 0<»Ø³µ>£¬ÔòÊä³ö½á¹ûÊÇ£¨  £©¡£
+3419. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€void main()
+ã€€ã€€{ int s;
+ã€€ã€€scanf("%d",&s);
+ã€€ã€€while(s>0)
+ã€€ã€€{ switch(s)
+ã€€ã€€{ case 1:printf("%d",s+5);
+ã€€ã€€case 2:printf("%d",s+4); break;
+ã€€ã€€case 3:printf("%d",s+3);
+ã€€ã€€default:printf("%d",s+1);break;
+ã€€ã€€}
+ã€€ã€€scanf("%d",&s);
+ã€€ã€€}
+ã€€ã€€}
+ã€€ã€€è¿è¡Œæ—¶ï¼Œè‹¥è¾“å…¥1 2 3 4 5 0<å›è½¦>ï¼Œåˆ™è¾“å‡ºç»“æœæ˜¯ï¼ˆ  ï¼‰ã€‚
 A.6566456
 B.66656
 C.66666
 D.6666656
 Answer:A
 
-3420. ÓĞÒÔÏÂ³ÌĞò(ËµÃ÷£º×ÖÄ¸AµÄASCIIÂëÖµÊÇ65£¬
-¡¡¡¡#include <stdio.h>
-¡¡¡¡void fun(char *s)
-¡¡¡¡{ while(*s)
-¡¡¡¡{ if(*s%2) printf("%c",*s);
-¡¡¡¡s++;
-¡¡¡¡}
-¡¡¡¡}
-¡¡¡¡void  main()
-¡¡¡¡{ char a[]="BYTE";
-¡¡¡¡fun(a); printf("\n");
-¡¡¡¡}
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ £¨    £©¡£
+3420. æœ‰ä»¥ä¸‹ç¨‹åº(è¯´æ˜ï¼šå­—æ¯Açš„ASCIIç å€¼æ˜¯65ï¼Œ
+ã€€ã€€#include <stdio.h>
+ã€€ã€€void fun(char *s)
+ã€€ã€€{ while(*s)
+ã€€ã€€{ if(*s%2) printf("%c",*s);
+ã€€ã€€s++;
+ã€€ã€€}
+ã€€ã€€}
+ã€€ã€€void  main()
+ã€€ã€€{ char a[]="BYTE";
+ã€€ã€€fun(a); printf("\n");
+ã€€ã€€}
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ ï¼ˆ    ï¼‰ã€‚
 A.BY   
 B. BT  
 C. YT   
 D. YE
 Answer:D
 
-3421. ÓĞÒÔÏÂ³ÌĞò
-¡¡¡¡#include <stdio.h>
-¡¡¡¡void fun(char *c)
-¡¡¡¡{ while(*c)
-¡¡¡¡{ if(*c>='a'&&*c<='z') *c=*c-('a'-'A');
-¡¡¡¡c++;
-¡¡¡¡}
-¡¡¡¡}
-¡¡¡¡void  main()
-¡¡¡¡{ char s[81];
-¡¡¡¡gets(s); fun(s); puts(s)£º
-¡¡¡¡}
-¡¡¡¡µ±Ö´ĞĞ³ÌĞòÊ±´Ó¼üÅÌÉÏÊäÈëHello Beijing<»Ø³µ>£¬Ôò³ÌĞòµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+3421. æœ‰ä»¥ä¸‹ç¨‹åº
+ã€€ã€€#include <stdio.h>
+ã€€ã€€void fun(char *c)
+ã€€ã€€{ while(*c)
+ã€€ã€€{ if(*c>='a'&&*c<='z') *c=*c-('a'-'A');
+ã€€ã€€c++;
+ã€€ã€€}
+ã€€ã€€}
+ã€€ã€€void  main()
+ã€€ã€€{ char s[81];
+ã€€ã€€gets(s); fun(s); puts(s)ï¼š
+ã€€ã€€}
+ã€€ã€€å½“æ‰§è¡Œç¨‹åºæ—¶ä»é”®ç›˜ä¸Šè¾“å…¥Hello Beijing<å›è½¦>ï¼Œåˆ™ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.hello beijing   
 B. Hello Beijing    
 C.HELLO BEIJING   
 D. hELLO Beijing
 Answer:C
 
-3422. ÓĞÒÔÏÂ³ÌĞò
+3422. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
   void main()
   {
@@ -3420,14 +3421,14 @@ Answer:C
     p=a;
     printf("%d\n",*(*(p+2)+1));
    }
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ £¨    £©¡£ ¡¡
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ ï¼ˆ    ï¼‰ã€‚ ã€€
 A.10
 B.20
 C.40
 D.60
 Answer:D
 
-3423. ÓĞÒÔÏÂ³ÌĞò
+3423. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
   void main()
   {
@@ -3440,15 +3441,15 @@ Answer:D
    {
      int x=0;
      return (x+=k);
-    }¡¡¡¡
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ £¨    £©¡£ ¡¡
+    }ã€€ã€€
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ ï¼ˆ    ï¼‰ã€‚ ã€€
 A.55
 B.45
 C.15
 D.10
 Answer:D
 
-3424. ÓĞÒÔÏÂ³ÌĞò
+3424. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
 void main( )
 { int a[4][5]={1,2,4,-4,5,-9,3,6,-3,2,7,8,4};
@@ -3458,28 +3459,28 @@ i=n/5;
 j=n-i*5-1;
 printf("a[%d][%d]=%d\n", i,j,a[i][j]);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.a[1][3]=6
 B.a[1][3]=-3
 C.a[1][3]=0
-D.²»È·¶¨
+D.ä¸ç¡®å®š
 Answer:B
 
-3425. ÓĞÒÔÏÂ³ÌĞò
+3425. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
 #include  "string.h"
 void main( )
 { char s1[50]={"some string *"},s2[]={"test"};
 printf("%s\n", strcat(s1,s2));
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.some string 
 B.test
 C. some stritest
 D.  some string *test
 Answer:D
 
-3426. ÓĞÒÔÏÂ³ÌĞò
+3426. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
 f(char *s)
 { char *p=s;
@@ -3490,14 +3491,14 @@ return(p-s);
 void main()
 { printf("%d\n",f("ABCDEF"));
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.3
 B.6
 C.8
 D.0
 Answer:B
 
-3427. ÓĞÒÔÏÂ³ÌĞò
+3427. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
 #include "string.h"
 void main( )
@@ -3505,14 +3506,14 @@ void main( )
 strcpy( str + strlen(str)/2, "es she");
 printf("%s\n", str);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.How do you do 
 B. es she 
 C.How are you 
 D. How does she
 Answer:D
 
-3428. ÓĞÒÔÏÂ³ÌĞò
+3428. æœ‰ä»¥ä¸‹ç¨‹åº
 #include<stdio.h>
 int fun()
 {static int x=1;
@@ -3523,14 +3524,14 @@ void main()
 for (i=1;i<=2;i++) s=fun();
 printf("%d\n",s);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.1
 B.2
 C.3
 D.4
 Answer:D
 
-3429. ÓĞÒÔÏÂ³ÌĞò
+3429. æœ‰ä»¥ä¸‹ç¨‹åº
 #include<stdio.h>
 void fun(int *x,int i)
 {*x=*(x+i);}
@@ -3541,14 +3542,14 @@ for(i=0; i<8/2; i++)
 { printf("%d",a[i]);}
 printf("\n");
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.3234
 B.3231
 C.2334
 D.2331
 Answer:A
 
-3430. ÓĞÒÔÏÂ³ÌĞò
+3430. æœ‰ä»¥ä¸‹ç¨‹åº
 #include<stdio.h>
 void main()
 { int b[3] [3]={0,1,2,0,1,2,0,1,2},i,j,t=1;
@@ -3556,14 +3557,14 @@ for(i=0; i<3; i++)
 for(j=i;j<=i;j++) t+=b[i][b[j][i]];
 printf("%d\n",t);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.1
 B.2
 C.3
 D.4
 Answer:D
 
-3431. ÓĞÒÔÏÂ³ÌĞò
+3431. æœ‰ä»¥ä¸‹ç¨‹åº
 #include<stdio.h>
 void fun (char*c,int d)
 {*c=*c+1;d=d+1;
@@ -3573,14 +3574,14 @@ void main()
 {char b='a',a='A';
 fun(&b,a); printf("%c,%c\n",b,a);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.b,B,b,A
 B.b,B,a,A
 C.b,b,a,a
 D.b,b,A,a
 Answer:A
 
-3432. ÓĞÒÔÏÂ³ÌĞò
+3432. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 void fun(int *s)
 { static int j=0;
@@ -3595,14 +3596,14 @@ fun(a);
 for(k=0;k<5;k++)
 printf("%d",a[k]);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.35756
 B.23445
 C.35745
 D.12345
 Answer:C
 
-3433. ÓĞÒÔÏÂ³ÌĞò
+3433. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 fun(int n, int *s)
 { int f1, f2;
@@ -3619,14 +3620,14 @@ void main()
 fun(6, &x);
 printf("%d\n", x);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.9
 B.8
 C.7
 D.6
 Answer:B 
 
-3434. ÓĞÒÔÏÂ³ÌĞò
+3434. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 int w=3;
 void main()
@@ -3637,14 +3638,14 @@ fun(int k)
 { if(k==0) return(w);
 return(fun(k-1)*k);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.360
 B.3600
 C.1080
 D.2100
 Answer:B
 
-3435. ÓĞÒÔÏÂ³ÌĞò
+3435. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 void num()
 { extern int x,y;
@@ -3660,14 +3661,14 @@ y=a+b;
 num();
 printf("%d,%d\n",x,y);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
-A.12£¬2 
-B. 5£¬25 
-C. 1£¬12 
-D.Êä³ö²»È·¶¨
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
+A.12ï¼Œ2 
+B. 5ï¼Œ25 
+C. 1ï¼Œ12 
+D.è¾“å‡ºä¸ç¡®å®š
 Answer:B
 
-3436. ÓĞÒÔÏÂ³ÌĞò
+3436. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 void main()
 { int a[]={1,2,3,4,5,6};
@@ -3680,14 +3681,14 @@ printf("%d ",*(p--));
 p+=3;
 printf("%d %d ",*p,*(a+3)); 
 } 
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.1 2 3 3 5 4 
 B.1 2 3 4 5 6 
 C.1 2 2 3 4 5 
 D.1 2 3 4 4 5
 Answer:A
 
-3437. ÓĞÒÔÏÂ³ÌĞò
+3437. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 void main ( )
 { int a[]={1, 2, 3, 4, 5} ;
@@ -3697,14 +3698,14 @@ x=*(p+2);
 y=*(p+4);
 printf("%d,%d,%d\n", *p, x, y);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.1,3,5 
 B.1,2,3 
 C.1,2,4 
 D.1,4,5
 Answer:A
 
-3438. ÓĞÒÔÏÂ³ÌĞò
+3438. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 void ive(x,n)
 int x[],n;
@@ -3725,7 +3726,7 @@ printf("%d ",a[i]);
 printf("\n");
 } 
 
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.1 2 3 4 5 6 7 8 9 0 
 
 
@@ -3735,7 +3736,7 @@ C.1 3 5 7 9 2 4 6 8 0
 D.0 8 6 4 2 9 7 5 3 1
 Answer:B
 
-3439. ÓĞÒÔÏÂ³ÌĞò
+3439. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 void main( )
 { int a=1,*p,**pp;
@@ -3744,14 +3745,14 @@ p=&a;
 a++;
 printf ("%d,%d,%d\n", a,*p, **pp);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.2,1,1
 B.2,1,2
 C.2,2,2
 D.1,1,1
 Answer:C
 
-3440. ÓĞÒÔÏÂ³ÌĞò
+3440. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 void main()
 { char *alpha[7]={"ABCD","EFGH","IJKL","MNOP","QRST","UVWX","YZ"};
@@ -3762,14 +3763,14 @@ for(i=0;i<4;i++)
 printf("%c",*(p[i]));
 printf("\n");
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.AEIM 
 B. BFJN 
 C.ABCD 
 D. DHLP
 Answer:A
 
-3441. ÓĞÒÔÏÂ³ÌĞò
+3441. æœ‰ä»¥ä¸‹ç¨‹åº
  #include <stdio.h>
     #define FUN1(a,b) a+b
     #define FUN2(a,b) a-b
@@ -3778,14 +3779,14 @@ Answer:A
     {
       printf("%d\n",CAL(FUN1(3,5),FUN2(4,5)));
      }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.29
 B.28
 C.27
 D.30
 Answer:A
 
-3442. ÓĞÒÔÏÂ³ÌĞò
+3442. æœ‰ä»¥ä¸‹ç¨‹åº
 #include<stdio.h>
 void main()
 { 
@@ -3800,14 +3801,14 @@ case 3:printf("%d",*(--p));
 }
 }
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.9911
 B.79911
 C.99999
 D.991113
 Answer:C
 
-3443. ÓĞÒÔÏÂ³ÌĞò
+3443. æœ‰ä»¥ä¸‹ç¨‹åº
 #include<stdio.h>
 # include <string.h>
 char *fun(char *t)
@@ -3821,14 +3822,14 @@ char *str="abcdefgh";
 str=fun(str);
 puts(str);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.efgh
 B.abcd
 C.bcde
 D.cdef
 Answer:A
 
-3444. ÓĞÒÔÏÂ³ÌĞò
+3444. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 #define M 5
 #define N M+M
@@ -3836,14 +3837,14 @@ void main()
 { int k;
 k=N*N*5; printf("%d\n",k);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.50
 B.55
 C.500
 D.550
 Answer:B
 
-3445. ÓĞÒÔÏÂ³ÌĞò
+3445. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 struct tt
 {int x;struct tt *y;} *p;
@@ -3855,14 +3856,14 @@ p=a;
 for(i=1;i<=2;i++) 
 {printf("%d,",p->x); p=p->y;}
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.20,15,
 B.20,14,
 C.28,13,
 D.15,20,
 Answer:A
 
-3446. ÓĞÒÔÏÂ³ÌĞò
+3446. æœ‰ä»¥ä¸‹ç¨‹åº
 #include <stdio.h>
 void fun(char *s)
 {  while(*s)
@@ -3876,14 +3877,14 @@ char a[]={"good"};
 fun(a); 
 printf("\n");
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.a
 B.b
 C.c
 D.d
 Answer:D
 
-3447. ÓĞÒÔÏÂ³ÌĞò
+3447. æœ‰ä»¥ä¸‹ç¨‹åº
 #include "stdio.h"
 void main()
 { union 
@@ -3895,14 +3896,14 @@ s->i[0]=0x39;
 s->i[1]=0x38;
 printf("%c\n",s->c[0]);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.39
 B.9
 C.38
 D.8
 Answer:B
 
-3448. ÓĞÒÔÏÂ³ÌĞò
+3448. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
 void main( )
 { int n[3][3], i, j;
@@ -3914,14 +3915,14 @@ for(j=0;j<2;j++ )
 n[i+1][j+1]+=n[i][j];
 printf("%d\n", n[i][j]);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.10
 B.8
 C.6
 D.4
 Answer:C
 
-3449. ÓĞÒÔÏÂ³ÌĞò
+3449. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
 #include <math.h>
 void main()
@@ -3938,14 +3939,14 @@ else break;
 }
 printf("%f\n",y);
 } 
-Í¨¹ı¼üÅÌÊäÈë3.6,2.4,Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+é€šè¿‡é”®ç›˜è¾“å…¥3.6,2.4,æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.1.5
 B.1.6
 C.2
 D.2.4
 Answer:B
 
-3450. ÓĞÒÔÏÂ³ÌĞò
+3450. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
 void main( )
 { int i,k,a[10],p[3];
@@ -3958,14 +3959,14 @@ for(i=0;i<3;i++)
 k+=p[i]*2;
 printf("%d\n",k);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.20
 B.21
 C.22
 D.23
 Answer:B
 
-3451. ÓĞÒÔÏÂ³ÌĞò
+3451. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
 void main()
 { int c;
@@ -3979,14 +3980,14 @@ default: putchar(c+2);break;
 }
 printf("\n");
 }
-Í¨¹ı¼üÅÌÊäÈë446755£¬Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+é€šè¿‡é”®ç›˜è¾“å…¥446755ï¼Œæ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.888988
 B.668966
 C.88898787
 D.66898787
 Answer:C
 
-3452. ÓĞÒÔÏÂ³ÌĞò
+3452. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
 void  main()
 { int x=1,y=0,a=0,b=0;
@@ -3999,14 +4000,14 @@ case 2: a++;b++;break;
 }
 printf("a=%d,b=%d\n",a,b);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.a=2,b=1 
 B.a=1,b=1 
 C.a=1,b=0
 D.a=2,b=2
 Answer:A
 
-3453. ÓĞÒÔÏÂ³ÌĞò
+3453. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
 void main()
 { int a=0,b=1,c=0,d=20;
@@ -4016,43 +4017,43 @@ if(!c) d=1;
 else d=25;
 printf("d=%d\n",d);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.d=10
 B.d=15
 C.d=20
 D.d=25
 Answer:C
 
-3454. ÓĞÒÔÏÂ³ÌĞò
+3454. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
 void main()
 { char s[12]= "a book";
 printf("%.4s",s);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.a book! 
-B.a book![ËÄ¸ö¿Õ¸ñ]
+B.a book![å››ä¸ªç©ºæ ¼]
 
 C.a bo 
-D.¸ñÊ½ÃèÊö´íÎó£¬Êä³ö²»È·¶¨
+D.æ ¼å¼æè¿°é”™è¯¯ï¼Œè¾“å‡ºä¸ç¡®å®š
 
 Answer:C
 
-3455. ÓĞÒÔÏÂ³ÌĞò
+3455. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
 void main()
 { int a=111;
 a=a^00;
 printf("%d,%o\n",a,a);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.111,157
 B.  0,0 
 C. 20,24 
 D. 7,7
 Answer:A
 
-3456. ÓĞÒÔÏÂ³ÌĞò
+3456. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
 void main()
 { int a=1;
@@ -4060,27 +4061,27 @@ char c='a';
 float f=2.0;
 printf("%d\n",(!(a==0),f!=0&&c=='A'));
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.3
 B.2
 C.1
 D.0
 Answer:D
 
-3457. ÓĞÒÔÏÂ³ÌĞò
+3457. æœ‰ä»¥ä¸‹ç¨‹åº
 #include  "stdio.h"
  void main()
 { int x=0x02ff,y=0x0ff00;
 printf("%d\n",(x&y)>>4|0x005f);
 }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.127
 B.255
 C.128
 D.1
 Answer:A 
 
-3458. ÓĞÒÔÏÂ³ÌĞò
+3458. æœ‰ä»¥ä¸‹ç¨‹åº
     #include  "stdio.h"
     void main()
     { int  a=1, b=3, c=5;
@@ -4088,14 +4089,14 @@ Answer:A
      *p =*p1*(*p2);
      printf("%d\n",c);
     }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.1
 B.2
 C.3
 D.4
 Answer:C
 
-3459. ÓĞÒÔÏÂ³ÌĞò
+3459. æœ‰ä»¥ä¸‹ç¨‹åº
     fun(int  x)
     { int  p;
      if(x==0||x==1) return(3);
@@ -4104,45 +4105,45 @@ Answer:C
     }
     main()
     { printf("%d\n",fun(7)); }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨   £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ   ï¼‰ã€‚
 A.7
 B.3
 C.2
 D.0
 Answer:C
 
-3460. ÓĞÒÔÏÂ³ÌĞò
-#include   ¡°stdio.h¡±
+3460. æœ‰ä»¥ä¸‹ç¨‹åº
+#include   â€œstdio.hâ€
     fun(int  x, int  y){ return (x+y); }
     void main()
     { int  a=1, b=2, c=3, sum;
      sum=fun((a++,b++,a+b),c++);
      printf("%d\n",sum);
     }
-Ö´ĞĞºóµÄÊä³ö½á¹ûÊÇ£¨    £©¡£
+æ‰§è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.6
 B.7
 C.8
 D.9
 Answer:C
 
-3461. ÓĞÒÔÏÂ³ÌĞò
-#include   ¡°stdio.h¡±
+3461. æœ‰ä»¥ä¸‹ç¨‹åº
+#include   â€œstdio.hâ€
     void  main()
     { int  x, y, z;
      x=y=1;
       z=x++,y++,++y;
       printf("%d,%d,%d\n",x,y,z);
     }
-³ÌĞòÔËĞĞºóµÄÊä³ö½á¹ûÊÇ£¨   £©¡£
+ç¨‹åºè¿è¡Œåçš„è¾“å‡ºç»“æœæ˜¯ï¼ˆ   ï¼‰ã€‚
 A.1,2,3
 B.1,3,2
 C.2,3,1
 D.3,1,2
 Answer:C
 
-3462. ÏÂÃæ³ÌĞòµÄÔËĞĞ½á¹ûÊÇ £¨   £©¡£
-    #include   ¡°stdio.h¡±
+3462. ä¸‹é¢ç¨‹åºçš„è¿è¡Œç»“æœæ˜¯ ï¼ˆ   ï¼‰ã€‚
+    #include   â€œstdio.hâ€
     int f(int  a[],int  n)
     { if(n>1)
         return a[0] + f(a+1, n-1);
@@ -4159,7 +4160,7 @@ C.20
 D.22
 Answer:B
 
-3463. ÓĞÒÔÏÂ³ÌĞò£¬ÈôÔËĞĞÊ±´Ó¼üÅÌÊäÈë£º18,11<»Ø³µ>£¬Ôò³ÌĞòµÄÊä³ö½á¹ûÊÇ(    ) ¡£
+3463. æœ‰ä»¥ä¸‹ç¨‹åºï¼Œè‹¥è¿è¡Œæ—¶ä»é”®ç›˜è¾“å…¥ï¼š18,11<å›è½¦>ï¼Œåˆ™ç¨‹åºçš„è¾“å‡ºç»“æœæ˜¯(    ) ã€‚
     main()
     { int  a,b;
        printf("Enter a,b:");   scanf("%d,%d",&a,&b);
@@ -4175,7 +4176,7 @@ C.2  2
 D.3  3
 Answer:A
 
-3464. ÓĞÒÔÏÂ³ÌĞò
+3464. æœ‰ä»¥ä¸‹ç¨‹åº
     #include "stdio.h"
     void change(int k[ ]){ k[0]=k[5]; }
     void main()
@@ -4184,7 +4185,7 @@ Answer:A
      for(n=0; n<5; n++) printf("%d ",x[n]);
      printf("\n");
     }
-³ÌĞòÔËĞĞºóÊä³öµÄ½á¹ûÊÇ£¨    £©¡£
+ç¨‹åºè¿è¡Œåè¾“å‡ºçš„ç»“æœæ˜¯ï¼ˆ    ï¼‰ã€‚
 A.6 7 8 9 10
 B.1 3 5 7 9      
 C.1 2 3 4 5       
